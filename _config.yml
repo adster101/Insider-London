@@ -78,7 +78,6 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-feed
-- jekyll-admin
 exclude:
 - gruntfile.js
 - ".gitignore"
