@@ -16,7 +16,7 @@ description: In the dynamic landscape of environmental sustainability, one compa
 excerpt_separator: "<!--read-->"
 ---
 
-![Sustainable_london](/uploads/Sustain_london.jpg)
+![Sustain_london_resized.jpg](/uploads/Sustain_london_resized.jpg)
 
 In the dynamic landscape of environmental sustainability, one company stands out for its unwavering commitment to green practices and innovative waste management solutions. Insider London is proud to announce its partnership with [Bywaters](https://www.bywaters.co.uk/), a leading force in sustainable waste management based in the heart of London.
 
@@ -30,7 +30,7 @@ At the core of Bywaters' ethos lies a dedication to innovation and technology-dr
 
 #### Cutting-Edge Technologies and Solutions
 
-Bywaters is more than just a recycling company. They are on a mission to lead the UK towards a sustainable future, protecting it for generations to come. Their waste management services are founded on their commitment to improving the environment, while their team of Green Gurus work in partnership with clients to provide sustainability consultancy. 
+Bywaters is more than just a recycling company. They are on a mission to lead the UK towards a sustainable future, protecting it for generations to come. Their waste management services are founded on their commitment to improving the environment, while their team of Green Gurus work in partnership with clients to provide sustainability consultancy.
 
 They work with a range of sectors, including education, healthcare, hospitality, retail and construction. They offer tailored solutions to meet the specific needs and challenges of each industry. They also have partnerships with some of the leading organisations in the UK, such as BNP Paribas Real Estate, Cushman & Wakefield and Roundstone Insurance.
 
