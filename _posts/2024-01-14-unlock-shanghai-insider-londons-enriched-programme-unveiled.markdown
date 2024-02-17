@@ -19,11 +19,14 @@ description: 'Insider London proudly presents an updated and enriched Shanghai P
   of Chinese culture, language, and business dynamics.
 
 '
+excerpt_separator: "<!--read-->"
 ---
 
 ![pexels-ágoston-fung-2227942.jpg](/uploads/pexels-%C3%A1goston-fung-2227942.jpg)
 
 In the heart of China's economic powerhouse, Insider London proudly presents an updated and enriched [Shanghai Programme](https://insiderlondon.com/asia/shanghai/immersive-programme/) for 2024. Much more than a mere study abroad experience, this in-depth immersive journey goes beyond the conventional, allowing students to absorb the diverse facets of Chinese culture, language, and business dynamics.
+
+<!--read-->
 
 #### Embark on a Journey of Experiential Learning
 
@@ -47,7 +50,7 @@ Day trips to ancient water towns like Zhujiajiao and historical sites such as Gu
 
 #### Dine with Locals and Savor Shanghai's Flavours
 
-Our Chinese Table experience is an inspiring opportunity for students to immerse themselves in the heart of Shanghai and foster cross-cultural understanding. By dining with locals, listening to their stories and enjoying traditional meals, students can explore the beauty of different cultures and enrich their own life experiences. Additionally, the Best Food Review activity offers gastronomic adventurers the chance to explore new tastes and articulate their experiences in Mandarin through food reviews, making even the simple act of dining a journey of cultural exploration..
+Our Chinese Table experience is an inspiring opportunity for students to immerse themselves in the heart of Shanghai and foster cross-cultural understanding. By dining with locals, listening to their stories and enjoying traditional meals, students can explore the beauty of different cultures and enrich their own life experiences. Additionally, the Best Food Review activity offers gastronomic adventurers the chance to explore new tastes and articulate their experiences in Mandarin through food reviews, making even the simple act of dining a journey of cultural exploration.
 
 
 *To discover the fantastic opportunities awaiting your group in the Land of the Rising Sun, get in touch now via <a href="mailto:contact@insiderlondon.com">contact@insiderlondon.com</a>. Our Shanghai Programme is not just a study abroad experience; it's an adventure, an exploration, and a profound cultural immersion that will stay with students long after they return home. Unlock Shanghai with Insider London!*
