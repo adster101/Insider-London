@@ -10,11 +10,20 @@ tags:
 - fintech
 - crypto
 - online security
+description: At Insider London, we believe in connecting students with the pulsating
+  heart of industries that shape our digital future. Recently, we had the privilege
+  of hosting a captivating company visit at [Level 39](https://level39.co/), featuring
+  the innovative minds behind [io.finnet](https://www.iofinnet.com). Our special guest,
+  io.finnet's Product Strategy Manager Roshan Daswani, took our students on a journey
+  through his unique career path that led to io.finnet.
+excerpt_separator: "<!--read-->"
 ---
 
 ![io_finnet_visit_small.jpg](/uploads/io_finnet_visit_small.jpg)
 
 At Insider London, we believe in connecting students with the pulsating heart of industries that shape our digital future. Recently, we had the privilege of hosting a captivating company visit at [Level 39](https://level39.co/), featuring the innovative minds behind [io.finnet](https://www.iofinnet.com). Our special guest, io.finnet's Product Strategy Manager Roshan Daswani, took our students on a journey through his unique career path that led to io.finnet.
+
+<!--read-->
 
 #### Understanding io.finnet's Vision
 
