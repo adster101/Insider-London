@@ -13,11 +13,14 @@ description: In the dynamic landscape of environmental sustainability, one compa
   stands out for its unwavering commitment to green practices and innovative waste
   management solutions. Insider London is proud to announce its partnership with Bywaters,
   a leading force in sustainable waste management based in the heart of London.
+excerpt_separator: "<!--read-->"
 ---
 
 ![Sustainable_london](/uploads/Sustain_london.jpg)
 
 In the dynamic landscape of environmental sustainability, one company stands out for its unwavering commitment to green practices and innovative waste management solutions. Insider London is proud to announce its partnership with [Bywaters](https://www.bywaters.co.uk/), a leading force in sustainable waste management based in the heart of London.
+
+<!--read-->
 
 #### Pioneers in Sustainability
 
@@ -31,10 +34,8 @@ Bywaters is more than just a recycling company. They are on a mission to lead th
 
 They work with a range of sectors, including education, healthcare, hospitality, retail and construction. They offer tailored solutions to meet the specific needs and challenges of each industry. They also have partnerships with some of the leading organisations in the UK, such as BNP Paribas Real Estate, Cushman & Wakefield and Roundstone Insurance.
 
-#### Commitment to Outreach and Engagement
+#### Unlocking Insights into Bywaters' Operations
 
-One of the key pillars of Bywaters' approach is its emphasis on education and engagement. Through outreach programmes and educational initiatives, they empower businesses and communities to adopt more sustainable practices and reduce their carbon footprint. Bywaters' commitment to sustainability extends beyond their operations, making them a true catalyst for positive change in the wider community.
+We are delighted to be in partnership with Bywaters and bring you the opportunity to explore their innovative facilities and operations. We understand your passion for sustainability, and we are excited to offer you an exclusive behind-the-scenes look at Bywaters' cutting-edge practices. Our visits are designed to provide you with an unforgettable experience that will help you gain a better understanding of the latest recycling technology and waste management advancements. We hope that you will leave our visit feeling inspired and motivated to make a positive impact on the environment.
 
-In addition to its groundbreaking initiatives, Bywaters is renowned for its dedication to corporate social responsibility. They actively support local charities and community projects, further reinforcing their commitment to creating a better world for future generations.
-
-*Insider London is honoured to partner with Bywaters and shine a spotlight on their exceptional contributions to environmental sustainability. For those interested in joining a [company visit](https://www.insiderlondon.com/london/company-visits/) to Bywaters to gain firsthand insights into Bywaters' cutting-edge practices and learn about the latest advancements in sustainability, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
+*For those interested in joining a [company visit](https://www.insiderlondon.com/london/company-visits/) to Bywaters to gain firsthand insights into Bywaters' cutting-edge practices and learn about the latest advancements in sustainability, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
