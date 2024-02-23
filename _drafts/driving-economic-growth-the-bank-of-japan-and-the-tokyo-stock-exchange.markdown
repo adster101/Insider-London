@@ -49,4 +49,4 @@ The Bank of Japan and the Tokyo Stock Exchange are integral to Japan's economic 
 
 Our bespoke [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/) offers participants an immersive experience in the vibrant business landscape of Tokyo. From corporate visits to the Bank of Japan and the Tokyo Stock Exchange to cultural experiences that showcase the rich history and traditions of Japan, our programme provides a comprehensive understanding of Japan's economic and cultural fabric. 
 
-*Connect with us via (contact@insiderlondon.com)[mailto:contact@insiderlondon.com] and let us tailor an exclusive and authentic package that combines business insights, cultural exploration, and educational experiences in the vibrant city of Tokyo*
+*Connect with us via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) and let us tailor an exclusive and authentic package that combines business insights, cultural exploration, and educational experiences in the vibrant city of Tokyo*
