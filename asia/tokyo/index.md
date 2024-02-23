@@ -34,7 +34,7 @@ Highlights include:
 
 * Nissan – a dynamic corporation with a long history of globalized connections, the world's largest EV manufacturer and a pioneer of intelligent mobility tech. Find out how Nissan stays ahead of the game
 * Tokyo Stock Exchange – Asia's largest Stock Exchange and the third largest in the world with a combined market capitalisation of $5.67 trillion. Find out how it's boldly moving forward into the future of cross-border practices
-* Kirin Holdings - a major player in the global beverage industry, with a rich history dating back to 1907, and committed to delivering high-quality products to consumers around the world
+*
 * Sapporo Factory – Japan's oldest beer and the top-selling Asian beer in the US, Sapporo continues to go from strength to strength, not only through its crisp and refreshing products but through high-profile international acquisitions
 
 * Kao - a leading global company based in Japan that specialises in the chemical and cosmetics industry. Founded in 1882, Kao has a long history of producing high-quality products for consumers around the world 
