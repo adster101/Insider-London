@@ -23,6 +23,8 @@ description: Japan, a nation renowned for its technological innovation, advanced
 excerpt_separator: "<!--read-->"
 ---
 
+![Japan](/uploads/Japan_AdobeStock_626546002.jpg)
+
 Japan, a nation renowned for its technological innovation, advanced infrastructure, and vibrant culture, has been a key player in the global economy. Central to its economic prowess are institutions like the Bank of Japan (BoJ) and the Tokyo Stock Exchange (TSE). We delve into the pivotal roles played by these institutions in shaping Japan's economic landscape, and how our bespoke Tokyo Programme offers an immersive experience in this dynamic environment.
 
 <!--read-->
@@ -38,6 +40,8 @@ The last four years posed unprecedented challenges to the global economy, and Ja
 [The Tokyo Stock Exchange](https://www.jpx.co.jp/english/) (TSE) serves as a critical platform for companies to raise capital and investors to trade securities. The TSE plays a pivotal role in driving economic growth by providing companies with access to capital, facilitating investment, and fostering innovation. The TSE's role in economic recovery cannot be overstated, as it instils confidence in corporate earnings growth and provides attractive valuations for the Japanese stock market as a whole.
 
 The TSE has called on companies to focus on achieving sustainable growth and enhancing corporate value. This strategic imperative is particularly relevant for companies with a price-to-book ratio of below one. By encouraging companies to invest in research and development (R&D) and human capital, the TSE aims to create intellectual property and intangible assets that contribute to sustainable growth.
+
+![pexels-nick-kwan-2614818-tokyo](/uploads/pexels-nick-kwan-2614818.jpg)
 
 #### Insider London's Tokyo Programme: An Immersive Experience
 
