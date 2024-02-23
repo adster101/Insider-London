@@ -47,6 +47,9 @@ Highlights include:
 * **Kao** - a global company that specializes in the chemical and cosmetics industry. Founded in 1882, it produces high-quality products and has made significant contributions to the global consumer goods industry. A visit to Kao offers insights into their research, sustainability initiatives, and contributions.
 * **Kikkoman** -   a top Japanese food and seasoning company, is renowned for its exceptional soy sauce and other food products. Gain insights into traditional Japanese food culture, cutting-edge food processing techniques, and the company's unparalleled global influence.
 
+## Finance Tour
+Embark on a captivating journey through Tokyo's bustling financial district with Insider London's walking tours. Led by knowledgeable guides, these immersive experiences offer a firsthand look at the heart of Japan's economic engine. From iconic skyscrapers to historic trading centres, participants will gain valuable insights into Tokyo's financial landscape and its significance on the world stage
+
 ## Cultural Experiences
 No trip to Japan would be complete without engaging in its ancient culture and rich traditions. Make your trip an unforgettable experience by combining business visits with a cultural experience. We provide exclusive and authentic packages which include flower arranging, tea ceremonies and karate workshops.  We can also organise exchange programmes with some of Asia's most prestigious universities including Waseda University and the University of Tokyo.
 
