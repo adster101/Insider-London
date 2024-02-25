@@ -9,13 +9,15 @@ description: Tokyo is a powerhouse of the global economy.  With a close relation
 nav: asia
 gallery:
 - image: "/uploads/JPX_floor@1024w.jpg"
-  alt: 
+  alt: JPX
 - image: "/assets/images/cities/Tokyo/Picture-2---Tokyo-Car-Automobile-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png.png"
-  alt: 
-- image: "/assets/images/cities/Tokyo/Picture-3---Picture-1---Tokyo-Skyline-Visit-Business-Academic-Corporate-Trip.png.jpg"
-  alt: 
-- image: "/assets/images/cities/Tokyo/Picture-4---Tokyo-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png.png"
-  alt: 
+  alt: 'Car manufacturers Japan '
+- image: "/uploads/JPX2.jpg"
+  alt: JPX trading floor
+- image: "/uploads/IMG-20240223-WA0009.jpg"
+  alt: 'University of Tokyo '
+- image: "/uploads/IMG-20240223-WA0006.jpg"
+  alt: 'Japanese Upper House '
 layout: landing
 ---
 
