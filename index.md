@@ -66,7 +66,7 @@ Our company visits for students and corporate groups showcase some of the world�
 - **Faculty.ai** - an applied AI consultancy and technology company that helps customers transform their business via bespoke AI consultancy and Frontier, the world’s first AI operating system. They have partnered with UCL and Harvard University to publish research on the safe and ethical deployment of AI.
 - **SalaryFits** – an innovative fintech reshaping the future of financial wellness in the workplace. Their innovative approach is not only beneficial for financial institutions but also plays a crucial role in improving the financial well-being of employees
 - **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
-- **Bywaters** - has been at the forefront of driving positive change in environmental practices with a heritage spanning over 70 years. Their comprehensive range of services is geared towards minimising environmental impact and promoting a circular economy. gain firsthand insights into Bywaters' cutting-edge practices and learn about the latest advancements in sustainability.
+- **Bywaters** - has 70+ years of experience in driving positive environmental change. Their services minimize impact and promote a circular economy. Learn about their cutting-edge practices and sustainability advancements
 - **Lottie** - a digital marketplace that connects care seekers via a personalised service to find the best care homes and retirement living communities in the UK. 
 
  
