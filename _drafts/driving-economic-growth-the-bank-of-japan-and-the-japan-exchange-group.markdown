@@ -23,7 +23,7 @@ description: Japan, a nation renowned for its technological innovation, advanced
 excerpt_separator: "<!--read-->"
 ---
 
-![JPX2.jpg](/uploads/JPX2.jpg)
+![JPX_floor@1024w.jpg](/uploads/JPX_floor@1024w.jpg)
 
 Japan, a nation renowned for its technological innovation, advanced infrastructure, and vibrant culture, has been a key player in the global economy. Central to its economic prowess are institutions like the Bank of Japan and the Japan Exchange Group. We delve into the pivotal roles played by these institutions in shaping Japan's economic landscape, and how our bespoke Tokyo Programme offers an immersive experience in this dynamic environment.
 
