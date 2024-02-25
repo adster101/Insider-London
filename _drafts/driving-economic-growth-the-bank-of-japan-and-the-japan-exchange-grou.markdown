@@ -23,7 +23,7 @@ description: Japan, a nation renowned for its technological innovation, advanced
 excerpt_separator: "<!--read-->"
 ---
 
-![JPX_floor@1024w.jpg](/uploads/JPX_floor@1024w.jpg)
+![JPX_floor](/uploads/JPX_floor@800w.jpg)
 
 Japan, a nation renowned for its technological innovation, advanced infrastructure, and vibrant culture, has been a key player in the global economy. Central to its economic prowess are institutions like the Bank of Japan and the Japan Exchange Group. We delve into the pivotal roles played by these institutions in shaping Japan's economic landscape, and how our bespoke Tokyo Programme offers an immersive experience in this dynamic environment.
 
@@ -41,7 +41,7 @@ Despite the unprecedented challenges posed by the global economy in the last fou
 
 The contribution of JPX towards economic recovery is unmatched. It creates confidence in corporate earnings growth and provides attractive valuations for the Japanese stock market. It encourages companies to focus on achieving sustainable growth and enhancing corporate value, especially those with a price-to-book ratio of less than one. JPX aims to create intellectual property and intangible assets by urging companies to invest in research and development and human capital, which will contribute to sustainable growth. The strategic initiative of JPX to promote sustainable growth and corporate value is the need of the hour and will undoubtedly benefit the Japanese economy in the long run.
 
-![pexels-nick-kwan-2614818-tokyo](/uploads/pexels-nick-kwan-2614818.jpg)
+![JPX](/uploads/JPX2@800w.jpg)
 
 #### Insider London's Tokyo Programme: An Immersive Experience
 
