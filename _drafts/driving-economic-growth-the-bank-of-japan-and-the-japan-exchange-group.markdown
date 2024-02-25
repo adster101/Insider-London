@@ -14,12 +14,13 @@ tags:
 - Tokyo visits
 - banking
 - economic recovery
+- japan exchnage group
 description: Japan, a nation renowned for its technological innovation, advanced infrastructure,
   and vibrant culture, has been a key player in the global economy. Central to its
-  economic prowess are institutions like the Bank of Japan (BoJ) and the Tokyo Stock
-  Exchange (TSE). We delve into the pivotal roles played by these institutions in
-  shaping Japan's economic landscape, and how our bespoke Tokyo Programme offers an
-  immersive experience in this dynamic environment.
+  economic prowess are institutions like the Bank of Japan and the Japan Exchange
+  Group. We delve into the pivotal roles played by these institutions in shaping Japan's
+  economic landscape, and how our bespoke Tokyo Programme offers an immersive experience
+  in this dynamic environment.
 excerpt_separator: "<!--read-->"
 ---
 
