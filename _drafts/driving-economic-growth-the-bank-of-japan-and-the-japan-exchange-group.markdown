@@ -42,7 +42,7 @@ Despite the unprecedented challenges posed by the global economy in the last fou
 The contribution of JPX towards economic recovery is unmatched. It creates confidence in corporate earnings growth and provides attractive valuations for the Japanese stock market. It encourages companies to focus on achieving sustainable growth and enhancing corporate value, especially those with a price-to-book ratio of less than one. JPX aims to create intellectual property and intangible assets by urging companies to invest in research and development and human capital, which will contribute to sustainable growth. The strategic initiative of JPX to promote sustainable growth and corporate value is the need of the hour and will undoubtedly benefit the Japanese economy in the long run.
 
 ![JPX](/uploads/JPX2@800w.jpg)
-![JPX2.jpg](/uploads/JPX2.jpg)
+
 #### Insider London's Tokyo Programme: An Immersive Experience
 
 The Bank of Japan and the Japan Exchange Group are integral to Japan's economic growth and stability. Through monetary control, response to crises, and initiatives to enhance corporate value, these institutions play a pivotal role in shaping Japan's economic future. 
