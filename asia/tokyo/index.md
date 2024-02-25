@@ -8,7 +8,7 @@ description: Tokyo is a powerhouse of the global economy.  With a close relation
   economy in the world.
 nav: asia
 gallery:
-- image: "/assets/images/cities/Tokyo/Picture-1---Tokyo-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png"
+- image: "/uploads/JPX_floor@1024w.jpg"
   alt: 
 - image: "/assets/images/cities/Tokyo/Picture-2---Tokyo-Car-Automobile-Manufacturing-Factory-Visit-Business-Academic-Corporate-Trip.png.png"
   alt: 
