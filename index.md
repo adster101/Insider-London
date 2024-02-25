@@ -64,14 +64,13 @@ Our company visits for students and corporate groups showcase some of the world�
 - **Topham Guerin** - a powerhouse agency with an impressive portfolio that speaks volumes about their expertise in the heart of strategic communication. Witness the behind-the-scenes magic and gain insights into the dynamic world of political campaigning.
  
 - **Faculty.ai** - an applied AI consultancy and technology company that helps customers transform their business via bespoke AI consultancy and Frontier, the world’s first AI operating system. They have partnered with UCL and Harvard University to publish research on the safe and ethical deployment of AI.
-- **SalaryFits** – an innovative fintech which is reshaping the future of financial wellness in the workplace. Their innovative approach is not only beneficial for financial institutions but also plays a crucial role in improving the financial well-being of employees
+- **SalaryFits** – an innovative fintech reshaping the future of financial wellness in the workplace. Their innovative approach is not only beneficial for financial institutions but also plays a crucial role in improving the financial well-being of employees
 - **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
-- **CHEM Trust** - a UK-based charity that works to protect human health and the environment from harmful chemicals. Advocates for stronger regulation of chemicals at the UK, EU and global levels and raises awareness of the impacts of chemicals on wildlife and ecosystems, and persistent substances.
+- **Bywaters** - has been at the forefront of driving positive change in environmental practices with a heritage spanning over 70 years. Their comprehensive range of services is geared towards minimising environmental impact and promoting a circular economy. gain firsthand insights into Bywaters' cutting-edge practices and learn about the latest advancements in sustainability.
 - **Lottie** - a digital marketplace that connects care seekers via a personalised service to find the best care homes and retirement living communities in the UK. 
 
  
-
-Insider London’s Company Visits is a unique opportunity for corporate groups and government officials looking for a rare behind-the-scenes experience, as well as for student groups looking to explore real-life thriving business models. Our visits provide an opportunity to make vital contacts and discover key challenges of the modern world in specific industries.
+Insider London's Company Visits offer a unique and unparalleled behind-the-scenes experience for corporate groups, government officials, and student groups alike. Our visits are the perfect way to explore thriving business models and make vital contacts with industry leaders. You'll gain valuable insights into the key challenges facing specific industries in the modern world.
 
 E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from 6-80 people, we will create a bespoke business programme for your precise professional or academic needs.
 
