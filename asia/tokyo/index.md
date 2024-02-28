@@ -14,7 +14,7 @@ gallery:
   alt: 'Car manufacturers Japan '
 - image: "/uploads/JPX2.jpg"
   alt: JPX trading floor
-- image: "/uploads/IMG-20240223-WA0009.jpg"
+- image: "/uploads/uTokyo2@800w.jpg"
   alt: 'University of Tokyo '
 - image: "/uploads/IMG-20240223-WA0006.jpg"
   alt: 'Japanese Upper House '
