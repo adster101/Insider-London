@@ -18,6 +18,8 @@ gallery:
   alt: 'University of Tokyo '
 - image: "/uploads/IMG-20240223-WA0006.jpg"
   alt: 'Japanese Upper House '
+- image: "/uploads/Tokyo_stock_exchange@840w.jpg"
+  alt: Tokyo Stock Exchange
 layout: landing
 ---
 
