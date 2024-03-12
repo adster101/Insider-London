@@ -26,7 +26,6 @@ In the dynamic tapestry of global academia, Japan stands tall as a beacon of exc
 
 <!--read-->
 
-
 #### Tradition Meets Innovation
 
 At the heart of Japan's academic landscape lies a rich tapestry of tradition and innovation. The [University of Tokyo](https://www.u-tokyo.ac.jp/en/), affectionately known as UTokyo, stands as a testament to this ethos. With a legacy spanning over 140 years, the university has consistently ranked among the top universities globally, renowned for its cutting-edge research and innovative teaching methodologies. The [Times World Reputation Ranking](https://www.timeshighereducation.com/world-university-rankings/2023/reputation-ranking) puts UTokyo in the top 10 of world universities "*based on the world’s largest invitation-only opinion survey of senior, published academics*". From robotics to biotechnology, it continues to push the boundaries of knowledge, driving advancements that shape the future of humanity.
