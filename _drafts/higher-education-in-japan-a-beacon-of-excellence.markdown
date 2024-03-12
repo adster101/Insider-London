@@ -21,13 +21,16 @@ description: 'In the dynamic tapestry of global academia, Japan stands tall as a
 
 In the dynamic tapestry of global academia, Japan stands tall as a beacon of excellence, renowned for its esteemed institutions and pioneering research initiatives. As we delve into the realm of higher education in Japan, we uncover the unique factors that have propelled it to the forefront of academic excellence in Asia and beyond.
 
-#### Research Excellence and Innovation
-
-Japan's higher education landscape is synonymous with research excellence and innovation. With a relentless pursuit of knowledge and a culture of curiosity, Japanese universities lead the way in groundbreaking research across diverse fields. From breakthroughs in sustainable technology to advancements in healthcare and beyond, Japanese academia continues to drive progress and shape the future of society.
 
 #### Tradition Meets Innovation
 
 At the heart of Japan's academic landscape lies a rich tapestry of tradition and innovation. The [University of Tokyo](https://www.u-tokyo.ac.jp/en/), affectionately known as UTokyo, stands as a testament to this ethos. With a legacy spanning over 140 years, the university has consistently ranked among the top universities globally, renowned for its cutting-edge research and innovative teaching methodologies. The [Times World Reputation Ranking](https://www.timeshighereducation.com/world-university-rankings/2023/reputation-ranking) puts UTokyo in the top 10 of world universities "*based on the world’s largest invitation-only opinion survey of senior, published academics*". From robotics to biotechnology, it continues to push the boundaries of knowledge, driving advancements that shape the future of humanity.
+
+#### Research Excellence and Innovation
+
+Japan's higher education landscape is synonymous with research excellence and innovation leading the way in groundbreaking research across diverse fields. The Research Center for Advanced Science and Technology (RCAST) at UTokyo, established in 1987, houses more than 40 labs that are organised in a horizontal structure on an equal footing. This structure promotes interdisciplinary collaboration, fostering a conducive environment for groundbreaking research and [innovation](https://www.u-tokyo.ac.jp/en/about/publications/tansei/13/contents.html).
+
+One of the key areas of research at UTokyo is the field of surgery support [robotics](https://www.ioi.t.u-tokyo.ac.jp/en/) and navigation systems. This research aims to enhance the precision and safety of surgical procedures. Another significant area of research is the development of smart materials for early diagnosis and treatment. These materials have the potential to revolutionise healthcare by enabling early detection and intervention of diseases.
 
 #### Embracing Social Welfare
 
