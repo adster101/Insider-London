@@ -9,6 +9,8 @@ tags:
 - Higher Education
 - Student exchange
 - social welfare
+- innovation
+- research
 description: 'In the dynamic tapestry of global academia, Japan stands tall as a beacon
   of excellence, renowned for its esteemed institutions and pioneering research initiatives.
   As we delve into the realm of higher education in Japan, we uncover the unique factors
