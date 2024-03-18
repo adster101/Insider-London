@@ -1,6 +1,17 @@
 ---
 title: 'Unveiling Deliveroo: From London Startup to Global Unicorn'
 date: 2024-03-19 09:26:00 Z
+categories:
+- Business
+- Events
+tags:
+- deliveroo
+- food delivery
+- London
+- unicorns
+- entrepreneurship
+- tech hubs
+- technology
 description: In the vibrant tapestry of London's startup ecosystem, few success stories
   shine as brightly as Deliveroo. Founded in 2013 Deliveroo emerged as a trailblazer
   in the food delivery industry, revolutionising how people dine in the comfort of
