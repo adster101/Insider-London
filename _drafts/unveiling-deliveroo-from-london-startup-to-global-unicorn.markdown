@@ -8,7 +8,7 @@ description: In the vibrant tapestry of London's startup ecosystem, few success 
   offering exclusive company visits to delve into the journey of this remarkable enterprise.
 ---
 
-[deliveroo.webp](/uploads/deliveroo.webp)
+![rowan-freeman-clYlmCaQbzY-unsplash](/uploads/rowan-freeman-clYlmCaQbzY-unsplash.jpg)
 
 In the vibrant tapestry of London's startup ecosystem, few success stories shine as brightly as [Deliveroo](https://deliveroo.co.uk/). Founded in 2013 Deliveroo emerged as a trailblazer in the food delivery industry, revolutionising how people dine in the comfort of their homes. Today, Insider London proudly announces its partnership with Deliveroo, offering exclusive company visits to delve into the journey of this remarkable enterprise.
 
