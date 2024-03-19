@@ -26,6 +26,8 @@ excerpt_separator: "<!--read-->"
 
 In the vibrant tapestry of London's startup ecosystem, few success stories shine as brightly as [Deliveroo](https://deliveroo.co.uk/). Founded in 2013 Deliveroo emerged as a trailblazer in the food delivery industry, revolutionising how people dine in the comfort of their homes. Today, Insider London proudly announces its partnership with Deliveroo, offering exclusive company visits to delve into the journey of this remarkable enterprise.
 
+<!--read-->
+
 #### Deliveroo's Rise in the Startup World
 
 The concept of Deliveroo was born when [Will Shu](https://www.linkedin.com/in/william-s-163bbb11/), a former investment banker, realised that the food delivery options in London were of low quality. He wanted to change this and decided to create a platform that would connect customers with their favourite local restaurants. To achieve this, he teamed up with [Greg Orlowski](https://www.linkedin.com/in/greg-orlowski-705a2152/), a software developer, and together they worked to disrupt the traditional food delivery model by leveraging technology and innovation. They created a user-friendly app that provided customers with a seamless ordering experience while giving restaurants a platform to grow their business.
