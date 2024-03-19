@@ -24,13 +24,13 @@ excerpt_separator: "<!--read-->"
 
 ![rowan-freeman-clYlmCaQbzY-unsplash](/uploads/rowan-freeman-clYlmCaQbzY-unsplash.jpg)
 
-In the vibrant tapestry of London's startup ecosystem, few success stories shine as brightly as [Deliveroo](https://deliveroo.co.uk/). Founded in 2013 Deliveroo emerged as a trailblazer in the food delivery industry, revolutionising how people dine in the comfort of their homes. Today, Insider London proudly announces its partnership with Deliveroo, offering exclusive company visits to delve into the journey of this remarkable enterprise.
+In the vibrant tapestry of London's startup ecosystem, few success stories shine as brightly as [Deliveroo](https://deliveroo.co.uk/). Deliveroo emerged as a trailblazer in the food delivery industry, revolutionising how people dine in the comfort of their homes. Today, Insider London proudly announces its partnership with Deliveroo, offering exclusive company visits to delve into the journey of this remarkable enterprise.
 
 <!--read-->
 
 #### Deliveroo's Rise in the Startup World
 
-The concept of Deliveroo was born when [Will Shu](https://www.linkedin.com/in/william-s-163bbb11/), a former investment banker, realised that the food delivery options in London were of low quality. He wanted to change this and decided to create a platform that would connect customers with their favourite local restaurants. To achieve this, he teamed up with [Greg Orlowski](https://www.linkedin.com/in/greg-orlowski-705a2152/), a software developer, and together they worked to disrupt the traditional food delivery model by leveraging technology and innovation. They created a user-friendly app that provided customers with a seamless ordering experience while giving restaurants a platform to grow their business.
+The concept of Deliveroo was born when [Will Shu](https://www.linkedin.com/in/william-s-163bbb11/), a former investment banker, realised the low-quality food delivery options in London and decided to create a platform connecting customers with their favourite local restaurants. To achieve this, he teamed up with [Greg Orlowski](https://www.linkedin.com/in/greg-orlowski-705a2152/), a software developer, and together they worked to disrupt the traditional food delivery model by leveraging technology and innovation. They created a user-friendly app that provided customers with a seamless ordering experience while giving restaurants a platform to grow their business.
 
 #### Deliveroo's Path to IPO and Public Listing
 
@@ -40,4 +40,4 @@ Deliveroo is a food delivery company known for its efficient logistics and user-
 
 Insider London is proud to partner with Deliveroo, offering a unique opportunity to witness the evolution of this groundbreaking enterprise firsthand. Deliveroo's story exemplifies the transformative power of entrepreneurship and innovation, from its humble beginnings to its current status as a publicly listed company. Join us on this journey with Deliveroo and celebrate the spirit of innovation and exploration. Discover the secrets behind Deliveroo's success and unlock your potential through Insider London's exclusive company visits.
 
-*Experience the incredible journey of Deliveroo and gain unique insights into the future of food delivery. During this visit, you will have the opportunity to explore the strategies and innovations that made Deliveroo a global unicorn from its humble beginnings as a London startup. Join us on this journey of discovery with Insider London and book your [company visit](https://www.insiderlondon.com/london/company-visits/) today. To secure your spot and explore the world of Deliveroo like never before, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
+*Experience the incredible journey of Deliveroo and gain unique insights into the future of food delivery. During this visit, you will have the opportunity to explore the strategies and innovations that made Deliveroo a global unicorn from its humble beginnings as a London startup. Join us on this journey of discovery with Insider London and book your [company visit](https://www.insiderlondon.com/london/company-visits/) today. To secure your spot and explore the world of Deliveroo like never before, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
