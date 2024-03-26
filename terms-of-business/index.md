@@ -1,17 +1,17 @@
 ---
 title: Terms of Business
-date: 2015-05-07 10:43:32 Z
+date: 2015-05-07 10:43:00 Z
 position: 11
 description: Read these Terms and Conditions before booking any Insider London experience
 id: 4194
 author: london75
-layout: page
 guid: "/?page_id=4194"
 slide_template:
 - default
 vc_teaser:
 - a:2:{s:4:"data";s:115:"[{"name":"title","link":"post"},{"name":"image","image":"featured","link":"none"},{"name":"text","mode":"excerpt"}]";s:7:"bgcolor";s:0:"";}
 sitemap: false
+layout: page
 ---
 
 <section class="wpb\_row block vc\_row-fluid">
@@ -194,7 +194,7 @@ sitemap: false
             </p>
 
             <p>
-              5.2 For standard tours for bookings of 1-10 people (all tours listed on the Company’s website, e.g. standard Quirky London, London Underground, Street Art & Graffiti, Cutting-Edge Green, History of Drinking, West End Retail Design, Modern Architecture, Death & Debauchery and Sustainable Architecture routes) – the Companypolicy is as follows:
+              5.2 For standard tours for bookings of 1-10 people (all tours listed on the Company’s website, e.g. standard Quirky London, London Underground, Street Art & Graffiti, Cutting-Edge Green, History of Drinking, West End Retail Design, Modern Architecture, Death & Debauchery and Sustainable Architecture routes) – the Company policy is as follows:
             </p>
 
             <p>
@@ -232,6 +232,9 @@ sitemap: false
             <p>
               5.7 If the Company needs to cancel an experience, the Company will give the Client a full refund for the Services only.
             </p>
+            <p>5.8 All company visits booking require 50% deposit to secure the company visits, the remainder should be paid 30 working days prior to the visit date. The company visits deposits are non refundable once the visits are confirmed, the alternative dates can be offered in the case of travel disruption
+            </p>
+
 
             <h3 class="cufon_headings">
               6. Intellectual Property
