@@ -36,6 +36,6 @@ They work with a range of sectors, including education, healthcare, hospitality,
 
 #### Unlocking Insights into Bywaters' Operations
 
-We are thrilled to announce our partnership with Bywaters. We are offering you an exclusive opportunity to explore their innovative facilities and operations. We aim to provide you with an unforgettable experience that will help you gain a better understanding of the latest recycling technology and waste management advancements. Our visits are designed to inspire and motivate you to make a positive impact on the environment. We hope you will leave the visit feeling inspired and motivated to take action.
+We are thrilled to announce our partnership with Bywaters. We are offering you an exclusive opportunity to explore their innovative facilities and operations. We aim to provide you with an unforgettable experience that will help you gain a better understanding of the latest recycling technology and waste management advancements. Our visits are designed to inspire and motivate you to make a positive impact on the environment.
 
 *For those interested in joining a [company visit](https://www.insiderlondon.com/london/company-visits/) to Bywaters to gain firsthand insights into Bywaters' cutting-edge practices and learn about the latest advancements in sustainability, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
