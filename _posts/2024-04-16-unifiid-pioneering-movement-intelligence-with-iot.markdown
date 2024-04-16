@@ -23,7 +23,7 @@ description: Unifi.id is an innovative company that is revolutionising how we un
 excerpt_separator: "<!--read-->"
 ---
 
-[_20240416_071425~2.JPG](/uploads/_20240416_071425~2.JPG)
+![IMG-20240415-WA0002.jpg](/uploads/IMG-20240415-WA0002.jpg)
 *Paul Sheedy, CEO and founder of Unifi.id*
 
 [Unifi.id](https://www.unifi.id/en/welcome-2/) is an innovative company that is revolutionising how we understand and utilise data in physical spaces. Their mission is to provide seamless data solutions for smarter, more efficient, and more sustainable buildings and cities.  As Insider London proudly partners with Unifi.id, we delve into their innovative technology and its transformative impact on modern buildings.
