@@ -23,7 +23,7 @@ description: Unifi.id is an innovative company that is revolutionising how we un
 excerpt_separator: "<!--read-->"
 ---
 
-[Paul_Sheedy_unifiID]* (/uploads/_20240416_071425.JPG)
+[Paul_Sheedy_unifiID](/uploads/_20240416_071425.JPG)
 <br>
 <small><em>[Paul Sheedy](https://www.linkedin.com/in/paul-sheedy-2786863), CEO and founder of Unifi.id</em></small>
 
