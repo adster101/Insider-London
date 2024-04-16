@@ -1,6 +1,6 @@
 ---
 title: 'Unifi.id: Pioneering Movement Intelligence with IoT'
-date: 2024-04-09 15:26:00 Z
+date: 2024-04-16 15:26:00 Z
 categories:
 - Business
 - Events
