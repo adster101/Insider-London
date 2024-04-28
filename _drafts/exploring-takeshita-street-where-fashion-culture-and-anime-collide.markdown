@@ -38,5 +38,5 @@ Takeshita Street is more than just a shopping street; it's a cultural phenomenon
 
 Insider London invites you to embark on an immersive journey through this iconic destination. Join us on a guided tour of Takeshita Street and discover the magic of this must-visit destination for anyone looking to experience the unique fashion, food, and culture of Harajuku. Whether you’re looking for a new addition to your wardrobe or simply want to indulge in some delicious treats, Takeshita Street has it all Whether you're a seasoned anime fan or simply curious to explore Tokyo's most eclectic neighbourhood, our [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/) offers an unforgettable experience tailored to your interests.
 
-Experience the magic of Takeshita Street and explore its rich tapestry of fashion, culture, and anime with Insider London's Tokyo Programme. Contact us at contact@insiderlondon.com to book your exclusive tour and embark on an unforgettable adventure in the heart of Harajuku.
+Experience the magic of Takeshita Street and explore its rich tapestry of fashion, culture, and anime with Insider London's Tokyo Programme. Contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your exclusive tour and embark on an unforgettable adventure in the heart of Harajuku.
 
