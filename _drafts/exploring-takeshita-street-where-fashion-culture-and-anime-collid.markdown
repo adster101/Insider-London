@@ -3,6 +3,7 @@ title: 'Exploring Takeshita Street: Where Fashion, Culture, and Anime Collide'
 date: 2024-04-30 09:03:00 Z
 categories:
 - Art and Culture
+- Business
 tags:
 - Tokyo
 - Tokyo culture
