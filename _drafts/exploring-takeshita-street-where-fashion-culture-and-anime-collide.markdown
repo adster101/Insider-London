@@ -20,15 +20,13 @@ description: Insider London invites you to embark on an immersive journey throug
 
 ![Harajuku-Takeshita](/uploads/IMG-20240428-WA0000~2.jpg)
 
-#### A Glimpse into Takeshita Street's Vibrant Culture
-
 This week, we're exploring Takeshita Street in Tokyo's Harajuku district. It's a famous spot for its lively mix of fashion, culture, anime, food, and "[kawaii](https://mymodernmet.com/kawaii-art-japanese-culture/)" charm that attracts visitors from all over the world. The history of Takeshita Street dates back to the 1970s when it was a small street lined with traditional Japanese houses. It didn't become popular among young people until the 1990s when affordable and trendy fashion shops started to appear. Nowadays, it's a vibrant and bustling street that encourages creativity and self-expression, drawing in a diverse range of individuals to explore its unique offerings.
 
 #### A Glimpse into Takeshita Street's Vibrant Culture
 
 At the heart of Takeshita Street's allure lies its deep connection to Japanese [anime culture.](https://ourculturemag.com/2021/10/25/the-role-of-anime-in-modern-world-culture-and-its-place-in-peoples-lives/) The street serves as a hub for anime enthusiasts and fashionistas alike, offering a diverse array of anime-themed merchandise, cosplay shops, and themed cafes. As visitors stroll down Takeshita Street, they'll encounter iconic characters from their favourite anime series, showcased in vibrant storefront displays and enticing merchandise.
 
-The relationship between anime and fashion is a long-standing phenomenon, which has gained immense popularity worldwide due to its imaginative storylines and artistic visuals. The interconnectivity between [anime and fashion](https://vogue.sg/influence-of-anime-on-fashion/) is more profound than many realise. One of the most apparent manifestations of this relationship is the practice of cosplay, where fans dress up as their favourite anime characters from head to toe.
+The relationship between anime and fashion is a long-standing phenomenon, which has gained immense popularity worldwide due to its imaginative storylines and artistic visuals. The interconnectivity between anime and [fashion](https://vogue.sg/influence-of-anime-on-fashion/) is more profound than many realise. One of the most apparent manifestations of this relationship is the practice of cosplay, where fans dress up as their favourite anime characters from head to toe.
 
 From high-end designer brands to vintage clothing, Takeshita Street caters to every fashion lover's needs. The street is particularly famous for its [Harajuku fashion](https://japanese-clothing.com/blogs/japanese-clothing-blog/harajuku-fashion), characterised by bright colours, bold patterns, and unique accessories. Visitors can find a variety of styles, from Lolita dresses to punk-inspired fashion, on this street.
 
@@ -47,11 +45,13 @@ Step into the whimsical world of [Dog Cafe Rio](https://rio-corp.jp/shops/haraju
 **Marion Crepes**
 In Japan, crepes have become the rock stars of street food, enjoying a fan base that's been growing since before smartphones could snap. This isn't just a flash-in-the-pan trend sparked by the 'gram; these thin, delightful treats have been stealing hearts for over four decades. Take [Marion Crepes](https://www.happyjappy.com/blog/marion-crepes.htm), for example, a culinary pioneer that's been flipping pancakes since 1976. They took the classic European crepe and gave it a Japanese makeover, stuffing it with vibrant fruits and scoops of ice cream. And forget the formalities of cutlery; these crepes roll up into a handy cone, letting you indulge in a walking dessert adventure as you explore the local boutiques.
 
+![capsule_lab_cropped.jpg](/uploads/capsule_lab_cropped.jpg)
+
 #### Insider London’s Tokyo Programme
 
 Takeshita Street is more than just a shopping street; it's a cultural phenomenon that celebrates the vibrant spirit of Harajuku's fashion, culture, and food. From its diverse array of shops and eateries to its colourful street art and lively atmosphere, Takeshita Street offers a unique glimpse into the dynamic intersection of fashion, culture, and anime in Tokyo.
 
 Insider London invites you to embark on an immersive journey through this iconic destination. Join us on a guided tour of Takeshita Street and discover the magic of this must-visit destination for anyone looking to experience the unique fashion, food, and culture of Harajuku. Whether you’re looking for a new addition to your wardrobe or simply want to indulge in some delicious treats, Takeshita Street has it all Whether you're a seasoned anime fan or simply curious to explore Tokyo's most eclectic neighbourhood, our [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/) offers an unforgettable experience tailored to your interests.
 
-*Experience the magic of Takeshita Street and explore its rich tapestry of fashion, culture, and anime with Insider London's Tokyo Programme. Contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your exclusive tour and embark on an unforgettable adventure in the heart of Harajuku.*
+*Experience the magic of Takeshita Street and explore its rich tapestry of fashion, culture, and anime with Insider London's Tokyo Programme. Contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to book your exclusive tour and embark on an unforgettable adventure in the heart of Tokyo.*
 
