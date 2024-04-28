@@ -42,7 +42,7 @@ In Japan, crepes have become the rock stars of street food, enjoying a fan base 
 
 #### Insider London’s Tokyo Programme
 
-Takeshita Street is more than just a shopping street; it's a cultural phenomenon that celebrates the vibrant spirit of Harajuku's fashion, culture, and anime. From its diverse array of shops and eateries to its colourful street art and lively atmosphere, Takeshita Street offers a unique glimpse into the dynamic intersection of fashion, culture, and anime in Tokyo.
+Takeshita Street is more than just a shopping street; it's a cultural phenomenon that celebrates the vibrant spirit of Harajuku's fashion, culture, and food. From its diverse array of shops and eateries to its colourful street art and lively atmosphere, Takeshita Street offers a unique glimpse into the dynamic intersection of fashion, culture, and anime in Tokyo.
 
 Insider London invites you to embark on an immersive journey through this iconic destination. Join us on a guided tour of Takeshita Street and discover the magic of this must-visit destination for anyone looking to experience the unique fashion, food, and culture of Harajuku. Whether you’re looking for a new addition to your wardrobe or simply want to indulge in some delicious treats, Takeshita Street has it all Whether you're a seasoned anime fan or simply curious to explore Tokyo's most eclectic neighbourhood, our [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/) offers an unforgettable experience tailored to your interests.
 
