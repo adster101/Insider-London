@@ -37,12 +37,15 @@ Takeshita Street also celebrates creativity through its yearly [painting competi
 #### Unique Brands on Takeshita Street
 
 **Capsule Labs**
+
 At [Capcom's Capsule Lab](https://www.capcom.co.jp/amusement/game/shop/capsule/), excitement awaits as visitors select from a range of vending machines, each adorned with beloved comic book heroes. With the drop of a coin, they're guaranteed a surprise toy connected to their chosen character. The charm of Capsule Lab extends beyond the simple transaction; it's a treasure trove of collectables from your cherished anime series. The thrill is in the mystery – you never know which delightful figurine will tumble out next. Collectors might spin again and again, some in pursuit of the full ensemble, others in hopes of finding that one special character they adore.
 
 **Dog Cafe Rio**
+
 Step into the whimsical world of [Dog Cafe Rio](https://rio-corp.jp/shops/harajuku/), where coffee and cuddles with furry friends blend into an unforgettable experience. This haven for dog devotees twists the cafe concept into a playful romp with pooches, making it an ideal spot for those who adore their four-legged companions.
 
 **Marion Crepes**
+
 In Japan, crepes have become the rock stars of street food, enjoying a fan base that's been growing since before smartphones could snap. This isn't just a flash-in-the-pan trend sparked by the 'gram; these thin, delightful treats have been stealing hearts for over four decades. Take [Marion Crepes](https://www.happyjappy.com/blog/marion-crepes.htm), for example, a culinary pioneer that's been flipping pancakes since 1976. They took the classic European crepe and gave it a Japanese makeover, stuffing it with vibrant fruits and scoops of ice cream. And forget the formalities of cutlery; these crepes roll up into a handy cone, letting you indulge in a walking dessert adventure as you explore the local boutiques.
 
 ![capsule_lab_cropped.jpg](/uploads/capsule_lab_cropped.jpg)
