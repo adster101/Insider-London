@@ -9,6 +9,13 @@ tags:
 - Takeshita Street
 - Japan
 - anime
+description: Insider London invites you to embark on an immersive journey through
+  this iconic destination. Join us on a guided tour of Takeshita Street and discover
+  the magic of this must-visit destination for anyone looking to experience the unique
+  fashion, food, and culture of Harajuku. Whether you’re looking for a new addition
+  to your wardrobe or simply want to indulge in some delicious treats, Takeshita Street
+  has it all Whether you're a seasoned anime fan or simply curious to explore Tokyo's
+  most eclectic neighbourhood.
 ---
 
 ![Harajuku-Takeshita](/uploads/IMG-20240428-WA0000~2.jpg)
