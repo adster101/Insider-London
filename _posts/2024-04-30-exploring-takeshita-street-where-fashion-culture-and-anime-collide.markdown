@@ -33,7 +33,7 @@ From high-end designer brands to vintage clothing, Takeshita Street caters to ev
 
 Takeshita Street also celebrates creativity through its yearly [painting competition](https://takeshita-street.com). This event offers emerging artists a chance to display their skills and enhance the street's energetic vibe. The top artworks are featured on a prominent display at the entrance, offering a window into the community's rich artistic diversity. Such endeavours not only add depth to the cultural fabric of Takeshita Street but also promote unity and cooperative spirit among both creators and onlookers.
 
-![IMG-20240428-WA0002~2.jpg](/uploads/IMG-20240428-WA0002~2.jpg)
+![Harajuku-Takeshita-anime](/uploads/IMG-20240428-WA0002~2.jpg)
 
 #### Unique Brands on Takeshita Street
 
@@ -47,9 +47,9 @@ Step into the whimsical world of [Dog Cafe Rio](https://rio-corp.jp/shops/haraju
 
 **Marion Crepes**
 
-In Japan, crepes have become the rock stars of street food, enjoying a fan base that's been growing since before smartphones could snap. This isn't just a flash-in-the-pan trend sparked by the 'gram; these thin, delightful treats have been stealing hearts for over four decades. Take [Marion Crepes](https://www.happyjappy.com/blog/marion-crepes.htm), for example, a culinary pioneer that's been flipping pancakes since 1976. They took the classic European crepe and gave it a Japanese makeover, stuffing it with vibrant fruits and scoops of ice cream. And forget the formalities of cutlery; these crepes roll up into a handy cone, letting you indulge in a walking dessert adventure as you explore the local boutiques.
+In Japan, crepes are like the rock stars of street food. People have been loving them for over four decades, way before smartphones were even a thing. They've got a huge fan base that's still growing, even without the help of Instagram or other social media. These crepes are so thin and yummy that they steal everyone's heart. Take [Marion Crepes](https://www.happyjappy.com/blog/marion-crepes.htm), for example, a culinary pioneer who's been flipping pancakes since 1976. They took the classic European crepe and gave it a Japanese makeover, stuffing it with vibrant fruits and scoops of ice cream. And forget the formalities of cutlery; these crepes roll up into a handy cone, letting you indulge in a walking dessert adventure as you explore the local boutiques.
 
-![capsule_lab_cropped.jpg](/uploads/capsule_lab_cropped.jpg)
+![capsule_lab](/uploads/capsule_lab_cropped.jpg)
 
 #### Insider London’s Tokyo Programme
 
