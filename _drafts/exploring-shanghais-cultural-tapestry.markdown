@@ -7,10 +7,9 @@ tags:
 - Shanghai
 - cultural experience
 description: In the bustling metropolis of Shanghai, Insider London offers an immersive
-  journey into the heart of Chinese culture through our [Shanghai Programme](https://www.insiderlondon.com/asia/shanghai/immersive-programme/).
-  This inspiring opportunity allows students to delve deep into the intricacies of
-  Shanghai's cultural tapestry, fostering cross-cultural understanding and enriching
-  life experiences.
+  journey into the heart of Chinese culture through our Shanghai Programme. This inspiring
+  opportunity allows students to delve deep into the intricacies of Shanghai's cultural
+  tapestry, fostering cross-cultural understanding and enriching life experiences.
 ---
 
 ![Shanghai Programme hiiking.jpeg](/uploads/Shanghai%20Programme%20hiiking.jpeg)
