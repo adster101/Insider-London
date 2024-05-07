@@ -13,7 +13,7 @@ description: In the bustling metropolis of Shanghai, Insider London offers an im
   life experiences.
 ---
 
-![外出活动-hiking-2.jpeg](/uploads/%E5%A4%96%E5%87%BA%E6%B4%BB%E5%8A%A8-hiking-2.jpeg)
+![Shanghai Programme hiiking.jpeg](/uploads/Shanghai%20Programme%20hiiking.jpeg)
 
 In the bustling metropolis of Shanghai, Insider London offers an immersive journey into the heart of Chinese culture through our [Shanghai Programme](https://www.insiderlondon.com/asia/shanghai/immersive-programme/). This inspiring opportunity allows students to delve deep into the intricacies of Shanghai's cultural tapestry, fostering cross-cultural understanding and enriching life experiences.
 
