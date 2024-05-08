@@ -1,15 +1,17 @@
 ---
-title: 'Unlocking Shanghai: A Journey of Immersive Learning and Cultural Discovery'
+title: Exploring Shanghai's Cultural Tapestry
 date: 2024-05-09 17:15:00 Z
 categories:
 - Art and Culture
 tags:
 - Shanghai
 - cultural experience
-description: In the bustling metropolis of Shanghai, Insider London offers an immersive
-  journey into the heart of Chinese culture through our Shanghai Programme. This inspiring
-  opportunity allows students to delve deep into the intricacies of Shanghai's cultural
-  tapestry, fostering cross-cultural understanding and enriching life experiences.
+description: In the vibrant city of Shanghai, Insider London offers an enriching study
+  abroad experience through our Shanghai Programme. Designed to prioritise hands-on
+  learning experiences, this programme stands out for its emphasis on active participation
+  and interactive exploration, providing students with invaluable insights and practical
+  skills that extend far beyond the classroom.
+Field name: 
 ---
 
 ![Shanghai Programme hiiking.jpeg](/uploads/Shanghai%20Programme%20hiiking.jpeg)
@@ -18,7 +20,7 @@ In the vibrant city of Shanghai, Insider London offers an enriching study abroad
 
 #### Immersing in Active Learning
 
-At the core of our **Shanghai Programme** is the belief that true understanding comes from active engagement. Through immersive activities such as cultural workshops, guided tours, and experiential learning projects, students have the opportunity to apply theoretical knowledge in real-world settings. For example, instead of simply learning about Chinese calligraphy in a lecture hall, students engage in hands-on sessions with local artisans, mastering brush strokes and creating their works of art.
+At the core of our [Shanghai Programme](https://www.insiderlondon.com/asia/shanghai/immersive-programme/) is the belief that true understanding comes from active engagement. Through immersive activities such as cultural workshops, guided tours, and experiential learning projects, students have the opportunity to apply theoretical knowledge in real-world settings. For example, instead of simply learning about Chinese calligraphy in a lecture hall, students engage in hands-on sessions with local artisans, mastering brush strokes and creating their works of art.
 
 #### Exploring Cultural Intersections
 
