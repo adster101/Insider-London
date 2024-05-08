@@ -3,20 +3,26 @@ title: Exploring Shanghai's Cultural Tapestry
 date: 2024-05-09 17:15:00 Z
 categories:
 - Art and Culture
+- Events
 tags:
 - Shanghai
 - cultural experience
+- study abroad
+- learning through activities
+- experiential learning
 description: In the vibrant city of Shanghai, Insider London offers an enriching study
   abroad experience through our Shanghai Programme. Designed to prioritise hands-on
   learning experiences, this programme stands out for its emphasis on active participation
   and interactive exploration, providing students with invaluable insights and practical
   skills that extend far beyond the classroom.
-Field name: 
+excerpt_separator: "<!--read-->"
 ---
 
 ![Shanghai Programme hiiking.jpeg](/uploads/Shanghai%20Programme%20hiiking.jpeg)
 
 In the vibrant city of Shanghai, Insider London offers an enriching study abroad experience through our [Shanghai Programme](https://www.insiderlondon.com/asia/shanghai/immersive-programme/). Designed to prioritise hands-on learning experiences, this programme stands out for its emphasis on active participation and interactive exploration, providing students with invaluable insights and practical skills that extend far beyond the classroom.
+
+<!--read-->
 
 #### Immersing in Active Learning
 
@@ -36,7 +42,7 @@ Language learning is an integral part of our Shanghai Programme, and we believe 
 
 #### Forging Meaningful Connections
 
-Beyond academic pursuits, our programme also prioritizes cultural exchange and interpersonal connections. Students have the chance to participate in community service projects, volunteer opportunities, and networking events, allowing them to build relationships with locals and fellow participants alike. These connections not only enhance the overall learning experience but also foster a sense of belonging and global citizenship among students.
+Beyond academic pursuits, our programme also prioritises cultural exchange and interpersonal connections. Students have the chance to participate in community service projects, volunteer opportunities, and networking events, allowing them to build relationships with locals and fellow participants alike. These connections not only enhance the overall learning experience but also foster a sense of belonging and global citizenship among students.
 
 #### Discovering Personal Growth
 
