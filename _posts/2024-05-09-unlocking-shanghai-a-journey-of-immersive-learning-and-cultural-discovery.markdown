@@ -1,5 +1,5 @@
 ---
-title: Exploring Shanghai's Cultural Tapestry
+title: 'Unlocking Shanghai: A Journey of Immersive Learning and Cultural Discovery'
 date: 2024-05-09 17:15:00 Z
 categories:
 - Art and Culture
