@@ -38,11 +38,11 @@ One of the hallmarks of our programme is its focus on exploring the intersection
 
 Language learning is an integral part of our Shanghai Programme, and we believe in providing students with opportunities to practice Mandarin in authentic contexts. Whether bargaining at a local market, ordering street food, or conversing with native speakers during a homestay experience, students are encouraged to use Mandarin in their daily interactions. By immersing themselves in the language and culture of Shanghai, students develop practical language skills that are applicable in a variety of real-life situations.
 
-![Chinese Table-徽菜.JPG](/uploads/Chinese%20Table-%E5%BE%BD%E8%8F%9C.JPG)
-
 #### Forging Meaningful Connections
 
 Beyond academic pursuits, our programme also prioritises cultural exchange and interpersonal connections. Students have the chance to participate in community service projects, volunteer opportunities, and networking events, allowing them to build relationships with locals and fellow participants alike. These connections not only enhance the overall learning experience but also foster a sense of belonging and global citizenship among students.
+
+![Chinese Table-徽菜.JPG](/uploads/Chinese%20Table-%E5%BE%BD%E8%8F%9C.JPG)
 
 #### Discovering Personal Growth
 
