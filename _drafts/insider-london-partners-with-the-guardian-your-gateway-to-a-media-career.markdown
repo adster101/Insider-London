@@ -34,4 +34,4 @@ This partnership is not just about observing but actively participating and lear
 
 ![438159105_1027549669370802_1712150120582340039_n.jpg](/uploads/438159105_1027549669370802_1712150120582340039_n.jpg)
 
-*Don’t miss this incredible opportunity to learn from the best in the business. Join Insider London’s programme and take the first step towards a rewarding career in media. For more information contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com). Experience the excitement of media, the thrill of storytelling, and the satisfaction of making an impact with Insider London and The Guardian. Let your journey begin!*
+*Don’t miss this incredible opportunity to learn from the best in the business. Join us on this journey of discovery of media with Insider London and book your [visit](https://www.insiderlondon.com/london/company-visits/) today. For more information contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
