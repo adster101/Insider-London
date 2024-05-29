@@ -8,6 +8,7 @@ tags:
 - journalism
 - media
 - the guradian
+- career path
 description: We are excited to share that Insider London has partnered with The Guardian,
   one of the world's leading news organisations. We recently had the privilege to
   host students from Bentley University, Massachusetts, who experienced the journalistic
