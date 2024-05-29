@@ -30,8 +30,6 @@ The visit to The Guardian's offices provided students from Bentley University wi
 
 #### Kick-Start Your Media Career
 
-This partnership is not just about observing but actively participating and learning. Whether you're a student with a passion for journalism, a budding media professional, or someone considering a career change, our programme with The Guardian provides the tools, insights, and experiences you need to succeed. By the end of the visit, you'll have a deeper understanding of the media landscape, a portfolio of work to showcase your skills, and valuable contacts to help you take the next step in your career.
-
-![438159105_1027549669370802_1712150120582340039_n.jpg](/uploads/438159105_1027549669370802_1712150120582340039_n.jpg)
+This partnership is not just about observing but actively participating and learning. Whether you're a student with a passion for journalism, a budding media professional, or someone considering a career change, our company visit at The Guardian provides the tools, insights, and experiences you need to succeed. By the end of the visit, you'll have a deeper understanding of the media landscape, a portfolio of work to showcase your skills, and valuable contacts to help you take the next step in your career.
 
 *Don’t miss this incredible opportunity to learn from the best in the business. Join us on this journey of discovery of media with Insider London and book your [visit](https://www.insiderlondon.com/london/company-visits/) today. For more information contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
