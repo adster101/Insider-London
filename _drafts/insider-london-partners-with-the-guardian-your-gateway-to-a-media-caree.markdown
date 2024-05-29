@@ -22,7 +22,9 @@ We are excited to share that Insider London has partnered with [The Guardian](ht
 
 #### A Brief History of The Guardian
 
-Founded in 1821, The Guardian has a long and storied history as a bastion of independent journalism. Originally known as The Manchester Guardian, it began as a weekly publication advocating for political reform. Over the decades, The Guardian has evolved into a global news outlet, renowned for its fearless investigative journalism, in-depth analysis, and commitment to social justice. Today, it stands as a pillar of the free press, offering a diverse range of news, opinion pieces, and multimedia content to millions of readers worldwide.
+Established in 1821, The Guardian has a rich history as a champion of independent journalism. Initially named The Manchester Guardian, it started as a weekly advocating for political reform. Over time, The Guardian has grown into a global news source, known for its fearless investigative journalism, thorough analysis, and dedication to social justice. Today, it stands as a pillar of the free press, providing a wide range of news, opinion pieces, and multimedia content to millions of readers worldwide.
+
+The Guardian is also recognised for its commitment to progressive values and its unwavering pursuit of truth and accountability. It has been at the forefront of some of the most significant investigative journalism in recent history, including the Edward Snowden revelations about mass surveillance by the NSA and the Panama Papers, which exposed global tax evasion practices. These groundbreaking investigations highlight The Guardian's dedication to impactful journalism that holds power to account.
 
 #### The Partnership: What It Means for You
 
@@ -32,4 +34,4 @@ The visit to The Guardian's offices provided students from Bentley University wi
 
 This partnership is not just about observing but actively participating and learning. Whether you're a student with a passion for journalism, a budding media professional, or someone considering a career change, our company visit at The Guardian provides the tools, insights, and experiences you need to succeed. By the end of the visit, you'll have a deeper understanding of the media landscape, a portfolio of work to showcase your skills, and valuable contacts to help you take the next step in your career.
 
-*Don’t miss this incredible opportunity to learn from the best in the business. Join us on this journey of discovery of media with Insider London and book your [visit](https://www.insiderlondon.com/london/company-visits/) today. For more information contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
+*Don’t miss this incredible opportunity to learn from the best in the business. Join us on this journey of discovery of media with Insider London and book your [visit](https://www.insiderlondon.com/london/company-visits/) today. For more information contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
