@@ -17,7 +17,7 @@ description: We are excited to share that Insider London has partnered with The 
   and media
 ---
 
-![441514562_1609546776532823_4967759444665368618_n.jpg](/uploads/441514562_1609546776532823_4967759444665368618_n.jpg)
+![Bentlery_Uni_Guardian.jpg](/uploads/Bentlery_Uni_Guardian.jpg)
 
 We are excited to share that Insider London has partnered with [The Guardian](https://www.theguardian.com/uk), one of the world's leading news organisations. We recently had the privilege to host students from the United States, who experienced the journalistic insight firsthand. This collaboration is designed to open doors for students, providing them with invaluable insights and the chance to kick-start their careers in journalism and media
 
