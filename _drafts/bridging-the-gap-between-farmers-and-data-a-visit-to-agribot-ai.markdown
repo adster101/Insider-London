@@ -1,6 +1,6 @@
 ---
 title: 'Bridging the Gap Between Farmers and Data: A Visit to Agribot AI'
-date: 2024-06-25 13:24:00 Z
+date: 2024-06-26 13:24:00 Z
 categories:
 - Sustainability
 - Events
@@ -45,5 +45,4 @@ The students from Zhongshan University left the visit with a deeper understandin
 
 At Insider London, we are committed to providing students with unique learning opportunities that broaden their horizons and prepare them for the future. Agribot AI is a testament to the power of technology in addressing real-world challenges and the importance of fostering cross-cultural and interdisciplinary learning experiences.
 
-*For more information about our educational programs and [company visit] to [Agribot AI](https://agribot.ai/)  (https://www.insiderlondon.com/london/company-visits/), feel free to contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
-*
+For more information about our educational programs and [company visit](https://www.insiderlondon.com/london/company-visits/) to [Agribot AI](https://agribot.ai/), feel free to contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
