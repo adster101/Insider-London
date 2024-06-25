@@ -29,7 +29,7 @@ At Insider London, we recently had the pleasure of organising an educational vis
 
 Chris Knight, the founder and CEO of Agribot AI, shared in-depth insights into the company's mission and innovation. Agribot AI is committed to bridging the significant gap between farmers and critical data that isn't readily available. Traditional weather forecasts may help us decide whether to carry an umbrella, but they fall short of providing the detailed, long-term forecasts that farmers need to plan their crops effectively.
 
-Farmers require highly accurate and long-term weather information to make informed decisions about their crop yields. The changing climate and [unpredictable weather](https://www.bbc.co.uk/weather/articles/cy63gg6zge5o) patterns add to the complexity of farming, making it crucial for farmers to understand how weather conditions will impact their crops months before the harvest. This is where Agribot AI steps in, offering solutions that go beyond conventional weather forecasting.
+Farmers require highly accurate and [long-term weather information](https://epic.uchicago.edu/insights/better-weather-forecasts-can-help-farmers-adapt-to-climate-change/) to make informed decisions about their crop yields. The changing climate and [unpredictable weather](https://www.bbc.co.uk/weather/articles/cy63gg6zge5o) patterns add to the complexity of farming, making it crucial for farmers to understand how weather conditions will impact their crops months before the harvest. This is where Agribot AI steps in, offering solutions that go beyond conventional weather forecasting.
 
 #### Advanced AI and SAR Technology
 
@@ -41,8 +41,9 @@ With its more accurate and reliable weather data, Agribot AI helps farmers make 
 
 #### The Impact of the Visit
 
-The students from Zhongshan University left the visit with a deeper understanding of how technology can transform traditional industries. Chris Knight's passion and expertise inspired them to consider the possibilities of integrating AI into various sectors. The visit underscored the importance of continuous learning and innovation, especially in fields like agriculture, where advancements can have profound impacts on food security and sustainability.
+The students from Zhongshan University left the visit with a deeper understanding of how technology can transform traditional industries. Chris Knight's passion and expertise inspired them to consider the possibilities of integrating AI into various sectors. The visit underscored the importance of continuous learning and innovation, especially in fields like precision agriculture, where advancements can have profound impacts on food security and sustainability.
 
 At Insider London, we are committed to providing students with unique learning opportunities that broaden their horizons and prepare them for the future. Agribot AI is a testament to the power of technology in addressing real-world challenges and the importance of fostering cross-cultural and interdisciplinary learning experiences.
 
-For more information about our educational programs and [company visit](https://www.insiderlondon.com/london/company-visits/) to [Agribot AI](https://agribot.ai/), feel free to contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
+*For more information about our educational programmes and [company visit](https://www.insiderlondon.com/london/company-visits/) to [Agribot AI](https://agribot.ai/), feel free to contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
+*
