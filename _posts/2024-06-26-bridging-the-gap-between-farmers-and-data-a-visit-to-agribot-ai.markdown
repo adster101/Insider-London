@@ -20,7 +20,7 @@ description: Chris Knight, the founder and CEO of Agribot AI, shared in-depth in
   to plan their crops effectively
 ---
 
-![Messenger_creation_05836b4f-ac77-40b3-8d54-c234110707e0.jpeg](/uploads/Messenger_creation_05836b4f-ac77-40b3-8d54-c234110707e0.jpeg)
+![Agribot AI Visit](/uploads/a11fa657-06e4-a859-ddf2-05759bdfb980.jpeg)
 <Small>Chris Knight, founder and CEO of Agribot AI</small>
 
 Insider London recently had the pleasure of organizing an educational visit for a group of university students from Zhongshan University to [Agribot AI](https://agribot.ai/), a pioneering company that uses advanced AI technologies to revolutionise farming and provide solutions to the growing challenges faced by modern farmers.
@@ -45,5 +45,4 @@ The students from Zhongshan University were truly inspired during their visit as
 
 At Insider London, we are committed to providing students with unique learning opportunities that broaden their horizons and prepare them for the future. Agribot AI is a testament to the power of technology in addressing real-world challenges and the importance of fostering cross-cultural and interdisciplinary learning experiences.
 
-*For more information about our educational programmes and [company visit](https://www.insiderlondon.com/london/company-visits/) to [Agribot AI](https://agribot.ai/), feel free to contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
-*
+*For more information about our educational programmes and [company visit](https://www.insiderlondon.com/london/company-visits/) to [Agribot AI](https://agribot.ai/), feel free to contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
