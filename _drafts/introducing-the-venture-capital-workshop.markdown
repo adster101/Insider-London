@@ -19,9 +19,9 @@ description: 'At Insider London, we are thrilled to introduce a dynamic addition
 
 ![pexels-rdne-7414216](/uploads/pexels-rdne-7414216.jpg)
 
-At Insider London, we are thrilled to introduce a dynamic addition to our educational programme: the Venture Capital Workshop. This workshop, conducted in collaboration with [Guinness Ventures](https://www.guinnessgi.com/ventures), immerses students in the real-world challenges of venture capital investment and equips them with the skills necessary to assess potential investment opportunities.
+At Insider London, we are thrilled to introduce a dynamic addition to our educational programme: the Venture Capital Workshop. This workshop, conducted in collaboration with [Guinness Ventures](https://www.guinnessgi.com/ventures), immerses students in the intricate world of venture capital investment and provides a career pathway into the exciting world of venture capital. 
 
-Guinness Ventures, part of Guinness Asset Management, is renowned for providing growth capital to innovative, fast-growing companies and their expertise will offer invaluable insights into the investment process. Their award-winning investment management team specialises in sourcing opportunities in growth-stage companies, helping them unlock their significant potential. Beyond financial investment, they provide resources and network support to the companies they back. With more than £255 million in assets under management, Guinness Ventures focuses on scale-up and Series A capital for exciting growth companies
+Guinness Ventures is renowned for providing growth capital to innovative, fast-growing companies and their expertise will offer invaluable insights into the investment process. Their award-winning investment management team specialises in sourcing opportunities in growth-stage companies, helping them unlock their significant potential. Beyond financial investment, they provide resources and network support to the companies they back. With more than £255 million in assets under management, Guinness Ventures focuses on scale-up and Series A capital for exciting growth companies
 
 
 #### Business Model and Investment Opportunities 
