@@ -23,7 +23,8 @@ description: Methodia specialises in providing comprehensive IT solutions that s
 excerpt_separator: "<!--read-->"
 ---
 
-![Methodia_Evo.jpg](/uploads/Methodia_Evo.jpg)
+![Evo_Chariman_of_Methodia](/uploads/Methodia_Evo@800w.jpg)
+
 <small><em>Evo Stefanov, Chairman of the Board of Methodia Group</em></small>
 
 We are thrilled to announce our new partnership with [Methodia](https://www.methodia.com/), a leader in enterprise software solutions. Recently, we had the pleasure of organising a visit for a group of computer science students to Methodia’s headquarters. This visit was a remarkable opportunity for the students to gain firsthand insights into the world of advanced IT and software engineering
