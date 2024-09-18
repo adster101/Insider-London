@@ -1,6 +1,16 @@
 ---
 title: The Revival of London's West End Retail
 date: 2024-09-18 13:13:00 Z
+categories:
+- Marketing and Retail
+tags:
+- retail
+- marketing
+- West End
+- shopping
+description: London's West End, boasting iconic districts like Regent Street, Soho,
+  and Mayfair, has always been a vibrant hub for retail, culture, and commerce. This
+  week, we're exploring the area to discover its latest transformations
 ---
 
 London's West End, boasting iconic districts like Regent Street, Soho, and Mayfair, has always been a vibrant hub for retail, culture, and commerce. This week, we're exploring the area to discover its latest transformations.
