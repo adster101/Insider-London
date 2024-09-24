@@ -27,8 +27,8 @@ layout: programme
   {% include slideshow.html %}
 {% endif %}
 
-Experience a life-changing learning opportunity with the carefully crafted in-depth 
-Shanghai Programme, specifically designed for international students. Based on the Experiential Learning Theory, this immersive journey combines the essentials of the Mandarin language, [corporate visits](https://insiderlondon.com/asia/shanghai/company-visits), day excursions, and an in-depth exploration of Chinese food culture.
+Experience a life-changing learning opportunity with our carefully crafted, in-depth 
+**Shanghai Programme** in partnership with the East China University of Science and Technology (ECUST). The programme is specifically designed for international students and based on the Experiential Learning Theory; this immersive journey combines the essentials of the Mandarin language, [corporate visits](https://insiderlondon.com/asia/shanghai/company-visits), day excursions, and an in-depth exploration of Chinese food culture.
 
 #### Key Features
 
