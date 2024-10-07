@@ -8,14 +8,21 @@ tags:
 - marketing
 - West End
 - shopping
+- London
+- alternative London walking tours
+- London walking tours
+- retail trends
 description: London's West End, boasting iconic districts like Regent Street, Soho,
   and Mayfair, has always been a vibrant hub for retail, culture, and commerce. This
   week, we're exploring the area to discover its latest transformations
+excerpt_separator: "<!--read-->"
 ---
 
 ![pexels-dom-j-303315 (1).jpg](/uploads/pexels-dom-j-303315%20(1).jpg)
 
 London's West End, boasting iconic districts like Regent Street, Soho, and Mayfair, has always been a vibrant hub for retail, culture, and commerce. This week, we're exploring the area to discover its latest transformations.
+
+<!--read-->
 
 #### A Remarkable Recovery
 
