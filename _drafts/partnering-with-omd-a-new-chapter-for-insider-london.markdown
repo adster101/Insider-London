@@ -14,7 +14,7 @@ tags:
 - media
 ---
 
-![pexels-divinetechygirl-1181346.jpg](/uploads/pexels-divinetechygirl-1181346.jpg)
+![pexels-divinetechygirl@1200w.jpg](/uploads/pexels-divinetechygirl@1200w.jpg)
 
 We are thrilled to announce our new and exclusive partnership with [OMD](https://www.omd.com), one of the world's largest and most influential media and communications agencies. This collaboration provides a unique opportunity to experience firsthand the inner workings of a media industry giant as we broaden our offering of company visits for students and professionals. 
 
