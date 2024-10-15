@@ -14,7 +14,7 @@ tags:
 - media
 ---
 
-![austin-distel-rxpThOwuVgE-unsplash.jpg](/uploads/austin-distel-rxpThOwuVgE-unsplash.jpg)
+![austin-distel-unsplash](/uploads/austin-distel-rxpThOwuVgE-unsplash@1200w.jpg)
 
 We are thrilled to announce our new and exclusive partnership with [OMD](https://www.omd.com), one of the world's largest and most influential media and communications agencies. This collaboration provides a unique opportunity to experience firsthand the inner workings of a media industry giant as we broaden our offering of company visits for students and professionals. 
 
