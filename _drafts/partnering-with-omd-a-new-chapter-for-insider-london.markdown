@@ -1,6 +1,10 @@
 ---
 title: 'Partnering with OMD: A New Chapter for Insider London'
 date: 2024-10-15 13:56:00 Z
+categories:
+- Events
+- Marketing and Retail
+- Business
 tags:
 - marketing
 - digital marketing
