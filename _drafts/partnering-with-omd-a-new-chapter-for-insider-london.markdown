@@ -12,6 +12,11 @@ tags:
 - strategic communication
 - brands
 - media
+description: 'We are thrilled to announce our new and exclusive partnership with [OMD](https://www.omd.com),
+  one of the world''s largest and most influential media and communications agencies.
+  This collaboration provides a unique opportunity to experience firsthand the inner
+  workings of a media industry giant as we broaden our offering of company visits
+  for students and professionals. '
 ---
 
 ![austin-distel-unsplash](/uploads/austin-distel-rxpThOwuVgE-unsplash@1200w.jpg)
@@ -34,4 +39,4 @@ OMD has a proven track record of success, solidifying its position as an influen
 
 Partnering with OMD allows us to offer unique opportunities to explore the inner workings of a top-tier media communications agency. These visits are best suited for marketing and communications students, corporate groups, and innovation enthusiasts. Marketing and communications students can gain firsthand experience in media planning, buying, and content creation. Corporate groups can understand the strategies behind successful media campaigns and client management. Innovation enthusiasts can learn about the latest trends and innovations in the media industry.
 
-*Our Insider London partnership with OMD represents a new frontier in our [company visits](https://www.insiderlondon.com/london/company-visits/), offering a comprehensive look into how global media agencies operate. To book your visit or learn more about our exclusive partnership with OMD, reach out to us at [mailto:contact@insiderlondon.com](contact@insiderlondon.com), or visit Insider London Company Visits for more details.*
+*Our Insider London partnership with OMD represents a new frontier in our [company visits](https://www.insiderlondon.com/london/company-visits/), offering a comprehensive look into how global media agencies operate. To book your visit or learn more about our exclusive partnership with OMD, reach out to us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com), or visit Insider London Company Visits for more details.*
