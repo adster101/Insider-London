@@ -32,7 +32,9 @@ One of the standout features of the complex is the unique floating island known 
 Ukishima Complex isn’t just about technology—it’s a hub for learning. The complex offers **guided tours** of the facilities and **workshops** on crafting with recyclable materials, making it a fantastic site for **students** and **educators**. Whether you’re studying environmental science, sustainability, or urban planning, the complex offers a wealth of knowledge.
 
 ### Who Is This Visit For?  
-The **Ukishima Complex** visit is ideal for **students, researchers, and professionals** in **sustainability, energy, environmental policy, and urban planning**. It’s an opportunity to see firsthand how Japan’s Eco-Town initiative is creating sustainable urban ecosystems.  
 
-**Don’t miss out on this exclusive experience through Insider London’s Tokyo Programme!**  
-For more information, visit [Insider London’s Company Visits](https://www.insiderlondon.com/london/company-visits/) or contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).
+The **Ukishima Complex** visit is ideal for **students, researchers, and professionals** in **sustainability, energy, environmental policy, and urban planning**. It’s an opportunity to see firsthand how Japan’s Eco-Town initiative is creating sustainable urban ecosystems. 
+One of the most interesting aspects of visiting the Ukishima complex is the interactive sessions. The interactive centre allows visitors to experience the waste disposal process more vividly and engage with the complex's facilities in a dynamic and hands-on way. Although the centre is typically geared towards educational groups, Insider London's bespoke tours are tailored to provide an exclusive and deeply informative experience. Our private groups will have the chance to witness the entire process up close, offering insights that go beyond a typical public tour. 
+
+*Don’t miss out on this exclusive experience through Insider London’s Tokyo Programme!  
+For more information, visit [Insider London’s Company Visits](https://www.insiderlondon.com/london/company-visits/) or contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
