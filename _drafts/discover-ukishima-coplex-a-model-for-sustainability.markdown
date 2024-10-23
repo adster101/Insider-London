@@ -28,7 +28,6 @@ At the core of the complex is the **Ukishima Solar Power Plant**. Completed in 2
 Adjacent to the solar power plant is the state-of-the-art **recycling and disposal facility**, dedicated to processing and recycling waste. This plant contributes significantly to Kawasaki's waste management efforts by employing advanced technologies to sort, process, and recycle various materials, reducing environmental impact. Witnessing the entire waste processing system in action is fascinating, offering a unique behind-the-scenes look at how waste is managed in urban areas is fascinating. For our exclusive groups, the tour provides a detailed walkthrough of the waste recycling journey, from collection to processing, demonstrating how vital efficient waste management is in today’s world.
 
 
-
 #### Floating Island - Ukishima
 
 Adding to the complex's uniqueness is the floating island known as **Ukishima**. This floating green space is a natural habitat and public park, providing a tranquil escape for residents and visitors. It's an innovative use of space that promotes biodiversity and offers an urban sanctuary where people can connect with nature. The floating island exemplifies how cities can incorporate green spaces into urban development, enhancing the overall quality of life.
@@ -45,5 +44,5 @@ The **Ukishima Eco Gurashi Mirai-kan** complex is not just a collection of facil
 
 One of the most interesting aspects of visiting the Ukishima complex is the interactive sessions. The **interactive centre** allows visitors to experience the waste disposal process more vividly and engage with the complex's facilities in a dynamic and hands-on way. Although the centre is typically geared towards educational groups, **Insider London's bespoke tours** are tailored to provide an exclusive and deeply informative experience. Our private groups will have the chance to witness the entire process up close, offering insights that go beyond a typical public tour.
 
-*Don’t miss out on this exclusive experience through Insider London’s Tokyo Programme
+*Don’t miss out on this exclusive experience through Insider London’s [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/)
 For more information, visit [Insider London’s Company Visits](https://www.insiderlondon.com/london/company-visits/) or contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*.
