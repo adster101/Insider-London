@@ -40,6 +40,8 @@ The Ukishima complex is an integral part of Japan’s ambitious **Eco-Town initi
 
 The **Ukishima Eco Gurashi Mirai-kan** complex is not just a collection of facilities; it's a model for a sustainable future. Through its integration of renewable energy, efficient waste management, and green spaces, it demonstrates how urban environments can evolve into more sustainable ecosystems. The complex offers a glimpse into a future where cities are not just concrete jungles but thriving ecosystems, and its interactive sessions make it an engaging and memorable experience.
 
+![ukishima](/uploads/ukishima2.jpg)
+
 #### Exclusive and Bespoke Tours
 
 One of the most interesting aspects of visiting the Ukishima complex is the interactive sessions. The **interactive centre** allows visitors to experience the waste disposal process more vividly and engage with the complex's facilities in a dynamic and hands-on way. Although the centre is typically geared towards educational groups, **Insider London's bespoke tours** are tailored to provide an exclusive and deeply informative experience. Our private groups will have the chance to witness the entire process up close, offering insights that go beyond a typical public tour.
