@@ -15,7 +15,7 @@ description: At Insider London, we are excited to introduce **Ukishima**, an ext
   innovation, renewable energy, waste management, and community engagement
 ---
 
-![ukishima](/uploads/ukishima%20rendered.jpg)
+![ukishima](/uploads/ukishima2.jpg)
 
 Nestled in Kawasaki, Kanagawa Prefecture lies an eco-friendly marvel: the **Ukishima** complex. This facility is more than just an environmental centre; it's a beacon of sustainability, innovation, and community engagement, playing a pivotal role in education and infrastructure in the Greater Tokyo Area.
 
@@ -40,7 +40,7 @@ The Ukishima complex is an integral part of Japan’s ambitious **Eco-Town initi
 
 The **Ukishima Eco Gurashi Mirai-kan** complex is not just a collection of facilities; it's a model for a sustainable future. Through its integration of renewable energy, efficient waste management, and green spaces, it demonstrates how urban environments can evolve into more sustainable ecosystems. The complex offers a glimpse into a future where cities are not just concrete jungles but thriving ecosystems, and its interactive sessions make it an engaging and memorable experience.
 
-![ukishima](/uploads/ukishima2.jpg)
+
 
 #### Exclusive and Bespoke Tours
 
