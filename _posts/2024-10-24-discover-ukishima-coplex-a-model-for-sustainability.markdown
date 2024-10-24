@@ -1,6 +1,6 @@
 ---
 title: 'Discover Ukishima Complex: A Model for Sustainability'
-date: 2024-10-21 09:50:00 Z
+date: 2024-10-24 09:50:00 Z
 categories:
 - Sustainability
 tags:
@@ -9,6 +9,8 @@ tags:
 - Tokyo
 - Japan
 - recycling
+- green future
+- sustainable cities
 description: At Insider London, we are excited to introduce **Ukishima**, an extraordinary
   complex in Kawasaki, as part of our **Tokyo Programme**. This eco-friendly marvel,
   nestled in the Kanagawa Prefecture, serves as a beacon of sustainability, combining
