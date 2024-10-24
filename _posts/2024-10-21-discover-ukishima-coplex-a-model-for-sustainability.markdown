@@ -44,7 +44,7 @@ The **Ukishima Eco Gurashi Mirai-kan** complex is not just a collection of facil
 
 #### Exclusive and Bespoke Tours
 
-One of the most interesting aspects of visiting the Ukishima complex is the interactive sessions. The **interactive centre** allows visitors to experience the waste disposal process more vividly and engage with the complex's facilities in a dynamic and hands-on way. Although the centre is typically geared towards educational groups, **Insider London's bespoke tours** are tailored to provide an exclusive and deeply informative experience. Our private groups will have the chance to witness the entire process up close, offering insights that go beyond a typical public tour.
+One of the most interesting aspects of visiting the Ukishima complex is the interactive sessions. The **interactive centre** allows visitors to experience the waste disposal process more vividly and engage with the complex's facilities in a dynamic and hands-on way. Although the centre is typically geared towards educational groups, **Insider London's bespoke tours** are tailored to provide a deeply informative experience. Our private groups will have the chance to witness the entire process up close, offering insights that go beyond a typical public tour.
 
 *Don’t miss out on this exclusive experience through Insider London’s [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/)
 For more information, visit [Insider London’s Company Visits](https://www.insiderlondon.com/london/company-visits/) or contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*.
