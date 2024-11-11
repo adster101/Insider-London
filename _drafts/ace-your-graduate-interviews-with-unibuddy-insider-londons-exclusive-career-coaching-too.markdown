@@ -38,7 +38,7 @@ In a rapidly evolving job market, standing out in the interview process is more 
 4. Employer-Specific Prep: The AI matches student attributes with qualities specific to employers like HSBC.
 
 
-5. Practice Stage: Students answer randomized questions, recording their responses without notes.
+5. Practice Stage: Students answer randomised questions, recording their responses without notes.
 
 
 6. Feedback: They receive a score and detailed feedback, including playback options. They can repeat this process as many times as needed until they’re comfortable.
@@ -74,5 +74,5 @@ In a rapidly evolving job market, standing out in the interview process is more 
 **Sam Hall:** By focusing on a specific niche, we’re able to dedicate our resources to keeping Unibuddy’s content up-to-date. We use platforms like Glassdoor and Reddit for baseline insights and are exploring the possibility of capturing feedback from students’ real interviews. Longer-term, we hope to form relationships with employers to gather direct data.
 
 
-Unibuddy offers an invaluable opportunity for students to gain a realistic, practice-based edge in their career preparation, especially in competitive fields like finance. By booking Unibuddy through Insider London, students not only benefit from a tailored interview experience powered by cutting-edge AI, but also from our expertise in helping graduates navigate career pathways. Join us to elevate your interview skills and gain the confidence you need to secure your dream job. For more information or to schedule Unibuddy sessions, reach out to us at contact@insiderlondon.com.
+*Unibuddy offers an invaluable opportunity for students to gain a realistic, practice-based edge in their career preparation, especially in competitive fields like finance. By booking Unibuddy through Insider London, students not only benefit from a tailored interview experience powered by cutting-edge AI, but also from our expertise in helping graduates navigate career pathways. Join us to elevate your interview skills and gain the confidence you need to secure your dream job. For more information or to schedule Unibuddy sessions, reach out to us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
 
