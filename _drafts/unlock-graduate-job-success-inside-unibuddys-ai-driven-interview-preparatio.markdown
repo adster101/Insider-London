@@ -23,8 +23,7 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 ---
 
 ![Sam Hall](/uploads/_20241112_132941.JPG)
-<hr>
-<small>Sam Hall, founder of Unibuddy</small>
+Sam Hall, founder of Unibuddy
 
 In a rapidly evolving job market, standing out in the interview process is more crucial than ever for university students. In partnership with Insider London, [Unibuddy](https://unibuddy.com) has developed a unique AI-driven platform designed to give students a competitive edge by simulating real interview experiences. We spoke with Sam Hall, founder of Unibuddy, to learn more about its innovative approach to career preparation, and how it’s helping students build the confidence and skills they need to succeed in their career journeys.
 
