@@ -10,6 +10,7 @@ tags:
 - first job
 - entrepreneurship
 - start-ups
+- job interview
 description: 'In a rapidly evolving job market, standing out in the interview process
   is more crucial than ever for university students. In partnership with Insider London,
   Unibuddy has developed unique AI-driven platform designed to give students a competitive
