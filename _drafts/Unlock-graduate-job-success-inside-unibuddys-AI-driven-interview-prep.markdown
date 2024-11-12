@@ -1,10 +1,15 @@
 ---
 title: 'Unlock Graduate Job Success: Inside Unibuddy''s AI-Driven Interview Prep'
 date: 2024-11-11 17:31:00 Z
+categories:
+- Business
+- Finance
 tags:
 - Artificial Intelligence
 - graduates
 - first job
+- entrepreneurship
+- start-ups
 description: 'In a rapidly evolving job market, standing out in the interview process
   is more crucial than ever for university students. In partnership with Insider London,
   Unibuddy has developed unique AI-driven platform designed to give students a competitive
@@ -16,10 +21,10 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 '
 ---
 
-![sam_hall.jpg](/uploads/sam_hall.jpg)
+![Sam Hall](/uploads/IMG-20241112-WA0000.jpg)
 <small>Sam Hall, founder of Unibuddy</small>
 
-In a rapidly evolving job market, standing out in the interview process is more crucial than ever for university students. In partnership with Insider London, [Unibuddy](https://unibuddy.com) has developed unique AI-driven platform designed to give students a competitive edge by simulating real interview experiences. We spoke with Sam Hall, founder of Unibuddy, to learn more about its innovative approach to career preparation, and how it’s helping students build the confidence and skills they need to succeed in their career journeys.
+In a rapidly evolving job market, standing out in the interview process is more crucial than ever for university students. In partnership with Insider London, [Unibuddy](https://unibuddy.com) has developed a unique AI-driven platform designed to give students a competitive edge by simulating real interview experiences. We spoke with Sam Hall, founder of Unibuddy, to learn more about its innovative approach to career preparation, and how it’s helping students build the confidence and skills they need to succeed in their career journeys.
 
 **IL**: Can you share the inspiration behind creating Unibuddy?
 
@@ -41,7 +46,7 @@ In a rapidly evolving job market, standing out in the interview process is more 
 
 **Sam Hall:** Sure. Here’s how it works:
 
-1. Sign-Up: Students create an account and, if possible, integrate with their university’s database.
+1. Sign-Up: Students create an account and, if possible, integrate it with their university’s database.
 
 
 2. Select a Graduate Scheme: They pick the finance scheme they’re targeting.
@@ -80,7 +85,7 @@ In a rapidly evolving job market, standing out in the interview process is more 
 
 **Sam Hall:** We plan to expand Unibuddy to cover more fields like law and marketing and introduce international graduate schemes that account for cultural differences. Technically, we aim to make integration with university databases even easier, so students can start using Unibuddy without any friction.
 
-**IL:zz What advice would you give to students using Unibuddy for career preparation?
+**IL:** What advice would you give to students using Unibuddy for career preparation?
 
 **Sam Hall**: Practice as much as possible. The interview is critical, and Unibuddy allows unlimited practice sessions. Aim to reach a point where you feel comfortable with any question. Our feedback, given as a score out of five stars, helps students gauge their readiness.
 
