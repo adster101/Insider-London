@@ -1,7 +1,10 @@
 ---
-title: 'Ace Your Graduate Interviews with Unibuddy: Insider London’s Exclusive Career
-  Coaching Too'
+title: 'Unlock Graduate Job Success: Inside Unibuddy''s AI-Driven Interview Prep'
 date: 2024-11-11 17:31:00 Z
+tags:
+- Artificial Intelligence
+- graduates
+- first job
 description: 'In a rapidly evolving job market, standing out in the interview process
   is more crucial than ever for university students. In partnership with Insider London,
   Unibuddy has developed unique AI-driven platform designed to give students a competitive
@@ -13,7 +16,10 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 '
 ---
 
-In a rapidly evolving job market, standing out in the interview process is more crucial than ever for university students. In partnership with Insider London, Unibuddy has developed unique AI-driven platform designed to give students a competitive edge by simulating real interview experiences. We spoke with Sam Hall, founder of Unibuddy, to learn mor its innovative approach to career preparation, and how it’s helping students build the confidence and skills they need to succeed in their career journeys.
+![sam_hall.jpg](/uploads/sam_hall.jpg)
+<small>Sam Hall, founder of Unibuddy</small>
+
+In a rapidly evolving job market, standing out in the interview process is more crucial than ever for university students. In partnership with Insider London, [Unibuddy](https://unibuddy.com) has developed unique AI-driven platform designed to give students a competitive edge by simulating real interview experiences. We spoke with Sam Hall, founder of Unibuddy, to learn more about its innovative approach to career preparation, and how it’s helping students build the confidence and skills they need to succeed in their career journeys.
 
 **IL**: Can you share the inspiration behind creating Unibuddy?
 
@@ -25,7 +31,7 @@ In a rapidly evolving job market, standing out in the interview process is more 
 
 **IL:** What are the main challenges Unibuddy aims to address for university students?
 
-**Sam Hall:** Getting through the interview stage is harder than ever, and while there are plenty of tools to help students with applications, few focus on interview prep. Unibuddy fills that gap. Since interview performance influences up to 92% of hiring decisions, our goal is to ensure students are ready to succeed in interviews and don’t lose out on roles because they weren’t prepared.
+**Sam Hall:** Getting through the interview stage is harder than ever, and while there are plenty of tools to help students with applications, few focus on interview prep. Unibuddy fills that gap. Since interview performance influences up to 92% of hiring decisions, our goal is to ensure students are ready to succeed in [interviews](https://www.jobscore.com/articles/interviewing-statistics/) and don’t lose out on roles because they weren’t prepared.
 
 **IL**: How does the AI-driven career coach chatbot work, and what technology underpins it?
 
@@ -83,5 +89,5 @@ In a rapidly evolving job market, standing out in the interview process is more 
 **Sam Hall:** By focusing on a specific niche, we’re able to dedicate our resources to keeping Unibuddy’s content up-to-date. We use platforms like Glassdoor and Reddit for baseline insights and are exploring the possibility of capturing feedback from students’ real interviews. Longer-term, we hope to form relationships with employers to gather direct data.
 
 
-*Unibuddy offers an invaluable opportunity for students to gain a realistic, practice-based edge in their career preparation, especially in competitive fields like finance. By booking Unibuddy through Insider London, students not only benefit from a tailored interview experience powered by cutting-edge AI, but also from our expertise in helping graduates navigate career pathways. Join us to elevate your interview skills and gain the confidence you need to secure your dream job. For more information or to schedule Unibuddy sessions, reach out to us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
+*Join us to elevate your interview skills and gain the confidence you need to secure your dream job. For more information watch this short [video](https://unibuddy.carrd.co/) where Sam explains the Unibuddy features. To schedule Unibuddy sessions, reach out to us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
 
