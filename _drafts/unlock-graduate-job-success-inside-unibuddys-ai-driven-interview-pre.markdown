@@ -22,7 +22,7 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 '
 ---
 
-[_20241112_132941.JPG](/uploads/_20241112_132941.JPG)
+![Sam Hall](/uploads/_20241112_132941.JPG)
 <hr>
 <small>Sam Hall, founder of Unibuddy</small>
 
