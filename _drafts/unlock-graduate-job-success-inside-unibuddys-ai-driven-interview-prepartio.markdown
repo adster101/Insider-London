@@ -1,5 +1,5 @@
 ---
-title: 'Unlock Graduate Job Success: Inside Unibuddy''s AI-Driven Interview Preparation'
+title: 'Unlock Graduate Job Success: Inside Unibuddy''s AI-Driven Interview Prep'
 date: 2024-11-11 17:31:00 Z
 categories:
 - Business
@@ -22,8 +22,29 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 '
 ---
 
-<iframe src="https://unibuddy.carrd.co/assets/videos/video01.mp4?v=9ef16ad8" width="480" height="360" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe
+  src="https://unibuddy.carrd.co/assets/videos/video01.mp4?v=9ef16ad8"
+  width="640"
+  height="360"
+  frameborder="0"
+  allow="fullscreen"
+  allowfullscreen
+  class="responsive-video"
+></iframe>
 
+<style>
+  .responsive-video {
+    width: 480px; /* Default width for desktop */
+    height: auto;
+  }
+
+  @media (max-width: 767px) { /* Target screens smaller than 768px */
+    .responsive-video {
+      width: 360px; /* Width for mobile */
+    }
+  }
+</style>
+<hr>
 In a rapidly evolving job market, standing out in the interview process is more crucial than ever for university students. In partnership with Insider London, [Unibuddy](https://unibuddy.com) has developed a unique AI-driven platform designed to give students a competitive edge by simulating real interview experiences. We spoke with Sam Hall, founder of Unibuddy, to learn more about its innovative approach to career preparation, and how it’s helping students build the confidence and skills they need to succeed in their career journeys.
 
 **IL**: Can you share the inspiration behind creating Unibuddy?
