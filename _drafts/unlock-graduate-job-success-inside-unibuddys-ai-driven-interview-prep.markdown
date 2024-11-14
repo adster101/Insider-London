@@ -25,6 +25,8 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 
 <iframe
   src="https://unibuddy.carrd.co/assets/videos/video01.mp4?v=9ef16ad8"
+  width="640"
+  height="480"
   frameborder="0"
   allow="fullscreen"
   allowfullscreen
@@ -33,10 +35,17 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 
 <style>
   .responsive-video {
-    width: 100vw; /* Full viewport width for all devices */
-    max-width: 480px; /* Optional: limit maximum width */
-    height: 100vw; /* 1:1 aspect ratio, height matches width */
-    max-height: 480px; /* Optional: limit maximum height */
+    width:
+860px; /* Default width for desktop */
+    height: auto; /* Default height for desktop */
+  }
+
+  @media (max-width: 767px) { /* Target screens smaller than 768px */
+    .responsive-video {
+      width: 100%; /* Full width for mobile */
+      max-width: 360px; /* Optional: max width on smaller devices */
+      height: 100vw; /* Set height equal to viewport width for a 1:1 aspect ratio */
+    }
   }
 </style>
 <hr>
