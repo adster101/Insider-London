@@ -25,8 +25,8 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 
 <iframe
   src="https://unibuddy.carrd.co/assets/videos/video01.mp4?v=9ef16ad8"
-  width="640"
-  height="480"
+  width="480"
+  height="360"
   frameborder="0"
   allow="fullscreen"
   allowfullscreen
@@ -35,20 +35,20 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 
 <style>
   .responsive-video {
-    width:
-860px; /* Default width for desktop */
-    height: auto; /* Default height for desktop */
+    width: 480px; /* Default width for desktop */
+    height: 360px; /* Default height for desktop */
   }
 
   @media (max-width: 767px) { /* Target screens smaller than 768px */
     .responsive-video {
       width: 100%; /* Full width for mobile */
       max-width: 360px; /* Optional: max width on smaller devices */
-      height: 100vw; /* Set height equal to viewport width for a 1:1 aspect ratio */
+      height: auto; /* Adjust height to maintain aspect ratio */
     }
   }
 </style>
 <hr>
+
 In a rapidly evolving job market, standing out in the interview process is more crucial than ever for university students. In partnership with Insider London, [Unibuddy](https://unibuddy.com) has developed a unique AI-driven platform designed to give students a competitive edge by simulating real interview experiences. We spoke with Sam Hall, founder of Unibuddy, to learn more about its innovative approach to career preparation, and how it’s helping students build the confidence and skills they need to succeed in their career journeys.
 
 **IL**: Can you share the inspiration behind creating Unibuddy?
