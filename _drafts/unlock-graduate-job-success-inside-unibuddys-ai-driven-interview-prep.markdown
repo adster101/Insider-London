@@ -11,6 +11,7 @@ tags:
 - entrepreneurship
 - start-ups
 - job interview
+- interview prep
 description: 'In a rapidly evolving job market, standing out in the interview process
   is more crucial than ever for university students. In partnership with Insider London,
   Unibuddy has developed unique AI-driven platform designed to give students a competitive
@@ -25,7 +26,7 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 <iframe
   src="https://unibuddy.carrd.co/assets/videos/video01.mp4?v=9ef16ad8"
   width="640"
-  height="360"
+  height="480"
   frameborder="0"
   allow="fullscreen"
   allowfullscreen
@@ -34,13 +35,15 @@ description: 'In a rapidly evolving job market, standing out in the interview pr
 
 <style>
   .responsive-video {
-    width: 480px; /* Default width for desktop */
-    height: auto;
+    width: 640px; /* Default width for desktop */
+    height: 480px; /* Default height for desktop */
   }
 
   @media (max-width: 767px) { /* Target screens smaller than 768px */
     .responsive-video {
-      width: 360px; /* Width for mobile */
+      width: 100%; /* Full width for mobile */
+      max-width: 360px; /* Optional: max width on smaller devices */
+      height: auto; /* Adjust height to maintain aspect ratio */
     }
   }
 </style>
