@@ -1,6 +1,6 @@
 ---
 title: 'Innovating Sustainability, Branding & Design: Insider London Partners with
-  COPACK for Tokyo Programme'
+  Nippon COPACK for Tokyo Programme'
 date: 2024-11-27 10:25:00 Z
 categories:
 - Business
@@ -19,19 +19,24 @@ description: 'By partnering with COPACK, Insider London offers participants a un
 
 ![pexels-nick-kwan-2614818.jpg](/uploads/pexels-nick-kwan-2614818.jpg)
 
-We are thrilled to announce our newest partnership with [COPACK](https://www.copack.co.jp/en/about/concept?language_settings=OK_INbESlrHVC#), a leading company redefining the world of branding, design, and sustainable packaging solutions. As part of our [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/), we are offering an exclusive opportunity to explore COPACK’s innovative approach to sustainability and cutting-edge design concepts, giving visitors a first-hand experience of how Japan’s forward-thinking companies are shaping the future of branding and packaging.
+We are thrilled to announce our newest partnership with [Nippon Copack Inc.](https://www.copack.co.jp/en/about/concept?language_settings=OK_INbESlrHVC#), a leading company redefining the world of branding, design, and sustainable packaging solutions. As part of our [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/), we are offering an exclusive opportunity to explore COPACK’s innovative approach to sustainability and cutting-edge design concepts, giving visitors a first-hand experience of how Japan’s forward-thinking companies are shaping the future of branding and packaging.
 
 #### **Company History and Vision**  
-COPACK was founded in 1951 in Tokyo’s Yanagibashi district and began its journey by focusing on the production of packaging materials, particularly cardboard and hangers. Over the decades, the company has continuously adapted to the evolving demands of the consumer market, particularly in the retail and fashion industries. COPACK’s early innovations in hanger recycling began when the current CEO, Kensou Saito, was struck by the large volumes of discarded hangers and committed to developing a recycling initiative. This effort was groundbreaking for the industry and marked the beginning of COPACK’s venture into environmental sustainability.
+Copack was founded in 1951 in Tokyo’s Yanagibashi district and began its journey by focusing on the production of packaging materials, particularly cardboard and hangers. Over the decades, the company has continuously adapted to the evolving demands of the consumer market, particularly in the retail and fashion industries. Copack early innovations in hanger recycling began when the current CEO, Kensou Saito, was struck by the large volumes of discarded hangers and committed to developing a recycling initiative. This effort was groundbreaking for the industry and marked the beginning of COPACK’s venture into environmental sustainability.
 
 
 #### **Sustainability Initiatives**  
 
+
 COPACK’s commitment to sustainability is deeply embedded in its operations. The company has taken significant strides to create a circular economy within its industry, with several standout projects:  
 
-1. **Project e-Pack**: This initiative is dedicated to promoting recycling and sustainability. COPACK produces items using recycled resources and environmentally friendly materials, ensuring that no hangers are wasted.  
-2. **Circular Hanger Systems**: COPACK aims to eliminate hanger waste by recovering and reusing every hanger they produce. They also manufacture hangers from FSC-certified wood and recycled materials.  
-3. **Innovative Packaging Solutions**: In the packaging domain, COPACK has developed water-repellent paper reinforced with CNF (Cellulose Nanofibers) as an eco-friendly alternative to traditional plastic packaging.  
+1. **Woodland Project**: Located next to one of their Tokyo offices, this forest is carefully managed with a focus on long-term sustainability to maintain the forest’s health. Through research, Copack identified that trees begin to emit carbon dioxide once they reach a certain age. They cut ageing trees, repurpose them into aroma products, and replant new ones—preserving the ecosystem for future generations.
+
+As part of Insider London’s Tokyo Programme, students will experience this process firsthand, from observing the tree lifecycle to planting one themselves. This hands-on initiative highlights COPACK’s innovative approach to blending environmental responsibility with creativity.
+
+2. **Project e-Pack**: This initiative is dedicated to promoting recycling and sustainability. COPACK produces items using recycled resources and environmentally friendly materials, ensuring that no hangers are wasted.  
+3. **Circular Hanger Systems**: COPACK aims to eliminate hanger waste by recovering and reusing every hanger they produce. They also manufacture hangers from FSC-certified wood and recycled materials.  
+4. **Innovative Packaging Solutions**: In the packaging domain, COPACK has developed water-repellent paper reinforced with CNF (Cellulose Nanofibers) as an eco-friendly alternative to traditional plastic packaging.  
 
 Through these efforts, COPACK supports sustainable retail operations and helps its clients align with global environmental goals, particularly the **United Nations’ Sustainable Development Goals (SDGs)**. The company focuses on themes such as sustainable consumption, preserving marine ecosystems, and protecting terrestrial biodiversity.  
  
