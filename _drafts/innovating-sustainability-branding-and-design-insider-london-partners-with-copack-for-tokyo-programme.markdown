@@ -17,7 +17,7 @@ description: 'By partnering with COPACK, Insider London offers participants a un
   reflect modern values of environmental responsibility and customer engagement. '
 ---
 
-![pexels-nick-kwan-2614818.jpg](/uploads/pexels-nick-kwan-2614818.jpg)
+![pexels-kltdinusha-20765361.jpg](/uploads/pexels-kltdinusha-20765361.jpg)
 
 We are thrilled to announce our newest partnership with [Nippon Copack Inc.](https://www.copack.co.jp/en/about/concept?language_settings=OK_INbESlrHVC#), a leading company redefining the world of branding, design, and sustainable packaging solutions. As part of our [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/), we are offering an exclusive opportunity to explore COPACK’s innovative approach to sustainability and cutting-edge design concepts, giving visitors a first-hand experience of how Japan’s forward-thinking companies are shaping the future of branding and packaging.
 
