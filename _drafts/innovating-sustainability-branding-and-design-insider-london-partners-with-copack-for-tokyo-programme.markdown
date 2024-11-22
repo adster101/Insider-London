@@ -30,12 +30,12 @@ Copack was founded in 1951 in Tokyo’s Yanagibashi district and began its journ
 
 COPACK’s commitment to sustainability is deeply embedded in its operations. The company has taken significant strides to create a circular economy within its industry, with several standout projects:  
 
-1. **Woodland Project**: Located next to one of their Tokyo offices, this forest is carefully managed with a focus on long-term sustainability to maintain the forest’s health. Through research, Copack identified that trees begin to emit carbon dioxide once they reach a certain age. They cut ageing trees, repurpose them into aroma products, and replant new ones—preserving the ecosystem for future generations.
+1. **Woodland Project**: Located next to one of their Tokyo offices, this forest is carefully managed with a focus on long-term sustainability to maintain the forest’s health. Through research, Copack identified that trees begin to emit carbon dioxide once they reach a certain age. They cut ageing trees, repurpose them into aroma products, and replant new ones—preserving the ecosystem for future generations. As part of Insider London’s Tokyo Programme, students will experience this process firsthand, from observing the tree lifecycle to planting one themselves. This hands-on initiative highlights COPACK’s innovative approach to blending environmental responsibility with creativity.
 
-As part of Insider London’s Tokyo Programme, students will experience this process firsthand, from observing the tree lifecycle to planting one themselves. This hands-on initiative highlights COPACK’s innovative approach to blending environmental responsibility with creativity.
-
-2. **Project e-Pack**: This initiative is dedicated to promoting recycling and sustainability. COPACK produces items using recycled resources and environmentally friendly materials, ensuring that no hangers are wasted.  
+2. **Project e-Pack**: This initiative is dedicated to promoting recycling and sustainability. COPACK produces items using recycled resources and environmentally friendly materials, ensuring that no hangers are wasted.
+  
 3. **Circular Hanger Systems**: COPACK aims to eliminate hanger waste by recovering and reusing every hanger they produce. They also manufacture hangers from FSC-certified wood and recycled materials.  
+
 4. **Innovative Packaging Solutions**: In the packaging domain, COPACK has developed water-repellent paper reinforced with CNF (Cellulose Nanofibers) as an eco-friendly alternative to traditional plastic packaging.  
 
 Through these efforts, COPACK supports sustainable retail operations and helps its clients align with global environmental goals, particularly the **United Nations’ Sustainable Development Goals (SDGs)**. The company focuses on themes such as sustainable consumption, preserving marine ecosystems, and protecting terrestrial biodiversity.  
