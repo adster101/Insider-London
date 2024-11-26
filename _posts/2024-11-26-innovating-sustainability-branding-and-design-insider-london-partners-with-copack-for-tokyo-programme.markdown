@@ -1,7 +1,7 @@
 ---
 title: 'Innovating Sustainability, Branding & Design: Insider London Partners with
   Nippon Copack for Tokyo Programme'
-date: 2024-11-27 10:25:00 Z
+date: 2024-11-26 10:25:00 Z
 categories:
 - Business
 - Sustainability
