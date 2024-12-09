@@ -1,5 +1,5 @@
 ---
-title: 'Partnering with OMD: A New Chapter for Insider London'
+title: 'Partnering with MG OMD: A New Chapter for Insider London'
 date: 2024-10-15 13:56:00 Z
 categories:
 - Events
@@ -22,7 +22,7 @@ excerpt_separator: "<!--read-->"
 
 ![austin-distel-unsplash](/uploads/austin-distel-rxpThOwuVgE-unsplash@1200w.jpg)
 
-We are thrilled to announce our new and exclusive partnership with [OMD](https://www.omd.com), one of the world's largest and most influential media and communications agencies. This collaboration provides a unique opportunity to experience firsthand the inner workings of a media industry giant as we broaden our offering of company visits for students and professionals. 
+We are thrilled to announce our new and exclusive partnership with [MG OMD](https://www.omd.com), one of the world's largest and most influential media and communications agencies. This collaboration provides a unique opportunity to experience firsthand the inner workings of a media industry giant as we broaden our offering of company visits for students and professionals. 
 
 <!--read-->
 
