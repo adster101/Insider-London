@@ -1,5 +1,6 @@
 ---
-title: 'Exploring Innovation: Insider London’s Partnership with Tesla Giga Shanghai'
+title: 'Exploring Innovation: Insider London’s Partnership with Tesla Giga Shanghai
+  Experience Centre'
 date: 2024-12-11 11:41:00 Z
 categories:
 - Events
@@ -17,7 +18,7 @@ description: We are thrilled to announce the expansion of our Shanghai Programme
 
 ![tesla giga factory](/uploads/tesla.jpg)
 
-We are thrilled to announce the expansion of our Shanghai Programme through an exclusive partnership with **Tesla’s Giga Shanghai**, offering our students a unique opportunity to immerse themselves in one of the most groundbreaking industries in the world. Giga Shanghai is Tesla’s first gigafactory outside the United States, representing a fascinating idea with the capability to [transform manufacturing](https://leaders.com/articles/innovation/tesla-gigafactory/) and production as we know it.
+We are thrilled to announce the expansion of our Shanghai Programme through an exclusive partnership with **Tesla Giga Experience Center Shanghai**, offering our students a unique opportunity to immerse themselves in one of the most groundbreaking industries in the world. 
 
 **An Unforgettable Visit to the Tesla Giga Experience Centre**
 
