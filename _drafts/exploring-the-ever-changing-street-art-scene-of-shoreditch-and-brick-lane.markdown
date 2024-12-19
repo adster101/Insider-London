@@ -35,7 +35,7 @@ While Banksy often steals the spotlight, Shoreditch and Brick Lane are also home
 
 One of the most exciting aspects of street art is its transient nature. The murals and stencils that adorn the walls of Shoreditch and Brick Lane are constantly evolving, with new pieces appearing regularly. This dynamic environment ensures that every visit offers something fresh and unexpected.
 
-![_20241219_114921.JPG](/uploads/_20241219_114921.JPG)
+![20241219_120527.jpg](/uploads/20241219_120527.jpg)
 
 #### Experience It Yourself with Insider London
 
