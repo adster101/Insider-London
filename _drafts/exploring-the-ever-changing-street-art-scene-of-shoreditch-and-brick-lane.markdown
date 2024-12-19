@@ -1,6 +1,17 @@
 ---
 title: Exploring the Ever-Changing Street Art Scene of Shoreditch and Brick Lane
 date: 2024-12-19 08:23:00 Z
+categories:
+- Art and Culture
+tags:
+- East London street art
+- London street art walking tours
+- Banksy
+- Shoreditch
+- Brick Lane
+- street art
+description: Shoreditch and Brick Lane have long been the epicentres of London's street
+  art scene, where the walls tell stories of creativity, rebellion, and cultural commentary
 ---
 
 ![john-dancy-ZbwF240MM-Y-unsplash.jpg](/uploads/john-dancy-ZbwF240MM-Y-unsplash.jpg)
@@ -17,14 +28,14 @@ While Banksy often steals the spotlight, Shoreditch and Brick Lane are also home
 
 - **Jim Vision**: Known for his vibrant and dynamic murals, Jim Vision’s [latest works](https://www.atfirstsightgallery.com/blogs/blog/street) on Cowper Street showcase his signature style of colourful portraits and collaborative pieces.
 - **Cartooneros**: This Buenos Aires-born artist has brought a touch of South American flair to [Blackall Alley](https://yieldgallery.com/news/beyond-banksy-the-other-british-street-artists-you-should-know/) with stencils like *Van Gogh* and *Surviving England on Ten Pounds*.
-- **Fink 22**: Hailing from Dubai, Fink 22’s striking faces add a unique aesthetic to the urban canvas of Blackall Alley ([source](https://yieldgallery.com/news/beyond-banksy-the-other-british-street-artists-you-should-know/)).
+- **Fink 22**: Hailing from Dubai, Fink 22’s striking faces add a unique aesthetic to the urban canvas of Blackall Alley.
 - **Mr. Cenz**: Renowned for his surrealist graffiti, Mr. Cenz’s murals, such as the [girl holding the globe](https://metro.co.uk/2024/08/13/map-shows-find-banksys-best-graffiti-spate-new-london-artworks-21415341/) in New Inn Yard, offer a mesmerising blend of abstract and figurative elements.
-- **AutOne & Neist**: This duo’s abstract mural inspired by London’s underground tube network is a testament to their innovative approach to street art ([source](https://yieldgallery.com/news/beyond-banksy-the-other-british-street-artists-you-should-know/)).
 
 #### The Ever-Changing Canvas
 
 One of the most exciting aspects of street art is its transient nature. The murals and stencils that adorn the walls of Shoreditch and Brick Lane are constantly evolving, with new pieces appearing regularly. This dynamic environment ensures that every visit offers something fresh and unexpected.
-[_20241219_114921.JPG](/uploads/_20241219_114921.JPG)
+
+![_20241219_114921.JPG](/uploads/_20241219_114921.JPG)
 
 #### Experience It Yourself with Insider London
 
