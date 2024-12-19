@@ -26,16 +26,15 @@ Banksy, the elusive artist whose works have become synonymous with street art, m
 
 While Banksy often steals the spotlight, Shoreditch and Brick Lane are also home to a plethora of [emerging talents](https://yieldgallery.com/news/beyond-banksy-the-other-british-street-artists-you-should-know/) who are redefining the street art landscape:
 
-- **Jim Vision**: Known for his vibrant and dynamic murals, Jim Vision’s latest works on Cowper Street showcase his signature style of colourful portraits and collaborative pieces.
-- **Cartooneros**: This Buenos Aires-born artist has brought a touch of South American flair to Blackall Alley with stencils like *Van Gogh* and *Surviving England on Ten Pounds*.
-- **Fink 22**: Hailing from Dubai, Fink 22’s striking faces add a unique aesthetic to the urban canvas of Blackall Alley.
-- **Mr. Cenz**: Renowned for his surrealist graffiti, Mr. Cenz’s murals, such as the in New Inn Yard, offer a mesmerising blend of abstract and figurative elements.
+- **Jim Vision**: Known for his vibrant and dynamic murals, [Jim Vision’s](https://www.jimvision.co.uk/) latest works on Cowper Street showcase his signature style of colourful portraits and collaborative pieces.
+- **Cartooneros**: This Buenos Aires-born artist has brought a touch of [South American flair](http://cartoonneros.com/inicio.php?lang=eng) to Blackall Alley with stencils like *Van Gogh* and *Surviving England on Ten Pounds*.
+- **Fink 22**: Hailing from Dubai, Fink 22’s [striking faces](https://meetingofstyles.com/mos-profiles/fink-22/://) add a unique aesthetic to the urban canvas of Blackall Alley.
+- **Mr. Cenz**: Renowned for his surrealist graffiti, [Mr. Cenz’s murals](https://mrcenz.com/), such as the one in New Inn Yard, offer a mesmerising blend of abstract and figurative elements.
 
 #### The Ever-Changing Canvas
 
 One of the most exciting aspects of street art is its transient nature. The murals and stencils that adorn the walls of Shoreditch and Brick Lane are constantly evolving, with new pieces appearing regularly. This dynamic environment ensures that every visit offers something fresh and unexpected.
 
-![20241219_120527.jpg](/uploads/20241219_120527.jpg)
 
 #### Experience It Yourself with Insider London
 
