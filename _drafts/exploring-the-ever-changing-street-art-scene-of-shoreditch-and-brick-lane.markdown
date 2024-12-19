@@ -24,12 +24,12 @@ Banksy, the elusive artist whose works have become synonymous with street art, m
 
 #### Emerging Artists Making Waves
 
-While Banksy often steals the spotlight, Shoreditch and Brick Lane are also home to a plethora of emerging talents who are redefining the street art landscape:
+While Banksy often steals the spotlight, Shoreditch and Brick Lane are also home to a plethora of [emerging talents](https://yieldgallery.com/news/beyond-banksy-the-other-british-street-artists-you-should-know/) who are redefining the street art landscape:
 
-- **Jim Vision**: Known for his vibrant and dynamic murals, Jim Vision’s [latest works](https://www.atfirstsightgallery.com/blogs/blog/street) on Cowper Street showcase his signature style of colourful portraits and collaborative pieces.
-- **Cartooneros**: This Buenos Aires-born artist has brought a touch of South American flair to [Blackall Alley](https://yieldgallery.com/news/beyond-banksy-the-other-british-street-artists-you-should-know/) with stencils like *Van Gogh* and *Surviving England on Ten Pounds*.
+- **Jim Vision**: Known for his vibrant and dynamic murals, Jim Vision’s latest works on Cowper Street showcase his signature style of colourful portraits and collaborative pieces.
+- **Cartooneros**: This Buenos Aires-born artist has brought a touch of South American flair to Blackall Alley with stencils like *Van Gogh* and *Surviving England on Ten Pounds*.
 - **Fink 22**: Hailing from Dubai, Fink 22’s striking faces add a unique aesthetic to the urban canvas of Blackall Alley.
-- **Mr. Cenz**: Renowned for his surrealist graffiti, Mr. Cenz’s murals, such as the [girl holding the globe](https://metro.co.uk/2024/08/13/map-shows-find-banksys-best-graffiti-spate-new-london-artworks-21415341/) in New Inn Yard, offer a mesmerising blend of abstract and figurative elements.
+- **Mr. Cenz**: Renowned for his surrealist graffiti, Mr. Cenz’s murals, such as the in New Inn Yard, offer a mesmerising blend of abstract and figurative elements.
 
 #### The Ever-Changing Canvas
 
