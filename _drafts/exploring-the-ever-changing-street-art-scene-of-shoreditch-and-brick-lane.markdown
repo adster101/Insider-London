@@ -39,6 +39,6 @@ One of the most exciting aspects of street art is its transient nature. The mura
 
 #### Experience It Yourself with Insider London
 
-To truly appreciate the depth and diversity of Shoreditch and Brick Lane's street art, join [Insider London’s Street Art Tour](https://www.insiderlondon.com/street-art-tour/). Led by knowledgeable guides, this tour takes you through the hidden alleys and bustling streets, providing insights into the stories behind the art and the artists who create it. Whether you're a seasoned art enthusiast or a curious newcomer, this tour is the perfect way to immerse yourself in the vibrant world of London’s street art.
+To truly appreciate the depth and diversity of Shoreditch and Brick Lane's street art, join our [Street Art Tour](https://www.insiderlondon.com/london/educational-tours/street-art-tour-london/). Led by knowledgeable guides, this tour takes you through the hidden alleys and bustling streets, providing insights into the stories behind the art and the artists who create it. Whether you're a seasoned art enthusiast or a curious newcomer, this tour is the perfect way to immerse yourself in the vibrant world of London’s street art.
 
-*[Contact us] to book the tour (mailto:contact@insiderlondon.com)and discover the ever-changing canvas of Shoreditch and Brick Lane.*
+*[Contact us](mailto:contact@insiderlondon.com) to book the Street Art tour and discover the ever-changing canvas of Shoreditch and Brick Lane.*
