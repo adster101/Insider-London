@@ -17,7 +17,7 @@ description: We are thrilled to announce our partnership with Pall Mall Investme
 ---
 
 ![pallmall.jpg](/uploads/pallmall.jpg)
-<small>Vanessa Fu and Ben Armstrong</small>
+<em><small>Vanessa Fu and Ben Armstrong</small></em>
 
 We are thrilled to announce our partnership with [Pall Mall Investments](https://www.linkedin.com/company/pall-mall-investments-international/about/), a leader in the UK's dynamic startup ecosystem. As a key player in fostering innovation and growth, Pall Mall Investments specialises in helping companies raise significant capital, connect with investors, and navigate the complexities of scaling a business. Their expertise in sectors ranging from tech and AI to manufacturing makes them an invaluable resource for entrepreneurs and investors alike.
 
@@ -45,9 +45,9 @@ This week we are bringing you an exclusive interview with the dynamic Co-CEOs of
 
 **PMI: ** Without doubt the best talent is always homegrown. Bring people in at the graduate level and train and mentor them. It is time consuming and risky but the results are extraordinary.
 
-**IL:What’s the future vision of Pall Mall Investments?**
+**IL: What’s the future vision of Pall Mall Investments?**
 
-**PMI:** Attracting more global entrepreneurs to the UK , helping them grow , develop and mature but at the same time making sure they are doing this with integrity and honesty.
+**PMI: ** Attracting more global entrepreneurs to the UK , helping them grow , develop and mature but at the same time making sure they are doing this with integrity and honesty.
  
 *At Insider London, we are proud to collaborate with Pall Mall Investments to offer exclusive company visits and tailored experiences. These visits provide unique opportunities to gain firsthand insights into the UK startup ecosystem, connect with industry leaders, and learn about the strategies that drive innovation and business success.  Such experiences can provide invaluable knowledge and networking opportunities, crucial for anyone looking to excel in the competitive world of business.
 
