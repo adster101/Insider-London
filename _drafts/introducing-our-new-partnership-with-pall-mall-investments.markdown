@@ -17,10 +17,11 @@ description: We are thrilled to announce our partnership with Pall Mall Investme
 ---
 
 ![pallmall.jpg](/uploads/pallmall.jpg)
+<small>Vanessa Fu and Ben Armstrong</small>
 
 We are thrilled to announce our partnership with [Pall Mall Investments](https://www.linkedin.com/company/pall-mall-investments-international/about/), a leader in the UK's dynamic startup ecosystem. As a key player in fostering innovation and growth, Pall Mall Investments specialises in helping companies raise significant capital, connect with investors, and navigate the complexities of scaling a business. Their expertise in sectors ranging from tech and AI to manufacturing makes them an invaluable resource for entrepreneurs and investors alike.
 
-This week we are bringing you an exclusive interview with the dynamic Co-CEOs of Pall Mall Investments, [Vanessa Fu](https://www.linkedin.com/in/vanessa-fu-04617231/) [Ben Armstrong](https://www.linkedin.com/in/benarmstrong50/). 
+This week we are bringing you an exclusive interview with the dynamic Co-CEOs of Pall Mall Investments, [Vanessa Fu](https://www.linkedin.com/in/vanessa-fu-04617231/) and [Ben Armstrong](https://www.linkedin.com/in/benarmstrong50/). 
 
 
 **IL: Hi Ben/Vanessa, thanks for your time talking to our groups, can you tell us a bit more about Pall Mall Investments and its pivotal role in the vibrant startups scene in the UK?**
