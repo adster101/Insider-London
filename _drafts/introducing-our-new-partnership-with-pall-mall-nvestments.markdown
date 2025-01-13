@@ -42,14 +42,12 @@ This week we are bringing you an exclusive interview with the dynamic Co-CEOs of
  
 **IL:We all know the access to talents is equally important as the access to the market, what kind of strategies will you recommend?**
 
-**PMI:** Without doubt the best talent is always homegrown. Bring people in at the graduate level and train and mentor them. It is time consuming and risky but the results are extraordinary.
+**PMI: ** Without doubt the best talent is always homegrown. Bring people in at the graduate level and train and mentor them. It is time consuming and risky but the results are extraordinary.
 
 **IL:What’s the future vision of Pall Mall Investments?**
 
 **PMI:** Attracting more global entrepreneurs to the UK , helping them grow , develop and mature but at the same time making sure they are doing this with integrity and honesty.
  
-At Insider London, we are proud to collaborate with Pall Mall Investments to offer exclusive company visits and tailored experiences. These visits provide unique opportunities to gain firsthand insights into the UK startup ecosystem, connect with industry leaders, and learn about the strategies that drive innovation and business success.
+*At Insider London, we are proud to collaborate with Pall Mall Investments to offer exclusive company visits and tailored experiences. These visits provide unique opportunities to gain firsthand insights into the UK startup ecosystem, connect with industry leaders, and learn about the strategies that drive innovation and business success.  Such experiences can provide invaluable knowledge and networking opportunities, crucial for anyone looking to excel in the competitive world of business.
 
-Such experiences can provide invaluable knowledge and networking opportunities, crucial for anyone looking to excel in the competitive world of business.
-
-If you're interested in booking a company visit or learning more about our collaborations, contact us Pall Mall Investments, reach out to us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com), or visit Insider London Company Visits for more details.*
+If you're interested in booking a company visit or learning more about our collaborations, reach out to us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com), or [Company Visits](https://www.insiderlondon.com/london/company-visits/) for more details.*
