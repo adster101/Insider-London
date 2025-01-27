@@ -16,9 +16,14 @@ description: Shanghai, a global hub of culture, commerce, and innovation, offers
   East China University of Science and Technology (ECUST).
 ---
 
+![Campus entrance.jpeg](/uploads/Campus%20entrance.jpeg)
+<small>ECUST Campus Entrance</small>
+
 Shanghai, a global hub of culture, commerce, and innovation, offers endless opportunities for students to immerse themselves in one of the world’s most dynamic cities. With its rich history, vibrant modernity, and status as a gateway to China’s booming economy, Shanghai is the perfect destination for those looking to expand their horizons and develop global competencies. At Insider London, we are thrilled to present our bespoke Shanghai Programme in official partnership with the prestigious East China University of Science and Technology (ECUST).
 
 This immersive programme combines academic excellence, cultural exploration, and practical business insights, creating a transformative experience tailored to your specific interests. Whether you are a budding entrepreneur, a future engineer, or someone eager to enhance your understanding of the Chinese language and culture, our Shanghai Programme will provide you with unparalleled opportunities to learn, grow, and thrive.
+
+
 
 ### **East China University of Science and Technology: A Gateway to Excellence**
 
