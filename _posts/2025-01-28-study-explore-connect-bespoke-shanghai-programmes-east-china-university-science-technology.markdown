@@ -7,6 +7,10 @@ categories:
 tags:
 - Shanghai
 - Business visits
+- business education
+- china
+- partnerships
+- immersive education
 description: Shanghai, a global hub of culture, commerce, and innovation, offers endless
   opportunities for students to immerse themselves in one of the world’s most dynamic
   cities. With its rich history, vibrant modernity, and status as a gateway to China’s
@@ -19,7 +23,7 @@ description: Shanghai, a global hub of culture, commerce, and innovation, offers
 ![Xuhui Campus](/uploads/Xuhui%20Campus4-6babe1.jpg)
 <small>East China University Of Science And Technology Xuhui Campus</small>
 
-Shanghai, a global hub of culture, commerce, and innovation, offers endless opportunities to immerse yourself in one of the world’s most dynamic cities. With its rich history, vibrant modernity, and status as a gateway to China’s booming economy, Shanghai is the perfect destination for expanding horizons and developing global competencies. At Insider London, we are thrilled to present our bespoke Shanghai Programme in official partnership with the prestigious [East China University of Science and Technology (ECUST)](http://english.ecust.edu.cn/), offering academic excellence, cultural exploration, and practical business insights tailored to your interests.
+Shanghai, a global hub of culture, commerce, and innovation, offers endless opportunities to immerse yourself in one of the world’s most dynamic cities. With its rich history, vibrant modernity, and status as a gateway to China’s booming economy, Shanghai is the perfect destination for expanding horizons and developing global competencies. At Insider London, we are thrilled to present our bespoke Shanghai Programme in official partnership with the prestigious [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/en/main.psp), offering academic excellence, cultural exploration, and practical business insights tailored to your interests.
 
 ### **East China University of Science and Technology: A Gateway to Excellence**
 
