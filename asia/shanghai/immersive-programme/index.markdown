@@ -12,12 +12,10 @@ gallery:
   alt: shanghai panorama
 - image: "/uploads/AdobeStock_581795433.jpeg"
   alt: shanghai experience
-- image: "/uploads/shanghai-4.jpeg.jpg"
-  alt: students learning
-- image: "/uploads/shanghai.jpeg"
-  alt: shanghai immerse
-- image: 
-  alt: 
+- image: "/uploads/Xuhui%20Campus4-6babe1.jpg"
+  alt: campus
+- image: "/uploads/canteen.jpg"
+  alt: canteen
 Field name: 
 layout: programme
 ---
