@@ -18,7 +18,7 @@ description: At Insider London, we are proud to announce our new partnership wit
 
 ![l39 Kick](/uploads/l39%20Kick.jpg)
 
-At Insider London, we are proud to announce our new partnership with [Kick](https://www.kickweb3.io/), a cutting-edge company at the forefront of the Web3 revolution. As part of our London Programme, we recently hosted a company visit at **Level 39**, a premier fintech and tech innovation hub in Canary Wharf. During this exclusive session, we had the pleasure of hearing from **Donna Chen**, Co-Founder & COO of Kick. Donna, an expert in Web3 and crypto marketing, shared valuable insights into the evolution of Web3, blockchain, and cryptocurrencies is reshaping industries, particularly marketing and digital engagement.
+At Insider London, we are proud to announce our new partnership with [Kick](https://www.kickweb3.io/), a cutting-edge company at the forefront of the Web3 revolution. As part of our London Programme, we recently hosted a company visit at **Level 39**, a premier fintech and tech innovation hub in Canary Wharf. During this exclusive session, we had the pleasure of hearing from **Donna Chen**, Co-Founder & COO of Kick. Donna, an expert in Web3 and crypto marketing, shared valuable insights into the evolution of Web3, blockchain, and cryptocurrencies and how they are reshaping industries, particularly marketing and digital engagement.
 
 #### A New Era: The Evolution from Web 1.0 to Web 3.0
 
@@ -46,13 +46,13 @@ One of the most exciting parts of the session was the **students' enthusiasm for
 
 This visit provided **a rare, hands-on learning experience** for students from diverse fields, including **computer science, marketing, business strategy, and finance.** 
 
-## Conclusion: Join Us for a Web3 Learning Experience
+#### Join Us for a Web3 Learning Experience
 
 Our partnership with **Kick** enhances **Insider London’s educational offering**, giving students **unparalleled access** to the fast-growing world of Web3. Whether you're a student of **computer science, digital marketing, entrepreneurship, or fintech**, this collaboration offers **bespoke workshops** designed to provide **practical insights into the future of digital ecosystems.** 
 
 🔹 Want to learn more about **Web3 and digital transformation**?  
 🔹 Interested in **booking a company visit** to experience these innovations firsthand?  
 
-**Contact us at** [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit [Insider London’s Website](https://www.insiderlondon.com) to find out more.
+***Contact us at** [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit [Insider London’s Website](https://www.insiderlondon.com) to find out more.*
 
 
