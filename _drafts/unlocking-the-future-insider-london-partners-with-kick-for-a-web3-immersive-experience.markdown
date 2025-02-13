@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking the Future: Insider London Partners with Kick for a Web3 Workshop'
-date: 2025-02-12 16:53:00 Z
+date: 2025-02-13 09:00:00 Z
 tags:
 - web3
 - nft
