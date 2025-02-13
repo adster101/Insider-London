@@ -40,7 +40,7 @@ Drawing from her career journey, Donna highlighted how **Web3 broke the traditio
 These changes demand new skill sets, particularly in marketing, communications, and branding strategies tailored for decentralised ecosystems.
 
 ![L39 Donna Chen.jpg](/uploads/L39%20Donna%20Chen.jpg)
-<small>Donna Chen, Founder & COO of Kick</small>
+<small>Donna Chen, Co-Founder & COO of Kick</small>
 
 #### What Kick Does and Their Impact
 
