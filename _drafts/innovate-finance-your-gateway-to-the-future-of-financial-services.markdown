@@ -19,6 +19,12 @@ description: 'At Insider London, we are always looking for new ways to connect i
 
 At Insider London, we are always looking for new ways to connect individuals with the most influential players in the financial world. That’s why we’re excited to announce our latest partnership with  [Innovate Finance](https://www.innovatefinance.com/), the leading independent industry body representing and advancing the UK's FinTech sector. Through this partnership, we are offering exclusive company visits that will provide professionals and students with an in-depth understanding of the rapidly evolving financial technology sector. 
 
+## The UK’s FinTech Boom: A Thriving Industry
+
+With over **3,400 FinTech firms** operating nationwide—a number projected to double by 2030—the sector is a cornerstone of the UK's economic landscape. In **2023 alone, the UK FinTech market was valued at approximately $11.9 billion**, with expectations to reach **$45.6 billion by 2032**, reflecting a **compound annual growth rate (CAGR) of 16.1%**. [IMARC Group](https://www.imarcgroup.com/uk-fintech-market)
+
+This rapid expansion underscores the UK's position as a **global FinTech hub**, second only to the United States in terms of investment. In **2022, the sector attracted $17.4 billion in investments**, despite global economic headwinds. [Trade.gov](https://www.trade.gov/country-commercial-guides/united-kingdom-financial-technology-fintech) The industry's growth is further evidenced by the employment of **approximately 76,500 individuals**, a figure anticipated to rise to **105,500 by 2030**. [Great.gov.uk](https://www.great.gov.uk/international/investment/sectors/fintech/)
+
 
 ## Who is Innovate Finance?  
 
