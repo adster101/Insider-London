@@ -21,16 +21,16 @@ At Insider London, we are always looking for new ways to connect individuals wit
 
 ## The UK’s FinTech Boom: A Thriving Industry
 
-With over **3,400 FinTech firms** operating nationwide—a number projected to double by 2030—the sector is a cornerstone of the UK's economic landscape. In **2023 alone, the UK FinTech market was valued at approximately $11.9 billion**, with expectations to reach **$45.6 billion by 2032**, reflecting a **compound annual growth rate (CAGR) of 16.1%**. [IMARC Group](https://www.imarcgroup.com/uk-fintech-market)
+With over **3,400 FinTech firms** operating nationwide—a number projected to double by 2030—the sector is a cornerstone of the UK's economic landscape. In 2023 alone, the UK FinTech market was valued at approximately $11.9 billion, with expectations to reach [$45.6 billion by 2032](https://www.imarcgroup.com/uk-fintech-market).
 
-This rapid expansion underscores the UK's position as a **global FinTech hub**, second only to the United States in terms of investment. In **2022, the sector attracted $17.4 billion in investments**, despite global economic headwinds. [Trade.gov](https://www.trade.gov/country-commercial-guides/united-kingdom-financial-technology-fintech) The industry's growth is further evidenced by the employment of **approximately 76,500 individuals**, a figure anticipated to rise to **105,500 by 2030**. [Great.gov.uk](https://www.great.gov.uk/international/investment/sectors/fintech/)
+This rapid expansion underscores the UK's position as a **global FinTech hub**, second only to the United States in terms of investment. In 2022, the sector attracted $17.4 billion in [investments](https://www.trade.gov/country-commercial-guides/united-kingdom-financial-technology-fintech), despite global economic headwinds. The industry's growth is further evidenced by the employment of **approximately 76,500 individuals**, a figure [anticipated to rise](https://www.great.gov.uk/international/investment/sectors/fintech/) to 105,500 by 2030. 
 
 
 ## Who is Innovate Finance?  
 
-Innovate Finance was founded to support and champion technology-driven innovation in financial services. As a key voice in the FinTech ecosystem, the organisation works to promote a more inclusive, sustainable, and efficient financial sector. Their efforts span a wide range of initiatives, from advocacy and policy engagement to networking events and thought leadership programs. By bridging the gap between startups, established financial institutions, investors, and policymakers, Innovate Finance plays a crucial role in fostering collaboration within the industry.  
+At the heart of this growth is **Innovate Finance**, an **independent industry body** dedicated to supporting the FinTech ecosystem. From **connecting entrepreneurs with key industry players** to providing insights into emerging trends, they play a crucial role in ensuring the UK remains at the forefront of financial technology
 
-**Innovative Finance**'s primary goal is to create an environment where emerging FinTech companies can thrive. By working closely with regulators, financial institutions, and government entities, they help shape policies that promote innovation while maintaining stability and consumer protection. This approach has positioned the UK as a global leader in FinTech, attracting investment and talent from around the world.  
+As a key voice in the FinTech ecosystem, the organisation works to promote a more inclusive, sustainable, and efficient financial sector. Their efforts span a wide range of initiatives, from advocacy and policy engagement to networking events and thought leadership programmes. By bridging the gap between startups, established financial institutions, investors, and policymakers, Innovate Finance plays a crucial role in fostering collaboration within the industry.    
 
 **Innovate Finance** also provides a platform for knowledge sharing, bringing together industry leaders to discuss challenges and opportunities within the sector. Their flagship events, such as the [Innovate Finance Global Summit](https://youtu.be/50hBPx2pBjc), have become must-attend gatherings for anyone interested in the future of financial services. Through reports, research, and strategic partnerships, they continuously work to highlight the impact of technology on banking, payments, insurance, and other financial areas.  
 
@@ -45,8 +45,6 @@ For university students and aspiring entrepreneurs, the FinTech industry represe
 * Learning how startups and established financial institutions collaborate to drive innovation.
 * Understanding the funding landscape for FinTech startups and how investors evaluate new business ideas.
 * Gaining insights into the entrepreneurial journey from startup to scale-up.
-Exploring career opportunities within the FinTech industry, from technical roles to business development and regulatory compliance.
-
 
 ## Join Us in Exploring the Future of FinTech  
 
