@@ -50,6 +50,12 @@ Exploring career opportunities within the FinTech industry, from technical roles
 
 ## Join Us in Exploring the Future of FinTech  
 
-For those interested in exploring the world of financial technology, this partnership presents an incredible opportunity to immerse yourself in the industry, gain expert knowledge, and expand your professional network. Keep an eye out for upcoming visit dates and registration details. We look forward to welcoming students, professionals, and entrepreneurs who are eager to explore the future of finance.
+For those interested in exploring the world of financial technology, this partnership presents an incredible opportunity to immerse yourself in the industry, gain expert knowledge, and expand your professional network. 
+
+To gain a **real-world perspective** on this thriving industry, Insider London also offers **specialist walking tours** through London’s financial and tech hubs:  
+
+**Canary Wharf Tour** – See how one of the world’s most powerful financial districts is evolving with cutting-edge startups and global financial institutions.  
+
+**Silicon Roundabout Tech Tour** – Discover London’s digital epicenter, where startups are revolutionising financial services with AI, blockchain, and digital banking.  
 
 *For more information on how to participate, feel free to contact us at please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*  
