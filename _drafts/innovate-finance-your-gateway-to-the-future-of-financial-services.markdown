@@ -52,8 +52,8 @@ For those interested in exploring the world of financial technology, this partne
 
 To gain a **real-world perspective** on this thriving industry, Insider London also offers **specialist walking tours** through London’s financial and tech hubs:  
 
-[Finance Tours](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) – See how the world’s most powerful financial districts ate evolving with cutting-edge startups and global financial institutions.  
+[Finance Tours](https://www.insiderlondon.com/london/educational-tours/london-finance-walking-tour/) – See how the world’s most powerful financial districts are evolving with cutting-edge startups and global financial institutions.  
 
-[Silicon Roundabout Tech Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/) – Discover London’s digital epicenter, where startups are revolutionising financial services with AI, blockchain, and digital banking.  
+[Silicon Roundabout Tech Tour](https://www.insiderlondon.com/london/educational-tours/silicon-roundabout-and-tech-city-tour/) – Discover London’s digital epicentre, where startups are revolutionising financial services with AI, blockchain, and digital banking.  
 
-*For more information on how to participate, feel free to contact us at please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*  
+*For more information on how to participate, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*  
