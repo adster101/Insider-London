@@ -1,12 +1,13 @@
 ---
 title: Berlin Programme
+published: false
 position: 6
 heading: Berlin
 description: 
-layout: landing
 background: berlin.jpg
 nav: berlin
 repeatnav: true
+layout: landing
 ---
 
 Plug yourself into the vibe of <strong class="white">Europe's most radical and imaginative city - BERLIN</strong>.
