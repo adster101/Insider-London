@@ -1,5 +1,6 @@
 ---
 title: Company Visits Berlin
+published: false
 position: 15
 heading: Company Visits Berlin
 description: Explore one of the most exciting technology hubs in Europe. Our Company

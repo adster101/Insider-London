@@ -1,11 +1,11 @@
 ---
 title: Education Tours Berlin
+published: false
 position: 21
 heading: Educational Tours Berlin
 description: A centre for media, science, and research, the German capital maintains
   its status as the technology hub for Europe. We present Berlin in all its glory
   with our exclusive range of education tours and company visits.
-layout: programme
 nav: berlin
 gallery1:
 - image: "/assets/images/cities/berlin/silicon-allee/berlin-building-facade.jpg"
@@ -21,6 +21,7 @@ gallery2:
   alt: Street art images painted on the Berlin Wall
 - image: "/assets/images/cities/berlin/street-art/street-art-again.jpg"
   alt: 
+layout: programme
 ---
 
 Our guided 2-hour walking tours showcase the most exciting dimensions to Berlin as a rich and vibrant hub of creativity and business innovation. Check out our absorbing **[Silicon Allee/Tech City Tour](#silicon-alleetech-city-tour)** and our thought-provoking **[Berlin Street Art Tour](#berlin-street-art-tour)!**
