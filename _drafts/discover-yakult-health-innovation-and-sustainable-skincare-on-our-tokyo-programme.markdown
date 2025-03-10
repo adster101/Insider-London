@@ -9,6 +9,10 @@ tags:
 - Tokyo
 - company visit
 - manufacturing
+description: We are excited to announce our new partnership with Yakult, a global
+  leader in health and wellness, now featured as part of our Insider London Tokyo
+  Programme. This partnership offers a unique opportunity to explore how tradition
+  and innovation converge to drive sustainable solutions in health and beauty.
 ---
 
 ![Firefly A yoghurt drink being made in a factory with machinery. from a distance view isolated on the.jpg](/uploads/Firefly%20A%20yoghurt%20drink%20being%20made%20in%20a%20factory%20with%20machinery.%20from%20a%20distance%20view%20isolated%20on%20the.jpg)
@@ -32,10 +36,10 @@ This unique experience is ideal for:
 - **Entrepreneurs and Innovators:** Learn from a company that is successfully expanding its product range while staying true to its health-centric roots.
 - **Anyone Interested in Sustainable Business Practices:** Discover how innovative manufacturing processes can drive both environmental and economic benefits.
 
-## Join Our Tokyo Programme
+#### Join Our Tokyo Programme
 
 Our partnership with Yakult is a vital part of Insider London’s Tokyo Programme, which is designed to provide exclusive, immersive experiences that bridge academic learning with real-world industry practices. Whether you're interested in health, sustainability, or innovation, this programme offers a unique window into the future of global business.
 
-Don’t miss your chance to see how Yakult is pioneering a sustainable future in health and beauty. For more information about our Tokyo Programme and to book your visit, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [Tokyo Programme page](https://www.insiderlondon.com/asia/tokyo/).
+*Don’t miss your chance to see how Yakult is pioneering a sustainable future in health and beauty. For more information about our Tokyo Programme and to book your visit, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [Tokyo Programme page](https://www.insiderlondon.com/asia/tokyo/).*
 
-Let's explore how innovation and sustainability come together to create a healthier future!
+
