@@ -9,15 +9,19 @@ tags:
 - Tokyo
 - company visit
 - manufacturing
+- sustainability
 description: We are excited to announce our new partnership with Yakult, a global
   leader in health and wellness, now featured as part of our Insider London Tokyo
   Programme. This partnership offers a unique opportunity to explore how tradition
   and innovation converge to drive sustainable solutions in health and beauty.
+excerpt_separator: "<!--read-->"
 ---
 
-![Firefly A yoghurt drink being made in a factory with machinery. From a distance view isolated on the.jpg](/uploads/Firefly%20A%20yoghurt%20drink%20being%20made%20in%20a%20factory%20with%20machinery.%20from%20a%20distance%20view%20isolated%20on%20the.jpg)
+![Firefly A yoghurt drink being made](/uploads/Firefly%20A%20yoghurt%20drink%20being%20made%20in%20a%20factory%20with%20machinery.%20from%20a%20distance%20view%20isolated%20on%20the.jpg)
 
 We are happy to announce our new partnership with [Yakult](https://www.yakult.co.jp/), a well-known name in health and wellness, now featured as part of our Insider London Tokyo Programme. This partnership is a great chance to learn how Yakult combines traditional ideas with modern methods to create products that are both healthy and sustainable.
+
+<!--read-->
 
 #### Who is Yakult?
 
