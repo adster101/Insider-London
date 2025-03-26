@@ -37,6 +37,6 @@ A visit to ElevenLabs provides a comprehensive, behind-the-scenes look at a comp
 
 #### Join Us on This Exciting Journey
 
-Our partnership with ElevenLabs is a key part of Insider London’s commitment to connecting academic learning with real-world industry expertise. If you’re keen to learn more about how AI-driven voice technology is reshaping various industries, our company visits offer a unique window into the future of innovation.
+Our partnership with ElevenLabs is a cornerstone of Insider London’s dedication to merging academic learning with real-world industry expertise. If you're eager to explore how AI-driven voice technology is revolutionising various industries, our company visits offer an inspiring glimpse into the future of innovation.
 
 *For more information about our programmes and to book your visit, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [Insider London website](https://www.insiderlondon.com/).*
