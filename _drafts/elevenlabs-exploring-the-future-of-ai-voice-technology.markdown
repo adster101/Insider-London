@@ -27,7 +27,7 @@ Founded in 2022 by CEO Mateusz Jakub Staniszewski and CTO Piotr Dąbkowski, Elev
 
 #### ElevenLabs' Cutting-Edge Work
 
-ElevenLabs’ innovative technology has already been put to work on several high-profile projects. Their AI-powered translations were featured in Lex Fridman’s three-hour interview with Ukrainian President Zelenskyy, delivering translations in English, Ukrainian, and Russian while preserving the President's unique voice and intonations. In addition, the company’s collaborations with major publishers such as *The New Yorker*, *The Washington Post*, and *The Atlantic*, as well as with gaming studios like Paradox and Cloud Imperium Games, underscore the versatility and impact of their voice synthesis solutions. Alongside these projects, ElevenLabs is dedicated to ethical AI practices by developing tools to detect AI-generated voices and ensuring responsible deployment of their technology.
+ElevenLabs’ innovative technology has already been put to work on several high-profile projects. The company’s collaborations with major publishers such as *The New Yorker*, *The Washington Post*, and *The Atlantic*, as well as with gaming studios like Paradox and Cloud Imperium Games, underscore the versatility and impact of their voice synthesis solutions. Alongside these projects, ElevenLabs is dedicated to ethical AI practices by developing tools to detect AI-generated voices and ensuring responsible deployment of their technology.
 
 #### Why This Visit Is Beneficial
 
