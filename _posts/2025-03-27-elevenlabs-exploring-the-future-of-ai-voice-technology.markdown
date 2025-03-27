@@ -15,11 +15,14 @@ description: Artificial intelligence (AI) is transforming industries worldwide, 
   London-based innovator at the forefront of AI-driven voice synthesis. This collaboration
   allows us to organise company visits that provide a behind-the-scenes look at the
   future of digital communication and creative innovation.
+excerpt_separator: "<!--read-->"
 ---
 
-![11lab.jpg](/uploads/11lab.jpg)
+![Voice_AI](/uploads/11lab@800w.jpg)
 
 Artificial intelligence (AI) is transforming industries worldwide, and voice synthesis technology is playing a key role in this change, impacting media, entertainment, marketing, and healthcare accessibility. At Insider London, we are excited to announce our partnership with [ElevenLabs](https://elevenlabs.io/), a London-based innovator at the forefront of AI-driven voice synthesis. This collaboration allows us to organise company visits that provide a behind-the-scenes look at the future of digital communication and creative innovation.
+
+<!--read-->
 
 #### The Story Behind ElevenLabs
 
