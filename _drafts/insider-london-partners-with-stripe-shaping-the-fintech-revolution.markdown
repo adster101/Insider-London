@@ -8,6 +8,11 @@ tags:
 - Stripe
 - fintech
 - finance
+description: At Insider London, we’re excited to announce our new partnership with
+  [Stripe](https://stripe.com/). As a global leader in fintech innovation, Stripe
+  is transforming digital payments and reshaping the financial landscape. This collaboration
+  allows us to offer company visits that provide students and professionals a behind-the-scenes
+  look at how cutting-edge technology is driving the future of finance.
 ---
 
 ![fintech solution](/uploads/AdobeStock_414095320_resized.jpg)
