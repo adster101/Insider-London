@@ -41,8 +41,6 @@ Through our strategic partnership with Stripe, we provide students and academic 
 
 **Exposure to Cutting-Edge Technology:** Students will explore the latest advancements in payment processing, security, and financial services technology, significantly enhancing their academic and professional growth.  
 
-**Networking Opportunities:** Engaging with Stripe professionals enables visitors to forge essential connections that can open doors to exciting career opportunities in the fintech sector.
-
 
 *If you are keen to explore how fintech is reshaping industries and want to learn from one of the most innovative companies in the world, our exclusive company visits with Insider London are the perfect opportunity. For more information about our programmes and to book your visit, please contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [Insider London website](https://www.insiderlondon.com/).*
 
