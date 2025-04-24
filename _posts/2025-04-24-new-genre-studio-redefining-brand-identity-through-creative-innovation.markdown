@@ -41,4 +41,4 @@ Our partnership with New Genre Studio is a unique opportunity for students, prof
 Whether you’re a marketing student eager to understand brand storytelling, a business professional looking for fresh perspectives on innovation, or an entrepreneur aiming to create a lasting brand identity, our visits with New Genre Studio provide practical insights that bridge theory and practice.
 
 
-*Join us as we explore how creative branding and innovative digital strategies are shaping the future of business. To find out more and book your visit to New Genre Studio, email us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).com or visit our [company visits](https://www.insiderlondon.com/london/company-visits/) page.*
+*Join us as we explore how creative branding and innovative digital strategies are shaping the future of business. To find out more and book your visit to New Genre Studio, email us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [company visits](https://www.insiderlondon.com/london/company-visits/) page.*
