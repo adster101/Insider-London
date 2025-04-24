@@ -18,11 +18,14 @@ description: In today's fast-changing marketplace, companies must not only compe
   approaches. That's why we are excited to announce our new partnership with New Genre
   Studio, a London-based creative studio known for crafting iconic brands and digital
   experiences that resonate with modern consumers.
+excerpt_separator: "<!--read-->"
 ---
 
 ![pexels-diva-plavalaguna-6937932.jpg](/uploads/pexels-diva-plavalaguna-6937932.jpg)
 
 In today's fast-changing marketplace, companies must compellingly tell their story and connect with audiences through clear, authentic, and disruptive approaches. We are excited to announce our new partnership with [New Genre Studio](https://newgenre.studio/), a London-based creative studio known for crafting iconic brands and digital experiences that resonate with modern consumers.
+
+<!--read-->
 
 #### The Power of Creative Branding in the Digital Age
 
