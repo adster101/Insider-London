@@ -25,11 +25,7 @@ Across the wider industry, similar innovations are redefining agency workflows. 
 
 #### Topham Guerin and the AI Frontier in Creative Agencies
 
-[Topham Guerin](https://www.tophamguerin.com/) is a creative agency that stands out with its use of AI to shake things up in the creative industry. They’re known for their bold campaigns and storytelling that grab your attention. Instead of seeing AI as just a gimmick, they treat it as a valuable tool that boosts their creative and production game. Their work shows how AI can make workflows smoother, speed up content creation, and explore exciting new possibilities in visual and strategic communication. 
-
-#### AI-Driven Campaigning by Topham Guerin
-
-[Topham Guerin](https://tophamguerin.com) (TG) has become known for large-scale **AI-driven election campaigns**. In the **2024 Queensland state election**, TG’s digital team played a major role in the Liberal National Party of Queensland LNP's campaign, using artificial intelligence to drive content creation, research, and performance tracking.
+[Topham Guerin](https://www.tophamguerin.com/) is a creative agency that stands out with its use of AI to shake things up in the creative industry. In the **2024 Queensland state election**, TG’s digital team played a major role in the Liberal National Party of Queensland LNP's campaign, using artificial intelligence to drive content creation, research, and performance tracking.
 
 TG’s reporting highlighted that its dedicated AI team produced **744 unique ad creatives**, including **465 video ads**, for the campaign. About **half of the videos were AI-generated or edited**, enabling hyper-local, real-time message testing in marginal electorates.
 
