@@ -7,6 +7,12 @@ tags:
 - AI
 - creative agency
 - marketing
+- ai marketing
+- marketing innovation
+- innovation
+- creative community
+- political strategy
+- political campaign
 description: "\nThe marketing and creative industries are undergoing a seismic shift,
   driven by the rapid integration of artificial intelligence (AI) technologies. From
   automating content creation to enhancing data analytics, AI is redefining how agencies
@@ -25,7 +31,7 @@ Across the wider industry, similar innovations are redefining agency workflows. 
 
 #### Topham Guerin and the AI Frontier in Creative Agencies
 
-[Topham Guerin](https://www.tophamguerin.com/) is a creative agency that stands out with its use of AI to shake things up in the creative industry. In the **2024 Queensland state election**, TG’s digital team played a major role in the Liberal National Party of Queensland LNP's campaign, using artificial intelligence to drive content creation, research, and performance tracking.
+[Topham Guerin](https://www.tophamguerin.com/) is a creative agency that stands out with its use of AI to shake things up in the creative industry. In the **2024 Queensland state election**, TG’s digital team played a major role in the Liberal National Party of Queensland's campaign, using artificial intelligence to drive content creation, research, and performance tracking.
 
 TG’s reporting highlighted that its dedicated AI team produced **744 unique ad creatives**, including **465 video ads**, for the campaign. About **half of the videos were AI-generated or edited**, enabling hyper-local, real-time message testing in marginal electorates.
 
