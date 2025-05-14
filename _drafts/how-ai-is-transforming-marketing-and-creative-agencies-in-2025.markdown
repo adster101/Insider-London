@@ -27,9 +27,39 @@ Across the wider industry, similar innovations are redefining agency workflows. 
 
 [Topham Guerin](https://www.tophamguerin.com/) is a creative agency that stands out with its use of AI to shake things up in the creative industry. They’re known for their bold campaigns and storytelling that grab your attention. Instead of seeing AI as just a gimmick, they treat it as a valuable tool that boosts their creative and production game. Their work shows how AI can make workflows smoother, speed up content creation, and explore exciting new possibilities in visual and strategic communication. 
 
-If you're curious about how AI is being used in real-world creative settings, Insider London offers exclusive company visits to Topham Guerin. During the visit, you'll get a behind-the-scenes look at how their team integrates AI into their projects, from initial concepts to final delivery. It's a unique opportunity to learn how a modern agency balances technology and creativity to produce impactful work.
+#### AI-Driven Campaigning by Topham Guerin
 
-Whether you're a student, a marketing professional, or just interested in the future of creative industries, this visit offers valuable insights into how agencies are adapting to new technologies.
+[Topham Guerin](https://tophamguerin.com) (TG) has become known for large-scale **AI-driven election campaigns**. In the **2024 Queensland state election**, TG’s digital team played a major role in the Liberal National Party of Queensland LNP's campaign, using artificial intelligence to drive content creation, research, and performance tracking.
 
-*To find out more and book your visit, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [company visits](https://www.insiderlondon.com/london/company-visits/) page.*
+TG’s reporting highlighted that its dedicated AI team produced **744 unique ad creatives**, including **465 video ads**, for the campaign. About **half of the videos were AI-generated or edited**, enabling hyper-local, real-time message testing in marginal electorates.
+
+TG didn’t just use AI to make videos—it also built a **full-stack AI campaign workflow**:
+
+* **Synthetic-population research**: TG’s data scientists used AI to simulate entire electorates. These *synthetic populations* were used to test policies and campaign messages in a risk-free environment. The spin-off firm [Electric Twin](https://www.electrictwin.com/) specialises in this approach.
+* **Social media analysis**: AI tools scanned social conversations at scale, surfacing trends, voter sentiment, and potential hot-button issues across platforms.
+* **Media tracking and reporting**: Automated AI dashboards tracked campaign performance in real time, from ad spend to impressions to engagement.
+* **Creative production**: The AI team rapidly generated visuals, voiceovers, and video assets, enabling TG to scale production far beyond traditional campaign methods.
+
+#### Other Uses of AI in TG’s Creative Work
+
+Outside of politics, TG has continued experimenting with generative AI. In 2022, they began using AI-generated images in digital marketing campaigns, claiming up to **2× performance improvement** over traditional stock visuals.
+
+More recently, TG produced what they believe to be **Australia’s first fully AI-generated political TV ad** for the ACT Liberal Party—scripted, voiced, and rendered entirely with generative AI tools. The campaign saved significantly on production costs while maintaining visual impact.
+
+Other practical AI applications at TG include:
+
+* On-demand voiceover generation
+* Bespoke visual creation for brand campaigns
+* Automated media planning and performance tracking
+
+TG’s AI team is not an add-on; it’s embedded in every stage of modern creative campaigning—from research and message testing to execution and reporting.
+
+#### Learn More: Company Visits with TG
+
+At **Insider London**, we are proud to offer exclusive company visits to [Topham Guerin](https://tophamguerin.com), giving participants a chance to see how AI is transforming the world of marketing, advertising, and political communication.
+
+These visits are ideal for students of media, political science, communications, and digital marketing. You’ll gain firsthand insights into how creative professionals at TG use AI in their work—from market research to ad production to strategy execution.
+
+*👉 [Book your visit here](https://www.insiderlondon.com/london/company-visits/) or contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to learn more.*
+
 
