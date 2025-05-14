@@ -1,5 +1,5 @@
 ---
-title: How AI Is Transforming Marketing and Creative Agencies in 2025
+title: How AI Is Transforming Marketing and Creative Agencies
 date: 2025-05-14 16:22:00 Z
 categories:
 - Marketing and Retail
