@@ -58,10 +58,10 @@ TG’s AI team is not an add-on; it’s embedded in every stage of modern creati
 
 #### Learn More: Company Visits with TG
 
-At **Insider London**, we are proud to offer exclusive company visits to [Topham Guerin](https://tophamguerin.com), giving participants a chance to see how AI is transforming the world of marketing, advertising, and political communication.
+At **Insider London**, we are proud to offer exclusive [company visits](https://www.insiderlondon.com/london/company-visits/) to [Topham Guerin](https://tophamguerin.com), giving participants a chance to see how AI is transforming the world of marketing, advertising, and political communication.
 
 These visits are ideal for students of media, political science, communications, and digital marketing. You’ll gain firsthand insights into how creative professionals at TG use AI in their work—from market research to ad production to strategy execution.
 
-*👉 [Book your visit here](https://www.insiderlondon.com/london/company-visits/) or contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to learn more.*
+*👉 To book your visit here, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to learn more.*
 
 
