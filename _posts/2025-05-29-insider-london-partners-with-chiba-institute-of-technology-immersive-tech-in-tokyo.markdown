@@ -17,7 +17,7 @@ description: |2-
 
 ![Chiba_Wheelchair.jpg](/uploads/Chiba_Wheelchair.jpg)
 
-At Insider London, we’re delighted to announce our partnership with the Chiba Institute of Technology (CIT), Japan’s oldest private technical university. As part of our Tokyo Programme, we recently hosted an interactive visit that showcased CIT’s cutting-edge innovations and engaging student experiences.
+At Insider London, we’re delighted to announce our partnership with the Chiba Institute of Technology (CIT), Japan’s oldest private technical university. As part of our [Tokyo Programme](httphttps://www.insiderlondon.com/asia/tokyo/), we recently hosted an interactive visit that showcased CIT’s cutting-edge innovations and engaging student experiences.
 
 #### Exploring CIT in Tokyo
 
@@ -44,7 +44,7 @@ CIT’s collaboration with NASA offers another layer of excitement. During the v
 
 #### Join Our Tokyo Programme
 
-Chiba Institute of Technology’s pioneering work perfectly complements Insider London’s mission to bridge academic learning with real-world industry practice. Our Tokyo Programme now includes bespoke visits to CIT and its unique tech experiences, offering international students and professionals an unparalleled insight into Japan’s technological ecosystem.
+Chiba Institute of Technology’s pioneering work perfectly complements Insider London’s mission to bridge academic learning with real-world industry practice. Our [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/) now includes bespoke visits to CIT and its unique tech experiences, offering international students and professionals an unparalleled insight into Japan’s technological ecosystem.
 
 *If you’re interested in exploring Tokyo’s tech forefront—complete with interactive robotics, immersive virtual reality, and space technology workshop, get in touch via [mailto:contact@insiderlondon.com](contact@insiderlondon.com) to arrange your visit*
 
