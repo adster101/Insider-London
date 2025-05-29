@@ -11,7 +11,7 @@ description: |2-
   At Insider London, we’re delighted to announce our partnership with the Chiba Institute of Technology (CIT), Japan’s oldest private technical university. As part of our Tokyo Programme, we recently hosted an interactive visit that showcased CIT’s cutting-edge innovations and engaging student experiences.
 ---
 
-![Chiba Visit](/uploads/Chiba%20Visit.jpg)
+![Chiba_Wheelchair.jpg](/uploads/Chiba_Wheelchair.jpg)
 
 
 At Insider London, we’re delighted to announce our partnership with the Chiba Institute of Technology (CIT), Japan’s oldest private technical university. As part of our Tokyo Programme, we recently hosted an interactive visit that showcased CIT’s cutting-edge innovations and engaging student experiences.
@@ -26,7 +26,8 @@ Our journey began at CIT’s Tokyo Campus, where students and faculty gathered f
 
 One of the highlights of the visit was the Cyber Wheel demonstration. CIT researchers showcased this novel, an all-terrain personal transporter that reimagines urban mobility. Attendees had the chance to ride the Cyber Wheel themselves, experiencing first-hand how its intuitive balance controls and responsive handling can navigate complex city environments. This session opened discussions on robotics, mechanical engineering, and the future of personal transportation in smart cities.
 
-![Chiba_Wheelchair.jpg](/uploads/Chiba_Wheelchair.jpg)
+![Chiba Visit](/uploads/Chiba%20Visit.jpg)
+
 
 #### VR Marathon: Pushing Virtual Boundaries
 
