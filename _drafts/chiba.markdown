@@ -1,18 +1,21 @@
 ---
 title: 'Insider London Partners with Chiba Institute of Technology: Immersive Tech
   in Tokyo'
-date: 2025-05-28 08:53:00 Z
+date: 2025-05-29 08:53:00 Z
+categories:
+- Events
 tags:
 - technology
 - robotics
 - Tokyo visits
+- innovation
+- Business visits
 description: |2-
 
   At Insider London, we’re delighted to announce our partnership with the Chiba Institute of Technology (CIT), Japan’s oldest private technical university. As part of our Tokyo Programme, we recently hosted an interactive visit that showcased CIT’s cutting-edge innovations and engaging student experiences.
 ---
 
 ![Chiba_Wheelchair.jpg](/uploads/Chiba_Wheelchair.jpg)
-
 
 At Insider London, we’re delighted to announce our partnership with the Chiba Institute of Technology (CIT), Japan’s oldest private technical university. As part of our Tokyo Programme, we recently hosted an interactive visit that showcased CIT’s cutting-edge innovations and engaging student experiences.
 
