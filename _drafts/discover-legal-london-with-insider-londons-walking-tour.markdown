@@ -1,8 +1,6 @@
 ---
 title: Discover  Legal London with Insider London’s Walking Tour
 date: 2025-06-26 09:28:00 Z
-categories:
-- Law
 tags:
 - Law
 - Legal London
