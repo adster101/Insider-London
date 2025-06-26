@@ -4,6 +4,7 @@ date: 2025-06-26 09:28:00 Z
 tags:
 - Law
 - Legal London
+- London walking tours
 description: 'London’s courts and chambers have shaped rules and rights around the
   world for centuries. From medieval disputes decided in drafty halls to landmark
   cases that redefined justice, the city’s legal history is woven into its streets
