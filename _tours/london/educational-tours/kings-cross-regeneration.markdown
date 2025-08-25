@@ -68,18 +68,29 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 {% include slideshow.html %}
 {% endif %}
 
-In 2012 all eyes were on London and Queen Elizabeth Park. This was a phenomenally successful event but after the last medal had been awarded, what became of the area? We tour the **lasting legacy** of the Olympic Park Regeneration Project. Over two hours, journey through the complete story of this now thriving district from the decision to choose East London to the area’s continuing transformation. Stroll past the **iconic architecture** and explore the fascinating story of the Olympic Park.
+Got it — I’ll adapt it into a circular tour format (starting and finishing at Stratford), and rewrite the whole description cleanly in Markdown. Here’s the updated version:
 
-**Meeting Point**: At the Westfield exit of Stratford Tube Station
 
-**Finishing Point**: Here East, five minutes from Stratford Station on the free shuttle bus
+In 2012, all eyes were on London as the world gathered at Queen Elizabeth Olympic Park. The Games were a phenomenal success, but the real story began after the last medal had been awarded. More than a decade later, the Olympic Park stands as one of the most ambitious urban regeneration projects in Europe, transforming East London into a thriving district where sport, culture, business, and technology meet.
 
-**On this tour you will discover:**
+This tour traces the 13-year legacy of the Olympics, showing how the area has continued to evolve. From world-class sporting venues and bold new housing developments to creative and tech industries, the Park is now a symbol of long-term transformation and community renewal.
 
-* Why one of the **biggest shopping malls** in Europe came to this downtrodden area
+The most exciting recent addition is East Bank, London’s brand-new cultural quarter. Here you’ll find world-class institutions like the BBC, Sadler’s Wells, UCL, the London College of Fashion, and the V&A, all working together in one vibrant district. It’s a landmark project that ensures the Olympic legacy is not just remembered, but lived every day.
+
+On the tour you will discover:
+
+* Why one of the largest shopping malls in Europe was built in this once-neglected area
+
 * The elegant silhouette of the world’s greatest public swimming baths
-* The **conflicts and tensions** with a certain Premier League football club
-* The transformation of the Olympic Village to the **newest postcode in London**
-* One of the UK’s most important **technology clusters**
+
+* The conflicts and tensions with a certain Premier League football club
+
+* How the Olympic Village became London’s newest postcode
+
+* The rise of one of the UK’s most important technology clusters on the Park’s doorstep
+
+
+Meeting and Finishing Point: Westfield exit of Stratford Tube Staton
+
 
 {% include findoutmore.html title="Olympic Park Tour" %}
