@@ -8,7 +8,11 @@ description: Discover the hidden world of law in London’s legal quarter. Start
   you on a captivating journey through centuries of legal tradition, power, and ceremony.
 gallery:
 - image: "/uploads/Lincoln%20Inn%202.jpg"
+  caption: 
   alt: Lincolns Inn Legal London Tour
+- image: "/uploads/Lincoln%20Inn.jpg"
+  caption: 
+  alt: 'Lincoln''s Inn Legal London Tour '
 ---
 
 Discover the hidden world of law in London’s legal quarter. Starting and ending at Holborn Underground Station, this immersive walking experience takes you on a captivating journey through centuries of legal tradition, power, and ceremony.
