@@ -1,6 +1,8 @@
 ---
 title: London Legal Tour
 date: 2025-08-21 13:32:00 Z
+categories:
+- educational-tours
 tags:
 - legal
 - historical
