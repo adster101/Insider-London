@@ -1,6 +1,11 @@
 ---
 title: London Legal Tour
 date: 2025-08-21 13:32:00 Z
+tags:
+- legal
+- historical
+- business
+- walking tour
 heading: London Legal Tour
 label: Legal
 description: Discover the hidden world of law in London’s legal quarter. Starting
