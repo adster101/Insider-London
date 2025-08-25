@@ -28,7 +28,7 @@ Discover the hidden world of law in London’s legal quarter. Starting and endin
   {% include slideshow.html %}
 {% endif %}
 
-Led by a knowledgeable guide with real-world experience in reporting on courts and justice, this tour is about an exploration of how legal institutions, rituals, and architecture helped shape today’s world.
+This tour is about an exploration of how legal institutions, rituals, and architecture helped shape today’s world.
 
 **On this legal walking tour you will discover:**:
 
@@ -48,3 +48,5 @@ Historic meets contemporary—See how medieval customs, legal rituals, and archi
 Storytelling that sticks—From dramatic trials to eccentric traditions, discover the anecdotes that make London’s legal precinct come alive.
 
 Runs Monday to Friday only, starting and ending at Holborn Station—perfect for a weekday dive into London’s legal heartbeat.
+
+{% include findoutmore.html title="London Legal Tour" %}
