@@ -47,7 +47,7 @@ layout: programme
 
 <a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Company Visits' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Company Visit Brochure Autumn 2024.pdf">View Brochure</a>
 
-For real business insight out of the office or classroom then look no further than our [Company visits](#company-visits) and [Workshops](#workshops). Selected visits and workshops are now available as live online sessions for group bookings.
+For real business insight out of the office or classroom, then look no further than our [Company visits](#company-visits) and [Workshops](#workshops). Selected visits and workshops are now available as live online sessions for group bookings.
 
 ## Company Visits
 
@@ -59,9 +59,7 @@ Our company visits for students and corporate groups showcase some of the world�
 
 - **Deliveroo** - discover the future of food delivery through Deliveroo's story. From a small London startup to a global unicorn and publicly listed company, Deliveroo is a testament to the power of innovation and entrepreneurship. Its success has transformed the way we dine and inspired many.
 - **Revolut** - leading "challenger bank" emblematic of the changing landscape of modern banking. With a relentless commitment to innovation and user satisfaction, Revolut has disrupted the status quo and set a new standard for what banking can and should be. 
-- **Guinness Ventures** - Gain insight into how Guinness Ventures manages financial
-investment, provide resources and network support to the
-companies they back, and manage existing investments.
+- **Guinness Ventures** - Gain insight into how Guinness Ventures manages financial investment, provides resources and network support to the companies they back, and manages existing investments.
 - **Turo** – the "Airbnb for cars", making car sharing easy, profitable and stylish. With a presence in over 7,000 cities in North America, this exciting Silicon Valley star is now making waves around the world.
 - **Transmission** - the world's largest independent global B2B marketing agency, providing award-winning full-service offerings across brand, demand, and sales. Combining data-driven intelligence, innovation, and creativity, they craft powerful marketing solutions for clients like Microsoft, LinkedIn, Dropbox, and Salesforce.
 - **Topham Guerin** - a powerhouse agency with an impressive portfolio that speaks volumes about its expertise in the heart of strategic communication. Witness the behind-the-scenes magic and gain insights into the dynamic world of political campaigning.
@@ -71,6 +69,7 @@ companies they back, and manage existing investments.
 - **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
 - **Bywaters** - has 70+ years of experience in driving positive environmental change. Their services minimise impact and promote a circular economy. Learn about their cutting-edge practices and sustainability advancements
 - **Kingsley Napley** -  recognised for providing the highest quality legal advice and services in the UK. A unique opportunity to learn about the firm’s operations, culture, and the legal industry.
+- **Holywell Studios** – step into one of Shoreditch’s most inspiring creative hubs and meet the people who make it happen. Explore the spaces where ideas become tracks, see the pro‑level gear in action, and hear from industry experts about the craft, the process, and the business of music. 
 
  
 Insider London's Company Visits offer a unique and unparalleled behind-the-scenes experience for corporate groups, government officials, and student groups alike. Our visits are the perfect way to explore thriving business models and make vital contacts with industry leaders. You'll gain valuable insights into the key challenges facing specific industries in the modern world.
@@ -79,13 +78,14 @@ E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose f
 
 ## Workshops
 
-Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your student or corporate group.
+Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your students or corporate group.
 
-- **Fintech for the Future** – An ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
-- **Performance Workshop for Creatives** – Learn from the best and gain insight into the world of music production and what steps would be taken if the song were to be released, including distribution, release plan, marketing, branding, visuals, and sync.
+- **Fintech for the Future** – an ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
+- **Mic to Market Workshop** –  learn from industry pros how to shape your sound, plan your launch, and build your brand. We’ll cover production essentials, distribution, release strategy, marketing, visuals, and sync opportunities — giving you the complete roadmap to get your music heard.
 
 
 - **Business Model Canvas** – a fantastic introductory session for students. This workshop introduces critical key considerations for budding entrepreneurs when creating their business model
-- **Venture Capital Workshop** - this interactive learning experience fosters a collaborative environment where students can learn from each other and seasoned industry professionals.
+- **Venture Capital Workshop**  - an interactive learning experience fosters a collaborative environment where students can learn from each other and seasoned industry professionals.
+- **Leadership Workshop** - learn how to lead with confidence, inspire your team, and deliver results. With guidance from an expert coach, you’ll sharpen your influencing and negotiating skills, explore different leadership styles, and practise the people skills that drive success — all tailored to your business goals.
 
 Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your perfect educational package.
