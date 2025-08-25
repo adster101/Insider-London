@@ -47,9 +47,9 @@ Our expert guide will show you how the City of London developed into a global fi
 
 **On this finance walking tour you will discover:**
 
-- **The origins of London Stock Exchange**, one of the world’s oldest stock exchanges and currently the largest stock exchange in Europe. Discover how the stock exchange works in the modern day with the development of new technology
+- **The origins of the London Stock Exchange**, one of the world’s oldest stock exchanges and currently the largest stock exchange in Europe. Discover how the stock exchange works in the modern day, with the development of new technology
 - **Guildhall, home to the City of London Corporation.** Discover the City of London’s unique governance structure, including why the Queen must seek permission to enter the City
-- **Why it’s the only area in the UK to elect its own Sherriff.** Uncover the ancient traditions and roles established 800 years ago which are still upheld in London’s Square Mile today
+- **Why it’s the only area in the UK to elect its own Sheriff.** Uncover the ancient traditions and roles established 800 years ago, which are still upheld in London’s Square Mile today
 - **The myriad of Livery Companies and Freemen** that occupy the City, hear about their role and purpose, past and present.
 - **How the Bank of England pioneered the modern banking system** and why it’s worth its weight in gold and its role in the **global financial crisis**
 - **How the UK’s Insurance sector grew and who is big enough to insure the insurance companies**
@@ -75,7 +75,7 @@ Meeting Point: Outside Carluccio’s, Reuter’s Plaza
 
 Finishing Point: Near Canary Wharf Station (this is a loop tour)
 
-**On this canary wharf tour you will discover:**
+**On this Canary Wharf tour, you will discover:**
 
 * The stories of the many **global banks** that call Canary Wharf home
 * How Canary Wharf compares to the City of London
