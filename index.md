@@ -14,24 +14,23 @@ gallery:
 - image: "/uploads/bp-slider.jpg"
   caption: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
   alt: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
-- image: "/uploads/lego%20serious%20play.jpg"
-  caption: Chinese students visiting LEGO's London Hub and discovering LEGO Serious
-    Play
-  alt: Chinese students visiting LEGO's London Hub and discovering LEGO Serious Play
+- image: "/uploads/IMG-20250310-WA0003.jpg"
+  caption: Computer Science Students at Agribot AI
+  alt: 'Computer Science Students at Agribot AI '
 - image: "/uploads/tribal%20worldwide%20high%20commission%20gujurat.jpg"
   caption: Indian professors in conjunction with the High Commission of Gujurat visiting
     Tribal Worldwide
   alt: Indian professors in conjunction with the High Commission of Gujurat visiting
     Tribal Worldwide
-- image: 
-  caption: 
-  alt: 
+- image: "/uploads/received_256227877388606.jpeg"
+  caption: 'Students at Holywell Studios Workshop Writing a New Song '
+  alt: Students at Holywell Studios Workshop
 - image: "/uploads/fintech%20workshop%20IBK.jpg"
   caption: Industrial Bank of Korea outside our  Fintech for the Future Workshop
   alt: Industrial Bank of Korea outside our  Fintech for the Future Workshop
-- image: "/uploads/verb%20visit.jpg"
-  caption: British students discovering digital marketing at Verb
-  alt: British students discovering digital marketing at Verb
+- image: "/uploads/l39%20Kick.jpg"
+  caption: Students discovering innovative fintech Level39 at Canary Wharf
+  alt: Students discovering fintech Level39 at Canary Wharf
 show_book: false
 thumb: web_588x378%2017-06-15_visit%20Anthony%20Jiamei,Jonas%20University%20of%20Hong%20Kong.jpg
 banner: 960x540 17-06-15_visit Anthony Jiamei, Jonas University of Hong Kong.jpg
