@@ -22,7 +22,7 @@ gallery:
   alt: 'Lincoln''s Inn Legal London Tour '
 ---
 
-Discover the hidden world of law in London’s legal quarter. Starting and ending at Holborn Underground Station, this immersive walking experience takes you on a captivating journey through centuries of legal tradition, power, and ceremony.
+Business and the law are inseparable – and nowhere is this relationship clearer than in London. Explore the capital as the global centre of commercial litigation and legal tradition on our Legal London Tour.
 
 {% assign gallery = page.gallery %}
 
@@ -30,25 +30,21 @@ Discover the hidden world of law in London’s legal quarter. Starting and endin
   {% include slideshow.html %}
 {% endif %}
 
-This tour is about an exploration of how legal institutions, rituals, and architecture helped shape today’s world.
+Join us on this fascinating journey through London’s legal quarter, from medieval taverns and debtor courts to the global role of English common law in today’s business world. Discover how centuries of tradition, training, and precedent have shaped London into the world’s premier centre for legal services.
 
-**On this legal walking tour you will discover:**:
+Led by our expert guide, this two-hour walking tour uncovers the hidden courtyards and historic institutions of the Inns of Court, the Royal Courts of Justice, and the legal quarter that connects **commerce in the City** with **government in Westminster**. You’ll learn not just about barristers and wigs, but about how law underpins business, finance, and global trade.
 
-- **Lincoln’s Inn Fields & Lincoln’s Inn** — the oldest and grandest of the Inns of Court, passing through courtyards that have witnessed centuries of legal training and tradition.
+**Meeting Point:** Holborn Underground Station
+**Finishing Point:** Holborn Underground Station (via the Old Curiosity Shop)
 
-**Chancery Lane & The Law Society** — famously associated with solicitors and governance of the legal profession.
+On this legal walking tour, you will discover:
 
-**Middle Temple & Inner Temple** — Explore two of London’s storied Inns of Court, with their serene gardens, architecturally rich halls, and the famed Temple Church.
+* **Lincoln’s Inn Fields** – London’s largest square and the roots of modern legal reform.
+* **Debtors’ Court & Carey Street** – why bankruptcy once meant prison, and how insolvency law became a cornerstone of modern business.
+* **Lincoln’s Inn, Inner Temple & Middle Temple** – the historic Inns of Court where barristers have trained for centuries, from Shakespeare’s day to the present.
+* **The Royal Courts of Justice** – Victorian Gothic grandeur, still home to international commercial disputes worth billions.
 
-**Royal Courts of Justice** - features a spectacular Victorian Gothic façade and shares stories of landmark cases that defined the law.
+Throughout the tour, you’ll see how **London’s legal system has evolved from medieval guilds to a global legal export industry** — and why businesses worldwide continue to choose English law to govern their contracts.
 
-
-An expert guide’s insight—Stories and perspectives drawn from years of legal journalism bring an insider’s depth to the walk.
-
-Historic meets contemporary—See how medieval customs, legal rituals, and architecture remain central to modern justice.
-
-Storytelling that sticks—From dramatic trials to eccentric traditions, discover the anecdotes that make London’s legal precinct come alive.
-
-Runs Monday to Friday only, starting and ending at Holborn Station—perfect for a weekday dive into London’s legal heartbeat.
 
 {% include findoutmore.html title="London Legal Tour" %}
