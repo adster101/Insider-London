@@ -20,6 +20,9 @@ gallery:
 - image: "/uploads/Lincoln%20Inn.jpg"
   caption: 
   alt: 'Lincoln''s Inn Legal London Tour '
+- image: "/uploads/royal%20courts%20of%20justice-mahosadha-ong-lSdxCqutMKE-unsplash.jpg"
+  caption: royal courts of justice
+  alt: royal courts of justice
 ---
 
 Business and the law are inseparable – and nowhere is this relationship clearer than in London. Explore the capital as the global centre of commercial litigation and legal tradition on our Legal London Tour.
