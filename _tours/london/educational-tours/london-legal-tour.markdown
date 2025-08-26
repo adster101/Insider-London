@@ -9,7 +9,7 @@ tags:
 - business
 - walking tour
 heading: London Legal Tour
-label: Legal
+label: Business & Legal
 description: Discover the hidden world of law in London’s legal quarter. Starting
   and ending at Holborn Underground Station, this immersive walking experience takes
   you on a captivating journey through centuries of legal tradition, power, and ceremony.
