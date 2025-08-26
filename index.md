@@ -88,4 +88,5 @@ Insider London also hosts engaging and interactive workshops with top industry p
 - **Venture Capital Workshop**  - an interactive learning experience fosters a collaborative environment where students can learn from each other and seasoned industry professionals.
 - **Leadership Workshop** - learn how to lead with confidence, inspire your team, and deliver results. With guidance from an expert coach, you’ll sharpen your influencing and negotiating skills, explore different leadership styles, and practise the people skills that drive success — all tailored to your business goals.
 
+
 Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your perfect educational package.
