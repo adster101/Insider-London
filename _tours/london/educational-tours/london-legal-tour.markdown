@@ -46,6 +46,7 @@ On this legal walking tour, you will discover:
 * **Debtors’ Court & Carey Street** – why bankruptcy once meant prison, and how insolvency law became a cornerstone of modern business.
 * **Lincoln’s Inn, Inner Temple & Middle Temple** – the historic Inns of Court where barristers have trained for centuries, from Shakespeare’s day to the present.
 * **The Royal Courts of Justice** – Victorian Gothic grandeur, still home to international commercial disputes worth billions.
+* **The London School of Economics (LSE)** – a global centre for law, business, and economics, showing how modern education complements historic Inns traditions.
 
 Throughout the tour, you’ll see how **London’s legal system has evolved from medieval guilds to a global legal export industry** — and why businesses worldwide continue to choose English law to govern their contracts.
 
