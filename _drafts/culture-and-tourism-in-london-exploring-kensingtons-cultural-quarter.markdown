@@ -41,9 +41,9 @@ Our Kensington: [Tourism & Culture Tour](https://www.insiderlondon.com/london/ed
 
 * How London’s cultural institutions sustain their role as global attractions.
 
-*The relationship between cultural programming, visitor behaviour, and local business activity.
+* The relationship between cultural programming, visitor behaviour, and local business activity.
 
-*The ongoing legacy of these institutions as part of London’s tourism identity.
+* The ongoing legacy of these institutions as part of London’s tourism identity.
 
 
 It’s one thing to read about cultural tourism in reports — it’s another to stand in Kensington, surrounded by some of the world’s leading museums, and see how they connect with the wider visitor economy.
