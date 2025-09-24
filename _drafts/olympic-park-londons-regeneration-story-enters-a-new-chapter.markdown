@@ -52,5 +52,5 @@ This is more than a walking tour — it’s an exploration of how London reinven
 
 
 *Join us to discover the story of the Olympic legacy, told not through medals and ceremonies, but through the lasting impact on the people and places of East London.
- To book or find out more, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our Regeneration Tours page.*
+ To book or find out more, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [Regeneration Tours](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/) page.*
 
