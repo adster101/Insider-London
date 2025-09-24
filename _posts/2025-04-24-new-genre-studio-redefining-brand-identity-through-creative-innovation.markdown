@@ -21,7 +21,7 @@ description: In today's fast-changing marketplace, companies must not only compe
 excerpt_separator: "<!--read-->"
 ---
 
-[pexels-diva-plavalaguna-6937932](/uploads/pexels-diva-plavalaguna-6937932-@1024w.JPG)
+![pexels-diva-plavalaguna-6937932](/uploads/pexels-diva-plavalaguna-6937932-@1024w.JPG)
 
 In today's fast-changing marketplace, companies must compellingly tell their story and connect with audiences through clear, authentic, and disruptive approaches. We are excited to announce our new partnership with [New Genre Studio](https://newgenre.studio/), a London-based creative studio known for crafting iconic brands and digital experiences that resonate with modern consumers.
 
