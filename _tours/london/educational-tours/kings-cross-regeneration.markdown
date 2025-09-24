@@ -68,8 +68,6 @@ Kings Cross never fails to impress and has quickly become one of London’s most
 {% include slideshow.html %}
 {% endif %}
 
-Got it — I’ll adapt it into a circular tour format (starting and finishing at Stratford), and rewrite the whole description cleanly in Markdown. Here’s the updated version:
-
 
 In 2012, all eyes were on London as the world gathered at Queen Elizabeth Olympic Park. The Games were a phenomenal success, but the real story began after the last medal had been awarded. More than a decade later, the Olympic Park stands as one of the most ambitious urban regeneration projects in Europe, transforming East London into a thriving district where sport, culture, business, and technology meet.
 
