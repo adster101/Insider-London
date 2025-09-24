@@ -17,11 +17,14 @@ description: "\nThe marketing and creative industries are undergoing a seismic s
   driven by the rapid integration of artificial intelligence (AI) technologies. From
   automating content creation to enhancing data analytics, AI is redefining how agencies
   operate and deliver value to clients. \n"
+excerpt_separator: 
 ---
 
 ![AI and Creativity Integration.png](/uploads/AI%20and%20Creativity%20Integration.png)
 
 The marketing and creative industries are undergoing a seismic shift, driven by the rapid integration of artificial intelligence (AI) technologies. From automating content creation to enhancing data analytics, AI is redefining how agencies operate and deliver value to clients. 
+
+<!--read-->
 
 #### Embracing the Future of AI in Marketing
 
@@ -62,6 +65,6 @@ At **Insider London**, we are proud to offer exclusive [company visits](https://
 
 These visits are ideal for students of media, political science, communications, and digital marketing. You’ll gain firsthand insights into how creative professionals at TG use AI in their work—from market research to ad production to strategy execution.
 
-*👉 To book your visit here, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to learn more.*
+*To book your visit here, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to learn more.*
 
 
