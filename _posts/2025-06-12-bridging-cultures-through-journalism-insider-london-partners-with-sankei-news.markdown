@@ -18,11 +18,14 @@ description: Recently, as part of Insider London’s Tokyo, students from **Clem
   and journalists, and a behind-the-scenes tour of the editorial department. To capture
   the breadth of their experience, our team developed a comprehensive questionnaire
   that covers key facets of modern journalism and media operations in Japan.
+excerpt_separator: "<!--read-->"
 ---
 
 ![Clemson at Sankei News outside](/uploads/Clemson@Sankei_outside.JPG)
 
 Recently, as part of Insider London’s [Tokyo Programme](https://www.insiderlondon.com/asia/tokyo/), students from **Clemson University** had an exclusive opportunity to visit the [Sankei News](https://www.sankei.com/) offices. The visit included a detailed presentation, a candid Q&A session with senior editors and journalists, and a behind-the-scenes tour of the editorial department. To capture the breadth of their experience, our team developed a comprehensive questionnaire that covers key facets of modern journalism and media operations in Japan.
+
+<!--read-->
 
 #### Journalism & Media Operations
 
