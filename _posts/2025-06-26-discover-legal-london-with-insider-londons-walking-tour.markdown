@@ -13,11 +13,14 @@ description: 'London’s courts and chambers have shaped rules and rights around
   that story matters today.
 
 '
+excerpt_separator: "<!--read-->"
 ---
 
 ![Lincoln Inn 2.jpg](/uploads/Lincoln%20Inn%202.jpg)
 
 London’s courts and chambers have shaped rules and rights around the world for centuries. From medieval disputes decided in drafty halls to landmark cases that redefined justice, the city’s legal history is woven into its streets and buildings. Now, Insider London’s new Legal London Walking Tour brings that legacy to life, showing how our modern legal system grew from medieval roots and why understanding that story matters today.
+
+<!--read-->
 
 #### A Living History of Law
 
