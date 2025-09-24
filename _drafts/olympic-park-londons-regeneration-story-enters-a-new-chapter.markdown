@@ -1,6 +1,11 @@
 ---
 title: 'Olympic Park: London’s Regeneration Story Enters a New Chapter'
-date: 2025-09-24 15:30:00 Z
+date: 2025-09-25 15:30:00 Z
+categories:
+- Regeneration
+tags:
+- olympic park
+- regeneration
 ---
 
 When London hosted the 2012 Olympic and Paralympic Games, the eyes of the world were fixed on East London. The Games were widely celebrated as a triumph, but the real success lies in what came after. More than a decade later, Queen Elizabeth Olympic Park is no longer just a symbol of sporting achievement — it has become one of the most ambitious urban regeneration projects in Europe.
