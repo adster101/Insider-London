@@ -6,11 +6,19 @@ categories:
 tags:
 - olympic park
 - regeneration
+description: When London hosted the 2012 Olympic and Paralympic Games, the eyes of
+  the world were fixed on East London. The Games were widely celebrated as a triumph,
+  but the real success lies in what came after. More than a decade later, Queen Elizabeth
+  Olympic Park is no longer just a symbol of sporting achievement — it has become
+  one of the most ambitious urban regeneration projects in Europe.
+excerpt_separator: "<!--read-->"
 ---
 
 ![tom-wheatley-sqVnnuKD-Zw-unsplash-4737d4.jpg](/uploads/tom-wheatley-sqVnnuKD-Zw-unsplash-4737d4.jpg)
 
 When London hosted the 2012 Olympic and Paralympic Games, the eyes of the world were fixed on East London. The Games were widely celebrated as a triumph, but the real success lies in what came after. More than a decade later, Queen Elizabeth Olympic Park is no longer just a symbol of sporting achievement — it has become one of the most ambitious urban regeneration projects in Europe.
+
+<!--read-->
 
 The area has been transformed into a thriving district where sport, culture, business, and education meet. And now, with the arrival of East Bank, the Park has entered an exciting new chapter, one that cements its role as a hub for creativity and learning as much as for sport and commerce.
 
