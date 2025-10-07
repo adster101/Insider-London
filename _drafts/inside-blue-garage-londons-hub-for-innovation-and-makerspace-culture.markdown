@@ -18,7 +18,7 @@ excerpt_separator: "<!--read-->"
 
 ![blue_garage.jpeg](/uploads/blue_garage.jpeg)
 
-We’re thrilled to introduce [**Blue Garage**](https://www.bluegarage.org/), the UK’s largest *makerspace* — and one of the most exciting additions to Insider London’s company visit portfolio. Located in Lewisham, Southeast London, Blue Garage is not just another workspace; it’s a creative powerhouse where ideas are turned into reality.
+We’re thrilled to introduce [Blue Garage](https://www.bluegarage.org/), the UK’s largest *makerspace* — and one of the most exciting additions to Insider London’s company visit portfolio. Located in Lewisham, Southeast London, Blue Garage is not just another workspace; it’s a creative powerhouse where ideas are turned into reality.
 
 <!--read-->
 
@@ -28,7 +28,7 @@ A *makerspace* is a collaborative environment where people with shared interests
 
 #### The Story Behind Blue Garage
 
-Blue Garage was founded by **Michael Korn**, a Cambridge and Royal College of Art graduate who previously built [**KwickScreen**](https://www.kwickscreen.com/), a now widely used NHS innovation. His own struggles as a hardware entrepreneur inspired him to create the kind of place he wished had existed — a supportive, collaborative environment that bridges the gap between prototype and production.
+Blue Garage was founded by **Michael Korn**, a Cambridge and Royal College of Art graduate who previously built [KwickScreen](https://www.kwickscreen.com/), a now widely used NHS innovation. His own struggles as a hardware entrepreneur inspired him to create the kind of place he wished had existed — a supportive, collaborative environment that bridges the gap between prototype and production.
 
 The 38,000 sq ft facility includes high-end fabrication equipment, from CNC routers to 3D printers and textile labs, as well as coworking studios and assembly areas. It’s a unique ecosystem that removes the barriers many innovators face — such as limited space, lack of funding, or access to industrial tools — enabling startups to grow without leaving London.
 
