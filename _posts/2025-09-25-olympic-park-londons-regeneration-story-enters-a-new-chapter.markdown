@@ -1,6 +1,6 @@
 ---
 title: 'Olympic Park: London’s Regeneration Story Enters a New Chapter'
-date: 2025-09-25 15:30:00 Z
+date: 2025-09-25 09:30:00 Z
 categories:
 - Regeneration
 tags:
