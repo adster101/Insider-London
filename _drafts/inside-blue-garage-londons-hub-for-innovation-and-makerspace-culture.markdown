@@ -28,7 +28,7 @@ A *makerspace* is a collaborative environment where people with shared interests
 
 #### The Story Behind Blue Garage
 
-Blue Garage was founded by **Michael Korn**, a Cambridge and Royal College of Art graduate who previously built [KwickScreen](https://www.kwickscreen.com/), a now widely used NHS innovation. His own struggles as a hardware entrepreneur inspired him to create the kind of place he wished had existed — a supportive, collaborative environment that bridges the gap between prototype and production.
+Blue Garage was founded by **Michael Korn**, a Cambridge and Royal College of Art graduate who previously built [KwickScreen](https://www.kwickscreen.com/), an innovative portable, retractable hospital screens system supplied to healthcare systems globally; to every NHS trust, over 250 hospitals in the US, and to over 15 different countries. His own struggles as a hardware entrepreneur inspired him to create the kind of place he wished had existed — a supportive, collaborative environment that bridges the gap between prototype and production.
 
 The 38,000 sq ft facility includes high-end fabrication equipment, from CNC routers to 3D printers and textile labs, as well as coworking studios and assembly areas. It’s a unique ecosystem that removes the barriers many innovators face — such as limited space, lack of funding, or access to industrial tools — enabling startups to grow without leaving London.
 
@@ -50,5 +50,5 @@ Workshops and discussions with the Blue Garage team highlight how makerspaces ca
 
 At Insider London, we’re proud to showcase the spaces where creativity meets technology. A visit to Blue Garage reveals not just machines and materials, but a thriving community of thinkers and makers reshaping London’s innovation landscape.
 
-To learn more or to arrange a visit, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [company visits page](https://www.insiderlondon.com/london/company-visits/).
+*To learn more or to arrange a visit, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com) or visit our [company visits page](https://www.insiderlondon.com/london/company-visits/).*
 
