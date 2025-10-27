@@ -38,7 +38,7 @@ Together, they create a bridge between founders and investors, nurturing innovat
 
 Through Insider London, groups can now engage directly with the Oasis and Blue Lake VC community. These sessions are designed to bring theory to life and inspire a new generation of entrepreneurs and innovators.
 
-For students, hands-on workshops explore key areas of entrepreneurship and venture creation. From Ideation and Business Modelling to Fundraising Basics and Venture Capital 101, participants learn directly from founders and investors about the realities of building a business in a competitive market.
+For students, workshops cover the essentials of starting and growing a venture—everything from coming up with an idea and shaping a business model to understanding the basics of fundraising and investment. Alongside these foundations, participants take part in interactive exercises such as roleplaying investor–founder meetings, reviewing pitch decks, **exploring valuation** through case studies, running due diligence scenarios, and drafting short **investment memos**. Each activity is designed to mirror real-world challenges and help participants think like both entrepreneurs and investors.
 
 For corporate and delegate groups, the focus shifts toward collaboration and innovation strategy. Topics include how established companies can partner with startups, adapt to disruption, and adopt an agile innovation mindset. Many sessions are led by Blue Lake VC’s team or experienced founders from within the Oasis network, ensuring every discussion is grounded in real-world insight.
 
