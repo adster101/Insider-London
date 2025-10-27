@@ -10,6 +10,12 @@ tags:
 - entrepreneurs
 - start-ups
 - start-up funding
+description: At Insider London, we are excited to announce a new partnership with
+  [Oasis London](https://www.oasislondon.co.uk/), a vibrant centre for founders, investors,
+  and innovators created by [Blue Lake VC](https://www.bluelakevc.com/). This recent
+  addition to our company visits offers students, entrepreneurs, and professionals
+  a unique opportunity to explore London’s growing startup scene, where global ideas
+  connect with local opportunities.
 ---
 
 ![pexels-rdne-7414216.jpg](/uploads/pexels-rdne-7414216.jpg)
