@@ -10,17 +10,22 @@ tags:
 - entrepreneurs
 - start-ups
 - start-up funding
+- corporate visits
+- investment
 description: At Insider London, we are excited to announce a new partnership with
   [Oasis London](https://www.oasislondon.co.uk/), a vibrant centre for founders, investors,
   and innovators created by [Blue Lake VC](https://www.bluelakevc.com/). This recent
   addition to our company visits offers students, entrepreneurs, and professionals
   a unique opportunity to explore London’s growing startup scene, where global ideas
   connect with local opportunities.
+excerpt_separator: "<!--read-->"
 ---
 
 ![pexels-rdne-7414216.jpg](/uploads/pexels-rdne-7414216.jpg)
 
-At Insider London, we are excited to announce a new partnership with [Oasis London](https://www.oasislondon.co.uk/), a vibrant centre for founders, investors, and innovators created by [Blue Lake VC](https://www.bluelakevc.com/). This recent addition to our company visits offers students, entrepreneurs, and professionals a unique opportunity to explore London’s growing startup scene, where global ideas connect with local opportunities.
+At Insider London, we are excited to announce a new partnership with [Oasis London](https://www.oasislondon.co.uk/), a vibrant centre for founders, investors, and innovators created by [Blue Lake VC](https://www.bluelakevc.com/). This recent addition to our [company visits](https://www.insiderlondon.com/london/company-visits/) offers students, entrepreneurs, and professionals a unique opportunity to explore London’s growing startup scene, where global ideas connect with local opportunities.
+
+<!--read-->
 
 #### London’s Startup Scene: Global Ambitions, Local Challenges
 
