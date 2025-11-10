@@ -6,7 +6,7 @@ collections:
     title: Category
     output: true
   podcasts:
-    title: Podcasts
+    title: Podcast
     output: true
   posts:
     title: Posts
