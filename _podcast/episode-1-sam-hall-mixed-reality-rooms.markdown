@@ -11,7 +11,7 @@ position: 0
 description: Our debut episode of Insider London Podcast features Sam Hall, founder
   of Mixed Reality Rooms, a company pioneering collaborative mixed‑reality spaces
   that blend the digital and physical worlds.
-layout: post
+layout: podcast
 ---
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
