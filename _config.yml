@@ -8,7 +8,7 @@ collections:
   guests:
     title: Guests
     output: true
-  podcasts:
+  podcast:
     title: Podcast
     output: true
     permalink: "/:path/"
