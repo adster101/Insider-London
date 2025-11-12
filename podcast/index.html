@@ -13,6 +13,15 @@ layout: page
     {% for podcast in podcasts %}
       <article class="podcast-entry">
         <div class="podcast-entry-inner">
+          <div class="entry-thumb">
+            {% if podcast.youtube_id %}
+              <a href="{{ podcast.url }}">
+                <img src="https://img.youtube.com/vi/{{ podcast.youtube_id }}/mqdefault.jpg"
+                     alt="{{ podcast.title }} thumbnail"
+                     class="podcast-thumb">
+              </a>
+            {% endif %}
+          </div>
           <div class="entry-title">
             <h4>
               <a href="{{ podcast.url }}" title="{{ podcast.title }}">
@@ -26,9 +35,7 @@ layout: page
           </div>
           <div class="entry-meta">
             {% if podcast.date %}
-              <div class="date">
-                {{ podcast.date | date: '%B %d, %Y' }}
-              </div>
+              <div class="date">{{ podcast.date | date: '%B %d, %Y' }}</div>
             {% endif %}
           </div>
           {% if podcast.description %}
@@ -39,7 +46,7 @@ layout: page
       </article>
     {% endfor %}
 
-    <!-- Pagination (optional, only if paginate is enabled for podcast) -->
+    <!-- Pagination (optional) -->
     {% if paginator %}
     <div class="pagination">
       {% if paginator.previous_page %}
