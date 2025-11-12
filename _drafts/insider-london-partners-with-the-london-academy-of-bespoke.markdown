@@ -61,5 +61,4 @@ Each stop reinforces how luxury value is created — from architecture to stitch
 
 
 *To book a **company visit** with The London Academy of Bespoke, contact us at **[contact@insiderlondon.com](mailto:contact@insiderlondon.com)**, or to learn more about our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/).
-
 Explore the West End with Insider London, where craftsmanship, culture, and commerce meet.*
