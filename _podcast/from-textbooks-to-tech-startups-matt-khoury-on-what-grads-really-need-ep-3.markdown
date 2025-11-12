@@ -1,6 +1,6 @@
 ---
-title: From Textbooks to Tech Startups | Matt Khoury on What Grads Really Need | Ep
-  3
+title: 'Episode 3: From Textbooks to Tech Startups | Matt Khoury on What Grads Really
+  Need'
 date: 2025-11-12 14:48:00 Z
 tags:
 - global exposure
