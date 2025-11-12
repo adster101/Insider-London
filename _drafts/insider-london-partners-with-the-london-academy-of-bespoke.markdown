@@ -60,6 +60,6 @@ The West End now offers a complete learning journey:
 Each stop reinforces how luxury value is created — from architecture to stitching.
 
 
-*To book a **company visit** with The London Academy of Bespoke, contact us at **[contact@insiderlondon.com](mailto:contact@insiderlondon.com)**, or to learn more about our **West End Retail Design Tour**, [visit this page](https://www.insiderlondon.com/west-end-retail-design-tour).
+*To book a **company visit** with The London Academy of Bespoke, contact us at **[contact@insiderlondon.com](mailto:contact@insiderlondon.com)**, or to learn more about our **West End Retail Design Tour**, [visit this page](https://www.insiderlondon.com/london/educational-tours/retail-design/).
 
 Explore the West End with Insider London, where craftsmanship, culture, and commerce meet.*
