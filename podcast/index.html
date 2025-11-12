@@ -1,0 +1,59 @@
+---
+title: Podcast Episodes
+permalink: "/podcast/"
+description: Insider London Podcast — conversations with employers, educators, and
+  students about graduate skills, study abroad, and industry insight.
+layout: page
+---
+
+<div class="o-layout">
+  <div class="o-layout__item u-2/3@tablet u-3/4@desktop">
+    <!-- Loop through podcast collection -->
+    {% assign podcasts = site.podcast %}
+    {% for podcast in podcasts %}
+      <article class="podcast-entry">
+        <div class="podcast-entry-inner">
+          <div class="entry-title">
+            <h4>
+              <a href="{{ podcast.url }}" title="{{ podcast.title }}">
+                {% if podcast.heading %}
+                  {{ podcast.heading }}
+                {% else %}
+                  {{ podcast.title }}
+                {% endif %}
+              </a>
+            </h4>
+          </div>
+          <div class="entry-meta">
+            {% if podcast.date %}
+              <div class="date">
+                {{ podcast.date | date: '%B %d, %Y' }}
+              </div>
+            {% endif %}
+          </div>
+          {% if podcast.description %}
+            <p>{{ podcast.description }}</p>
+          {% endif %}
+          <p><a href="{{ podcast.url }}">Listen to Episode [...]</a></p>
+        </div>
+      </article>
+    {% endfor %}
+
+    <!-- Pagination (optional, only if paginate is enabled for podcast) -->
+    {% if paginator %}
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a rel="prev" href="{{ paginator.previous_page_path }}">Previous</a>
+      {% else %}
+        <span>Previous</span>
+      {% endif %}
+      <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a rel="next" href="{{ paginator.next_page_path }}">Next</a>
+      {% else %}
+        <span>Next</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</div>
