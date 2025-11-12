@@ -24,7 +24,6 @@ layout: post
   </iframe>
 </div>
 
-
 In this episode, our guest, Matt Khoury, talks about how in today’s competitive global job market, technical expertise alone may not suffice. Instead, it is the combination of entrepreneurial traits, cultural adaptability, and essential soft skills that truly distinguishes graduates. Matt offers valuable insights into how international exposure empowers students to build confidence, resilience, and enduring professional networks.
 
 We will explore the continued significance of internationalisation in a post-pandemic world, discuss innovative strategies for universities and employers to work together more effectively, and identify what it takes for students to evolve from traditional learning to dynamic leadership roles. Join us for an enlightening conversation that encourages new perspectives and provides practical guidance for enhancing graduate employability in the future.
