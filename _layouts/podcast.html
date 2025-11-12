@@ -20,6 +20,7 @@ layout: default
 
 <div class="o-wrapper">
   <div class="o-layout">
+    <!-- Main content area -->
     <div class="o-layout__item u-2/3@laptop u-3/4@desktop">
       <article class="post palm-mb" itemscope itemtype="http://schema.org/PodcastEpisode">
         <div class="post-content" itemprop="articleBody">
@@ -48,18 +49,19 @@ layout: default
       </article>
     </div>
 
+    <!-- Sidebar: Guests -->
     <div class="o-layout__item u-1/3@laptop u-1/4@desktop">
-      <h2>Categories</h2>
+      <h2>Guests</h2>
       <ul>
-        {% assign categories_list = site.categories %}
-        {% for category in categories_list %}
+        {% assign guests_list = site.guests %}
+        {% for guest in guests_list %}
           <li>
-            <a href="/podcast/category/{{ category[0] | slugify: "pretty" }}/">
-              {{ category[0] }} ({{ category[1].size }})
+            <a href="/podcast/guest/{{ guest[0] | slugify: "pretty" }}/">
+              {{ guest[0] }} ({{ guest[1].size }})
             </a>
           </li>
         {% endfor %}
-        {% assign categories_list = nil %}
+        {% assign guests_list = nil %}
       </ul>
     </div>
   </div>
