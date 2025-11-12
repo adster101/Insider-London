@@ -11,7 +11,7 @@ collections:
   podcast:
     title: Podcast
     output: true
-    permalink: "/:path/"
+    permalink: podcast/:path/
   posts:
     title: Posts
     output: true
