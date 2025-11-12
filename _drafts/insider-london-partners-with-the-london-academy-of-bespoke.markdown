@@ -16,7 +16,7 @@ tags:
 
 #### Craftsmanship as the New Luxury
 
-Craftsmanship and heritage are now valuable marketing tools. Shoppers, particularly luxury buyers, value authenticity and appreciate the narratives behind products. This shift transforms traditional craftsmanship into a strategic asset for brands. **Savile Row’s** recent revival shows how [craftsmanship has been re-marketed as luxury](https://www.luxurytribune.com/en/the-modern-tailors-revitalising-savile-row). Modern tailors with their legacy houses and newer names alike are celebrating cut, canvas and handwork in public ways, while media projects have surfaced the diverse craftspeople sustaining the Row. These stories have helped revalue the practice as **cultural capital, not just trade skill**.
+Craftsmanship and heritage are now valuable marketing tools. Shoppers, particularly luxury buyers, value authenticity and appreciate the narratives behind products. This shift transforms traditional craftsmanship into a strategic asset for brands. **Savile Row’s** recent revival shows how [craftsmanship has been re-marketed as luxury](https://www.luxurytribune.com/en/the-modern-tailors-revitalising-savile-row), and helped revalue the practice as **cultural capital, not just trade skill**.
 
 Where bespoke once meant functional workwear for officers and professionals, today it represents *time, precision and personal connection* — the same intangible qualities luxury consumers crave. Savile Row demonstrates how **craft knowledge, scarcity, and service ritual** can be repositioned as the ultimate brand differentiators.
 
