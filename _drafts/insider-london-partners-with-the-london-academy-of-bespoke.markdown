@@ -42,18 +42,6 @@ Both sessions are led by **Victoria Townsend**, Savile Row’s first tailor to r
 
 These experiences translate technical craft into strategic lessons for **luxury managers and students** — showing how process creates credibility, how service and ritual create scarcity, and how storytelling around provenance raises perceived value. 
 
-#### Who It’s For
-
-This partnership is ideal for **business, fashion, and luxury-management students**, as well as professionals keen to understand how craftsmanship underpins brand storytelling.
-
-The West End now offers a complete learning journey:
-
-* From **flagship brand theatre** on Regent Street,
-* Through **creative heritage** at Liberty,
-* To **craft authenticity** on Savile Row.
-
-Each stop reinforces how luxury value is created — from architecture to stitching.
-
 
 *To book a **company visit** with The London Academy of Bespoke, contact us at **[contact@insiderlondon.com](mailto:contact@insiderlondon.com)**, or to learn more about our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/).
 Explore the West End with Insider London, where craftsmanship, culture, and commerce meet.*
