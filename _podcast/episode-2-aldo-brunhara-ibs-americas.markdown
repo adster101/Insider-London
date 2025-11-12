@@ -2,7 +2,7 @@
 title: 'Episode 2: Aldo Brunhara – IBS Americas'
 date: 2025-11-10 12:54:00 Z
 position: 1
-layout: programme
+layout: post
 ---
 
 Our podcast series begins with Aldo Brunhara, Director at IBS Americas. In this opening episode, Aldo shares how global partnerships and study‑abroad programs can shape careers, build cultural agility, and transform the student experience.
