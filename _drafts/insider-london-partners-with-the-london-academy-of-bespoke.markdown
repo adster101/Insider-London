@@ -31,9 +31,7 @@ Our new partnership offers two complementary experiences:
 * A **hands-on workshop** introducing students to the stitch-by-stitch logic of bespoke — exploring the stitch library, canvas samples and construction techniques.
 * A **company visit** explaining how a bespoke garment is created from measurement to finish, complete with a Q&A about industry structure and contemporary tailoring brands.
 
-Both sessions are led by **Victoria Townsend**, Savile Row’s first tailor to receive multiple Bespoke qualifications and a passionate educator who has trained with Richard James and worked with heritage brands such as **DAKS**.
-
-These experiences translate technical craft into strategic lessons for **luxury managers and students** — showing how process creates credibility, how service and ritual create scarcity, and how storytelling around provenance raises perceived value. 
+Both sessions are led by a member of the senior management; these experiences translate technical craft into strategic lessons for **luxury managers and students** — showing how process creates credibility, how service and ritual create scarcity, and how storytelling around provenance raises perceived value. 
 
 
 *To book a **company visit** with The London Academy of Bespoke, contact us at **[contact@insiderlondon.com](mailto:contact@insiderlondon.com)**, or to learn more about our [West End Retail Design Tour](https://www.insiderlondon.com/london/educational-tours/retail-design/).
