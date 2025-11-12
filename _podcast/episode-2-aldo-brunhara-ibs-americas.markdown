@@ -1,6 +1,10 @@
 ---
 title: 'Episode 2: Aldo Brunhara – IBS Americas'
 date: 2025-11-11 12:54:00 Z
+tags:
+- education
+- study abroad
+- graduates
 position: 1
 layout: post
 ---
