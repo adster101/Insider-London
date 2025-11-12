@@ -16,6 +16,8 @@ sections:
     url: /asia/
   - title: News
     url: /blog/
+  - title: Podcast
+    url: /podcast/  
 online:
   - title: Online Company Visits
     url: /online-education/online-company-visits
