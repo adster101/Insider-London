@@ -5,6 +5,9 @@ collections:
   category:
     title: Category
     output: true
+  guests:
+    title: Guests
+    output: true
   podcasts:
     title: Podcast
     output: true
