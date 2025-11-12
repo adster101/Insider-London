@@ -10,7 +10,7 @@ tags:
 - experience retail
 ---
 
-![pexels-dom-j-303315.jpg](/uploads/pexels-dom-j-303315.jpg)
+![Saville_row_lab.jpg](/uploads/Saville_row_lab.jpg)
 
 *We are pleased to announce a new partnership with [The London Academy of Bespoke (LAB)](https://labacademy.co.uk/) on Savile Row*
 
