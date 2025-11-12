@@ -6,6 +6,9 @@ tags:
 - study abroad
 - graduates
 position: 1
+description: Our podcast series continues with Aldo Brunhara, Director at IBS Americas.
+  In this opening episode, Aldo shares how global partnerships and study‑abroad programs
+  can shape careers, build cultural agility, and transform the student experience.
 layout: post
 ---
 
