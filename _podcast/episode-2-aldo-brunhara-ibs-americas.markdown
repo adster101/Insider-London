@@ -1,5 +1,5 @@
 ---
-title: 'Episode 2: Aldo Brunhara – IBS Americas'
+title: 'Episode 2: How IBS Americas Builds Global Leaders: Depth, Rigour & Real Networks'
 date: 2025-11-11 12:54:00 Z
 tags:
 - education
