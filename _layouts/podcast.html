@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+{% assign author = site.authors | where: 'title', page.author | first %}
+
+<header class="post-header bg-gray u-padding-vertical u-margin-bottom">
+  <div class="breadcrumb-wrapper">
+    <div class="o-wrapper u-padding-left-small u-padding-right-small u-padding-left@desktop u-padding-right@desktop">
+      <h1 class="u-h4 u-margin-bottom-none">
+        {% if page.heading %}
+          {{ page.heading }}
+        {% else %}
+          {{ page.title }}
+        {% endif %}
+      </h1>
+    </div>
+  </div>
+</header>
+
+<div class="o-wrapper">
+  <div class="o-layout">
+    <div class="o-layout__item u-2/3@laptop u-3/4@desktop">
+      <article class="post palm-mb" itemscope itemtype="http://schema.org/PodcastEpisode">
+        <div class="post-content" itemprop="articleBody">
+          {% if page.date %}
+            <p class="post-meta">
+              <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: "%b %-d, %Y" }}
+              </time>
+            </p>
+          {% endif %}
+          {{ content }}
+        </div>
+
+        <!-- Podcast-specific metadata -->
+        {% if page.episode %}
+          <meta itemprop="episodeNumber" content="{{ page.episode }}" />
+        {% endif %}
+        <meta itemprop="partOfSeries" content="Insider London: Study Abroad Sessions" />
+        <meta itemprop="inLanguage" content="en" />
+        {% if page.audio %}
+          <meta itemprop="associatedMedia" content="{{ page.audio }}" />
+        {% endif %}
+        {% if page.description %}
+          <meta itemprop="description" content="{{ page.description }}" />
+        {% endif %}
+      </article>
+    </div>
+
+    <div class="o-layout__item u-1/3@laptop u-1/4@desktop">
+      <h2>Categories</h2>
+      <ul>
+        {% assign categories_list = site.categories %}
+        {% for category in categories_list %}
+          <li>
+            <a href="/podcast/category/{{ category[0] | slugify: "pretty" }}/">
+              {{ category[0] }} ({{ category[1].size }})
+            </a>
+          </li>
+        {% endfor %}
+        {% assign categories_list = nil %}
+      </ul>
+    </div>
+  </div>
+</div>
