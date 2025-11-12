@@ -19,15 +19,11 @@ tags:
 The West End has been quietly reinventing itself, the last five years as 
 The Crown Estate and Westminster Council have been working on a long-term public-realm[ vision](https://www.thecrownestate.co.uk/our-business/property-and-places/regent-street?utm_source) for Regent Street by widening pavements, greening the route and reframing it as a flagship “brand corridor” rather than just another high street.
 
-That repositioning matters because location now acts like a halo: a mid-market label on Regent Street or Bond Street immediately reads as elevated, simply by association. These contrasting place-brands make the West End a **living laboratory for contemporary luxury strategy**.
+Stores are increasingly becoming stages for brand stories, featuring immersive displays, seasonal installations, in-store salons, and dining experiences that feel more like cultural events than just transactions.
 
 #### Craftsmanship as the New Luxury
 
-Two threads stand out in the West End’s post-pandemic revival.
-
-**First, experiential retail.** Stores are increasingly theatres for brand stories — immersive windows, seasonal installations, in-store salons and dining tie-ins that visit feel like cultural attendance rather than a transaction.
-
-**Second, craft and heritage as marketing currency.** Shoppers — especially luxury buyers — now prize provenance and making stories. That shift turns formerly technical trades into strategic brand assets.
+Craftsmanship and heritage are now valuable marketing tools. Shoppers, particularly luxury buyers, value authenticity and appreciate the narratives behind products. This shift transforms traditional craftsmanship into a strategic asset for brands.
 
 **Savile Row’s** recent revival shows how [craftsmanship has been re-marketed as luxury](https://www.luxurytribune.com/en/the-modern-tailors-revitalising-savile-row). Modern tailors with their legacy houses and newer names alike are celebrating cut, canvas and handwork in public ways, while media projects have surfaced the diverse craftspeople sustaining the Row. These stories have helped revalue the practice as **cultural capital, not just trade skill**.
 
