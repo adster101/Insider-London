@@ -8,7 +8,9 @@ description: Our debut episode of Insider London Podcast features Sam Hall, foun
 layout: podcast
 ---
 
-<a href="https://www.youtube.com/watch?v=zxeNFqkMDVQ" target="_blank" rel="noopener">Watch the full episode on YouTube</a>
+<div class="o-ratio o-ratio--16:9 u-margin-bottom">
+  <iframe src="https://www.youtube.com/watch?v=zxeNFqkMDVQ" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 Our debut episode of Insider London Podcast features Sam Hall, founder of Mixed Reality Rooms, a company pioneering collaborative mixed‑reality spaces that blend the digital and physical worlds.
 Sam shares his perspective as an employer on what graduates need to thrive in innovation‑driven industries—from bridging theory and practice to standing out in a crowded market. We explore why curiosity, persistence, and international experience give young professionals an edge, and how universities could better prepare students for the realities of work.
