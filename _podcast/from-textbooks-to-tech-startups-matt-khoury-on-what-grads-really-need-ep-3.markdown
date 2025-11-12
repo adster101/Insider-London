@@ -10,6 +10,7 @@ tags:
 description: 'Matt Khoury on what graduates really need: entrepreneurial traits, global
   exposure, and soft skills to thrive in today’s global economy.'
 youtube_id: NNeEATPBzTQ
+layout: post
 ---
 
 <div class="o-ratio o-ratio--16:9">
