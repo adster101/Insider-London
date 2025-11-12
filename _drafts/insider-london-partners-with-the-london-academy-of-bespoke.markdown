@@ -14,13 +14,6 @@ tags:
 
 *We are pleased to announce a new partnership with [The London Academy of Bespoke (LAB)](https://labacademy.co.uk/) on Savile Row*
 
-#### The Changing Face of the West End
-
-The West End has been quietly reinventing itself, the last five years as 
-The Crown Estate and Westminster Council have been working on a long-term public-realm[ vision](https://www.thecrownestate.co.uk/our-business/property-and-places/regent-street?utm_source) for Regent Street by widening pavements, greening the route and reframing it as a flagship “brand corridor” rather than just another high street.
-
-Stores are increasingly becoming stages for brand stories, featuring immersive displays, seasonal installations, in-store salons, and dining experiences that feel more like cultural events than just transactions.
-
 #### Craftsmanship as the New Luxury
 
 Craftsmanship and heritage are now valuable marketing tools. Shoppers, particularly luxury buyers, value authenticity and appreciate the narratives behind products. This shift transforms traditional craftsmanship into a strategic asset for brands.
