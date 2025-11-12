@@ -25,6 +25,17 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: podcasts
+  values:
+    layout: podcast
+    description: ''
+- scope:
+    path: ''
+    type: guests
+  values:
+    layout: guest
+- scope:
+    path: ''
     type: category
   values:
     layout: category
