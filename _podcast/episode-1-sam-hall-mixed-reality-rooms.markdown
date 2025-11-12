@@ -9,7 +9,13 @@ layout: post
 ---
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
-  <iframe src="https://www.youtube.com/watch?v=zxeNFqkMDVQ" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  <iframe 
+    src="https://www.youtube.com/embed/zxeNFqkMDVQ" 
+    title="Hire the Curious, Not the Qualified | Sam Hall on the Skills Universities Can’t Teach | Ep 1"
+    frameborder="0" 
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
 </div>
 
 Our debut episode of Insider London Podcast features Sam Hall, founder of Mixed Reality Rooms, a company pioneering collaborative mixed‑reality spaces that blend the digital and physical worlds.
