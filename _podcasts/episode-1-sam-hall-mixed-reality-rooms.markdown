@@ -1,6 +1,7 @@
 ---
 title: 'Episode 1: Sam Hall – Mixed Reality Rooms'
 date: 2025-11-12 10:55:00 Z
+position: 0
 ---
 
 <a href="https://www.youtube.com/watch?v=zxeNFqkMDVQ" target="_blank" rel="noopener">Watch the full episode on YouTube</a>

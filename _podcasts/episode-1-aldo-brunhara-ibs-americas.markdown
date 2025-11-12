@@ -1,6 +1,7 @@
 ---
 title: 'Episode 2: Aldo Brunhara – IBS Americas'
 date: 2025-11-10 12:54:00 Z
+position: 1
 layout: programme
 ---
 
