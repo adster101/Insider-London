@@ -1,5 +1,6 @@
 ---
-title: 'Episode 1: Sam Hall – Mixed Reality Rooms'
+title: 'Episode 1: Hire the Curious, Not the Qualified | Sam Hall on the Skills Universities
+  Can’t Teach'
 date: 2025-11-10 10:55:00 Z
 tags:
 - mixed reality rooms
