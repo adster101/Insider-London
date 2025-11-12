@@ -7,10 +7,10 @@ layout: post
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
   <iframe 
-    src="https://www.youtube.com/watch?v=7EV1uoIhDGU" 
+    src="https://www.youtube.com/embed/7EV1uoIhDGU"
     title="How IBS Americas Builds Global Leaders: Depth, Rigor & Real Networks | Ep 2"
-    frameborder="0" 
-    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    frameborder="0"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
