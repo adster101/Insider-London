@@ -16,11 +16,10 @@ tags:
 
 #### The Changing Face of the West End
 
-The West End has been quietly reinventing itself since COVID. Where the pandemic exposed the limits of sheer footfall and concessions, the last five years have seen a purposeful pivot: landlords and flagship brands have doubled down on **place quality**, experience and storytelling.
-
+The West End has been quietly reinventing itself, the last five years as 
 The Crown Estate and Westminster Council have been working on a long-term public-realm[ vision](https://www.thecrownestate.co.uk/our-business/property-and-places/regent-street?utm_source) for Regent Street by widening pavements, greening the route and reframing it as a flagship “brand corridor” rather than just another high street.
 
-That repositioning matters because location now acts like a halo: a mid-market label on Regent Street or Bond Street immediately reads as elevated, simply by association. At the same time, other corners of the West End have doubled down on differentiated offers; Carnaby keeps the youthful creative edge; Bond Street keeps the silent, architectural glamour; Liberty and Fortnum & Mason trade on curated heritage and ritual. Together, these contrasting place-brands make the West End a **living laboratory for contemporary luxury strategy**.
+That repositioning matters because location now acts like a halo: a mid-market label on Regent Street or Bond Street immediately reads as elevated, simply by association. These contrasting place-brands make the West End a **living laboratory for contemporary luxury strategy**.
 
 #### Craftsmanship as the New Luxury
 
