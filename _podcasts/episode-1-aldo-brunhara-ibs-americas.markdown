@@ -1,5 +1,5 @@
 ---
-title: 'Episode 1: Aldo Brunhara – IBS Americas'
+title: 'Episode 2: Aldo Brunhara – IBS Americas'
 date: 2025-11-10 12:54:00 Z
 layout: programme
 ---
@@ -8,6 +8,6 @@ Our podcast series begins with Aldo Brunhara, Director at IBS Americas. In this 
 
 From employability to the long‑term impact of international education, this conversation sets the tone for the series: practical insights, global perspectives, and stories of how education connects to real‑world outcomes.
 
-🎧 Listen to Episode 1 and discover why study abroad is more than an adventure—it’s a pathway to future success.
+🎧 Listen to Episode 2 and discover why studying abroad is more than an adventure—it’s a pathway to future success.
 
 
