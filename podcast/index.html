@@ -6,24 +6,26 @@ description: Insider London Podcast — conversations with employers, educators,
 layout: page
 ---
 
+<!-- Load podcast-specific Flexbox utilities -->
+<link rel="stylesheet" href="/assets/css/podcast-flex.css">
+
 <div class="o-layout">
   <div class="o-layout__item u-2/3@tablet u-3/4@desktop">
     {% assign podcasts = site.podcast %}
     {% for podcast in podcasts %}
-      <article class="podcast-entry" style="display: flex; gap: 1.5rem; margin-bottom: 2rem; align-items: flex-start;">
+      <article class="podcast-entry">
         {% if podcast.youtube_id %}
-          <div class="entry-thumb" style="flex: 0 0 160px;">
+          <div class="entry-thumb">
             <a href="{{ podcast.url }}">
               <img src="https://img.youtube.com/vi/{{ podcast.youtube_id }}/mqdefault.jpg"
                    alt="{{ podcast.title }} thumbnail"
-                   class="podcast-thumb"
-                   style="width: 100%; height: auto; border-radius: 4px;">
+                   class="podcast-thumb">
             </a>
           </div>
         {% endif %}
 
-        <div class="entry-content" style="flex: 1;">
-          <h4 class="entry-title" style="margin-top: 0;">
+        <div class="entry-content">
+          <h4 class="entry-title">
             <a href="{{ podcast.url }}" title="{{ podcast.title }}">
               {% if podcast.heading %}
                 {{ podcast.heading }}
@@ -34,7 +36,7 @@ layout: page
           </h4>
 
           {% if podcast.date %}
-            <div class="entry-meta" style="font-size: 0.9rem; color: #666;">
+            <div class="entry-meta">
               {{ podcast.date | date: '%B %d, %Y' }}
             </div>
           {% endif %}
