@@ -1,0 +1,38 @@
+/* podcast-flex.css */
+
+/* Flex container for each podcast entry */
+.podcast-entry {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  align-items: flex-start;
+}
+
+/* Thumbnail container */
+.podcast-entry .entry-thumb {
+  flex: 0 0 160px;
+}
+
+/* Thumbnail image */
+.podcast-entry .podcast-thumb {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Text content container */
+.podcast-entry .entry-content {
+  flex: 1;
+}
+
+/* Title styling */
+.podcast-entry .entry-title {
+  margin-top: 0;
+}
+
+/* Meta styling */
+.podcast-entry .entry-meta {
+  font-size: 0.9rem;
+  color: #666;
+}
