@@ -16,6 +16,7 @@ description: Our latest episode of The Knowledge Exchange features Dr Chris Knig
   a researcher-turned-entrepreneur whose work spans weather prediction, crop modelling,
   and global agri-tech ventures.
 youtube_id: GaJTnCEaCc
+layout: post
 ---
 
 <div class="o-ratio o-ratio--16:9">
