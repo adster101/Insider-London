@@ -20,13 +20,14 @@ layout: post
 ---
 
 <div class="o-ratio o-ratio--16:9">
-  <iframe
-    src="https://www.youtube.com/embed?v=_GaJTnCEaCc"
+  <iframe 
+    src="https://www.youtube.com/embed/_GaJTnCEaCc" 
     title="Why Global Experience Builds Better Innovators | Dr Chris Knight, Agri-Tech Founder | Ep 4"
-    frameborder="0"
-    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    frameborder="0" 
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
     allowfullscreen>
   </iframe>
+
 </div>
 
 Our latest episode of The Knowledge Exchange features Dr Chris Knight, a researcher-turned-entrepreneur whose work spans weather prediction, crop modelling, and global agri-tech ventures. Chris has taken his PhD research and scaled it into technology that tracks fields across the world — showing how deep academic insight can become commercial innovation with global impact.
