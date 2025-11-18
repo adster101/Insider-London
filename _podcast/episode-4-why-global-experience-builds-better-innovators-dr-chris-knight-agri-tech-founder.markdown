@@ -15,7 +15,7 @@ tags:
 description: Our latest episode of The Knowledge Exchange features Dr Chris Knight,
   a researcher-turned-entrepreneur whose work spans weather prediction, crop modelling,
   and global agri-tech ventures.
-youtube_id: GaJTnCEaCc
+youtube_id: _GaJTnCEaCc
 layout: post
 ---
 
