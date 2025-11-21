@@ -16,7 +16,7 @@ description: Our latest episode of The Knowledge Exchange features Michael Korn,
   physical prototyping, and scaling hardware in complex environments, Michael brings
   a wealth of experience to the table.
 youtube_id: 9Vtn365rqxI
-layout: blog
+layout: post
 ---
 
 
