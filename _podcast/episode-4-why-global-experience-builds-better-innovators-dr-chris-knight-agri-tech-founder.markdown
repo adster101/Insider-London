@@ -19,7 +19,7 @@ youtube_id: _GaJTnCEaCc
 layout: post
 ---
 
-<div class="o-ratio o-ratio--16:9">
+<div class="o-ratio o-ratio--16:9 u-margin-bottom">
   <iframe 
     src="https://www.youtube.com/embed/_GaJTnCEaCc" 
     title="Why Global Experience Builds Better Innovators | Dr Chris Knight, Agri-Tech Founder | Ep 4"
