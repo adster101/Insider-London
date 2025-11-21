@@ -15,7 +15,7 @@ description: Our latest episode of The Knowledge Exchange features Michael Korn,
   insight, and collaborative design. With a career spanning healthcare innovation,
   physical prototyping, and scaling hardware in complex environments, Michael brings
   a wealth of experience to the table.
-id_youtube: 9Vtn365rqxI
+youtube_id: 9Vtn365rqxI
 layout: blog
 ---
 
