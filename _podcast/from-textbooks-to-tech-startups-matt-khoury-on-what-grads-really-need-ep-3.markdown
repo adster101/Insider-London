@@ -14,7 +14,7 @@ youtube_id: NNeEATPBzTQ
 layout: post
 ---
 
-<div class="o-ratio o-ratio--16:9">
+<div class="o-ratio o-ratio--16:9 u-margin-bottom">
   <iframe
     src="https://www.youtube.com/embed/NNeEATPBzTQ"
     title="From Textbooks to Tech Startups | Matt Khoury on What Grads Really Need | Ep 3"
