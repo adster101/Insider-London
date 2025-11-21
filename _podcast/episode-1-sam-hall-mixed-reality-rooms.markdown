@@ -7,7 +7,7 @@ tags:
 - innovation
 - stratups
 - education
-position: 2
+position: 4
 description: Our debut episode of Insider London Podcast features Sam Hall, founder
   of Mixed Reality Rooms, a company pioneering collaborative mixed‑reality spaces
   that blend the digital and physical worlds.

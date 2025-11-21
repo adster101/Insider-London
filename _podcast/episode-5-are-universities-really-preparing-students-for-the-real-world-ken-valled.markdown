@@ -11,6 +11,7 @@ tags:
 - Networking Skills
 - Global Experience
 - Soft Skills Gap
+position: 0
 description: 'Ken has spent his career bridging two worlds: global corporations and
   the startup ecosystem. Today, he helps brands collaborate with startups to drive
   innovation, and he’s passionate about supporting young people in building meaningful,
