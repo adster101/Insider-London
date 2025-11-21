@@ -36,3 +36,20 @@
   font-size: 0.9rem;
   color: #666;
 }
+
+/* Force vertical stack below 400px */
+@media (max-width: 400px) {
+  .podcast-entry {
+    flex-direction: column;
+    align-items: center; /* optional: center thumbnail + text */
+  }
+
+  .podcast-entry .entry-thumb {
+    flex: none;
+    margin-bottom: 1rem;
+  }
+
+  .podcast-entry .entry-content {
+    width: 100%;
+  }
+}
