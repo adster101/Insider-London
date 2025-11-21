@@ -11,7 +11,7 @@
 
 /* Thumbnail container */
 .podcast-entry .entry-thumb {
-  flex: 0 0 160px;
+  flex: 0 1 160px;
 }
 
 /* Thumbnail image */
@@ -23,7 +23,7 @@
 
 /* Text content container */
 .podcast-entry .entry-content {
-  flex: 1;
+  flex: 1 1 300px;
 }
 
 /* Title styling */
