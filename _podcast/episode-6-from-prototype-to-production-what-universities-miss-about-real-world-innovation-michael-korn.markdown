@@ -10,7 +10,7 @@ tags:
 - Prototype to Scale
 - Hardware Innovation
 - Real-World Learning
-position: 5
+position: 1
 description: Our latest episode of The Knowledge Exchange features Michael Korn, the
   visionary founder of Blue Garage and a staunch advocate for hands-on learning, commercial
   insight, and collaborative design. With a career spanning healthcare innovation,
