@@ -13,8 +13,6 @@ layout: page
   <div class="o-layout__item u-2/3@tablet u-3/4@desktop">
     {% assign podcasts = site.podcast | sort: 'date' | reverse %}
     {% for podcast in podcasts %}
-   <!-- episode markup -->
-    {% endfor %}
       <article class="podcast-entry">
         {% if podcast.youtube_id %}
           <div class="entry-thumb">
