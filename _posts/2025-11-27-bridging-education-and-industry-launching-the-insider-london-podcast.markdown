@@ -1,9 +1,21 @@
 ---
 title: 'Bridging Education and Industry: Launching the Insider London Podcast'
 date: 2025-11-27 09:30:00 Z
+categories:
+- Business
+tags:
+- graduates
+- podcast
+- career path
+- start-ups
+description: "At Insider London, we’ve always believed that the most powerful learning
+  happens when classrooms meet the real world. Our new podcast series Insider London
+  Podcast takes this mission further, bringing together employers, educators, and
+  innovators to explore how graduates can thrive in a rapidly changing global economy.\n
+  \ \n"
 ---
 
-![11lab@800w.jpg](/uploads/11lab@800w.jpg)
+![Are graduates ready](/uploads/Screenshot_20251127-1234442.jpg)
 
 At Insider London, we’ve always believed that the most powerful learning happens when classrooms meet the real world. Our new podcast series — [Insider London Podcast](https://www.insiderlondon.com/podcast/) — takes this mission further, bringing together employers, educators, and innovators to explore how graduates can thrive in a rapidly changing global economy.
   
