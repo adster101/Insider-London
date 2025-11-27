@@ -9,9 +9,6 @@ At Insider London, we’ve always believed that the most powerful learning happe
   
 From immersive tech and agri‑tech to employer branding and internationalisation, our guests have shared practical advice for students, universities and employers.
 
-
-#### Graduate Readiness in a Post‑COVID World
-
 #### What we’ve covered so far
 
 Across the series a few consistent themes keep returning: the gap between academic preparation and workplace expectations; the rising importance of soft skills, curiosity and cultural agility; and the need for university–industry partnerships that produce ready‑to‑work graduates. Our guests have been generous with practical advice — from how to design industry‑aligned modules to what employers look for in a crowded graduate market.
