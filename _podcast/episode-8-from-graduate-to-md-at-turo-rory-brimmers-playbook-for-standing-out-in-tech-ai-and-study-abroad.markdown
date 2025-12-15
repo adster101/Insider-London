@@ -1,5 +1,5 @@
 ---
-title: 'Episode 8: From Graduate to MD at Turo: Rory Brimmer''s Playbook for Standing
+title: 'Episode 9: From Graduate to MD at Turo: Rory Brimmer''s Playbook for Standing
   Out in Tech, AI & Study Abroad'
 date: 2025-12-05 10:52:00 Z
 categories:
