@@ -18,6 +18,7 @@ youtube_id: To4JC3HEZO4
 layout: post
 ---
 
+<div class="o-ratio o-ratio--16:9 u-margin-bottom">
 <iframe 
     src="https://www.youtube.com/embed/To4JC3HEZO4" 
     title="Are Grads Really 'Work Ready'? Gen Z, AI & Global Talent with Oscar Sadler (Wiser)" 
