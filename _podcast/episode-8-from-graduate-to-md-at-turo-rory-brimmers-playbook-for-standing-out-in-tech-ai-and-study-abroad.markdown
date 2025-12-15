@@ -17,6 +17,7 @@ description: Rory Brimmer of Turo shares how graduates can stand out in tech, le
   AI, communicate more effectively, and utilise study abroad opportunities to accelerate
   their careers.
 youtube_id: jhDtPhEmrD4
+layout: post
 ---
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
