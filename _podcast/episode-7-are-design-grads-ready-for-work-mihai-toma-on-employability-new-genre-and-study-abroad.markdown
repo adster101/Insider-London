@@ -2,6 +2,8 @@
 title: 'Episode 7: Are Design Grads Ready for Work? Mihai Toma on Employability, New
   Genre & Study Abroad'
 date: 2025-11-23 15:19:00 Z
+categories:
+- Business
 tags:
 - Design Employability
 - Creative Industry Careers
