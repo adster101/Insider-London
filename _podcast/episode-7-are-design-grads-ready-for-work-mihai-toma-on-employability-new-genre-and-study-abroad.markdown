@@ -19,7 +19,6 @@ description: In this episode of The Knowledge Exchange, we sit down with Mihai T
 layout: post
 ---
 
-<!-- Responsive YouTube embed: Mihai Toma Ep. 7 -->
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
   <iframe 
     src="https://www.youtube.com/embed/cECgBelFonA" 
