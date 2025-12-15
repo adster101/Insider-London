@@ -1,7 +1,7 @@
 ---
 title: 'Episode 10: Biotech Isn’t Ready for You… Unless You Learn This | Stephanie
   Rogers on Real‑World Science'
-date: 2025-12-15 11:08:00 Z
+date: 2025-12-08 11:08:00 Z
 categories:
 - Sustainability
 - Innovation
