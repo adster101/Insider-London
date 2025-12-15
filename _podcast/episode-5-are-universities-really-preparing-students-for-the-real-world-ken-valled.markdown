@@ -1,6 +1,6 @@
 ---
 title: 'Episode 5: Are Universities Really Preparing Students for the Real World?
-  | Ken Valled'
+  | Ken Valledy'
 date: 2025-11-20 10:58:00 Z
 tags:
 - Startup Ecosystems
