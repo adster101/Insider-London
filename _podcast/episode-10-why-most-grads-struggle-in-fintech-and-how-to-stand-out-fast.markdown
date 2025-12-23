@@ -1,6 +1,17 @@
 ---
 title: 'Episode 10: Why Most Grads Struggle in Fintech (and How to Stand Out Fast)'
 date: 2025-12-11 10:15:00 Z
+categories:
+- Business
+- Innovation
+tags:
+- leadership
+- early careers
+- innovation
+- Michael Ho
+- industry insights
+- Graduate Employability
+- professional development
 description: Michael Ho shares practical lessons on leadership, innovation, and how
   students can bridge the gap from study to meaningful careers in fast‑moving industries.
 youtube_id: 0epadcKP8Ow
