@@ -1,11 +1,14 @@
 ---
 title: What’s Your Leadership Superpower? Our New Leadership Workshop
 date: 2026-01-13 15:55:00 Z
+description: We are introducing a new interactive leadership workshop with Ken Valledy.
+  This discovery-focused session guides students to identify and name their existing
+  strengths, then transform them into confident, workplace‑ready behaviours.
 ---
 
-[Ken Valledy Leadership Workshop](/uploads/20260107_095402~2.JPG)
+![Ken Valledy Leadership Workshop](/uploads/20260107_095402~2.JPG)
 
-*We are introducing a new interactive leadership workshop with Ken Valledy. This discovery-focused session guides students to identify and name their existing strengths, then transform them into confident, workplace‑ready behaviours. *
+*We are introducing a new interactive leadership workshop with Ken Valledy. This discovery-focused session guides students to identify and name their existing strengths, then transform them into confident, workplace‑ready behaviours.*
 
 #### Leadership Superpowers
 
@@ -13,7 +16,7 @@ date: 2026-01-13 15:55:00 Z
 
 Ken’s session isn’t a leadership lecture. It’s a guided discovery. Drawing on more than 15 years in brand leadership at global companies and the hands‑on lessons of building and selling his own business, Ken creates a space where students test ideas, receive honest peer feedback, and see themselves differently. That combination of corporate rigour and entrepreneurial grit is the engine behind the transformation we saw.
 
-[Ken Valley with Students](/uploads/20260107_103916~2.JPG)
+![Ken Valley with Students](/uploads/20260107_103916~2.JPG)
 
 #### Confidence through practice
 
@@ -21,7 +24,7 @@ The workshop is built around doing, not just listening. Students worked together
 
 This is where confidence grows: not from praise, but from repeated, supported practice. Participants left with language to describe their strengths, examples they could use in interviews, and a clearer sense of how to show up in teams and workplaces.
 
-[20260107_100122.JPG](/uploads/20260107_100122.JPG)
+![20260107_100122.JPG](/uploads/20260107_100122.JPG)
 
 #### Self-discovery that sticks
 
