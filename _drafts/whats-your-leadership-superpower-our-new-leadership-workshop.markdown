@@ -12,7 +12,7 @@ description: We are introducing a new interactive leadership workshop with Ken V
 
 #### Leadership Superpowers
 
-“What’s your leadership superpower?” It’s a simple question — and the exact one that changed the room when students from Texas Tech joined Ken Valedy’s leadership workshop last week. Most arrived unsure. By the final reflection, they were naming strengths out loud, standing taller, and speaking with a new clarity about what they bring to a team.
+“What’s your leadership superpower?” It’s a simple question — and the exact one that changed the room when students from Texas Tech joined Ken Valledy’s leadership workshop last week. Most arrived unsure. By the final reflection, they were naming strengths out loud, standing taller, and speaking with a new clarity about what they bring to a team.
 
 Ken’s session isn’t a leadership lecture. It’s a guided discovery. Drawing on more than 15 years in brand leadership at global companies and the hands‑on lessons of building and selling his own business, Ken creates a space where students test ideas, receive honest peer feedback, and see themselves differently. That combination of corporate rigour and entrepreneurial grit is the engine behind the transformation we saw.
 
