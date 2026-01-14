@@ -1,6 +1,14 @@
 ---
 title: What’s Your Leadership Superpower? Our New Leadership Workshop
-date: 2026-01-13 15:55:00 Z
+date: 2026-01-14 15:55:00 Z
+categories:
+- Events
+tags:
+- leadership
+- workshops
+- leadership workshops
+- ken valledy
+- business education
 description: We are introducing a new interactive leadership workshop with Ken Valledy.
   This discovery-focused session guides students to identify and name their existing
   strengths, then transform them into confident, workplace‑ready behaviours.
@@ -16,7 +24,7 @@ description: We are introducing a new interactive leadership workshop with Ken V
 
 Ken’s session isn’t a leadership lecture. It’s a guided discovery. Drawing on more than 15 years in brand leadership at global companies and the hands‑on lessons of building and selling his own business, Ken creates a space where students test ideas, receive honest peer feedback, and see themselves differently. That combination of corporate rigour and entrepreneurial grit is the engine behind the transformation we saw.
 
-![Ken Valley with Students](/uploads/20260107_103916~2.JPG)
+![Ken Valledy with Students](/uploads/20260107_103916~2.JPG)
 
 #### Confidence through practice
 
