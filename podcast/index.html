@@ -14,10 +14,20 @@ layout: page
     {% assign podcasts = site.podcast | sort: 'date' | reverse %}
     {% for podcast in podcasts %}
       <article class="podcast-entry">
+
         {% if podcast.youtube_id %}
           <div class="entry-thumb">
             <a href="{{ podcast.url }}">
               <img src="https://img.youtube.com/vi/{{ podcast.youtube_id }}/mqdefault.jpg"
+                   alt="{{ podcast.title }} thumbnail"
+                   class="podcast-thumb">
+            </a>
+          </div>
+
+        {% elsif podcast.vimeo_id %}
+          <div class="entry-thumb">
+            <a href="{{ podcast.url }}">
+              <img src="https://vumbnail.com/{{ podcast.vimeo_id }}.jpg"
                    alt="{{ podcast.title }} thumbnail"
                    class="podcast-thumb">
             </a>
