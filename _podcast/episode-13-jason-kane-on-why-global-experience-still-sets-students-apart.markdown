@@ -20,10 +20,8 @@ tags:
 - university partnerships
 - student development
 - Graduate Employability
-description: University of Pittsburgh’s Jason Kane explains how studying and working
-  abroad builds adaptability, cultural awareness, and the subtle professional skills
-  employers value most. Discover why global experience remains a powerful differentiator
-  for students entering today’s job market.
+description: University of Pittsburgh’s Jason Kane explores graduate readiness, study
+  abroad, alumni engagement and future skills for a changing global workforce
 vimeo_id: 1156773310
 layout: podcast
 ---
@@ -33,6 +31,6 @@ layout: podcast
 
 In this episode of *The Knowledge Exchange*, we speak with [Jason Kane](https://www.linkedin.com/in/jasonkanepitt/) from the University of Pittsburgh about how universities and employers are responding to a changing graduate job market.
 
-Jason discusses what really makes graduates stand out today, why communication and adaptability matter more than grades alone, and how study abroad and global experience shape long-term careers. We explore student anxiety around employability, the shift towards deeper university–industry partnerships, and how alumni engagement has evolved since the pandemic.
+Jason discusses what makes graduates stand out today, why communication and adaptability matter more than grades alone, and how studying abroad and global experience shape long-term careers. We explore student anxiety around employability, the shift towards deeper university–industry partnerships, and how alumni engagement has evolved since the pandemic.
 
 The conversation also looks ahead to automation and AI, and how universities can better prepare students for an increasingly global and fluid workforce.
