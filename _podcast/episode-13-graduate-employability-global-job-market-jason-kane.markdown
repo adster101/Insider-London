@@ -1,5 +1,6 @@
 ---
-title: 'Episode 13: Jason Kane on Why Global Experience Still Sets Students Apart'
+title: 'Episode 13: What Actually Makes Graduates Employable in a Global Job Market
+  with Jason Kane'
 date: 2026-01-21 09:16:00 Z
 tags:
 - global employability
@@ -26,7 +27,15 @@ vimeo_id: 1156773310
 layout: podcast
 ---
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1156773310?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Jason Kane_s Full Episode"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div class="o-ratio o-ratio--16:9 u-margin-bottom">
+  <iframe 
+    src="https://player.vimeo.com/video/1156773310"
+    title="What Actually Makes Graduates Employable in a Global Job Market with Jason Kane"
+    frameborder="0"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 In this episode of *The Knowledge Exchange*, we speak with [Jason Kane](https://www.linkedin.com/in/jasonkanepitt/) from the University of Pittsburgh about how universities and employers are responding to a changing graduate job market.
