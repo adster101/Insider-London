@@ -17,7 +17,7 @@ tags:
 description: Michael Ho shares practical lessons on leadership, innovation, and how
   students can bridge the gap from study to meaningful careers in fast‑moving industries.
 youtube_id: 0epadcKP8Ow
-layout: post
+layout: podcast
 ---
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">

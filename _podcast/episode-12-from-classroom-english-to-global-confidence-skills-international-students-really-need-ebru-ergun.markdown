@@ -12,7 +12,7 @@ tags:
 description: Ebru Urgen shares how international students can build real‑world communication
   skills, human skills, and confidence to succeed in today’s global workplace
 youtube_id: xenVmUHrbLk
-layout: post
+layout: podcast
 ---
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
