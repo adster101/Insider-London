@@ -1,6 +1,8 @@
 ---
 title: 'Episode 18: Negotiation, Communication, and Global Readiness with Karen Jones'
 date: 2026-01-19 10:56:00 Z
+categories:
+- Business
 tags:
 - negotiation skills
 - legal education
@@ -27,6 +29,7 @@ description: In this episode, we talk about why negotiation skills still matter,
   students struggle when theory meets real clients, how international exposure shapes
   legal careers, and which human communication skills become even more valuable as
   AI accelerates.
+layout: podcast
 ---
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
