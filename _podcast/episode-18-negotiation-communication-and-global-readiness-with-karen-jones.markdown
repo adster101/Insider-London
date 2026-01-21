@@ -23,7 +23,10 @@ tags:
 - experiential learning
 - graduate employability
 vimeo_id: 1156801113
-Field name: 
+description: In this episode, we talk about why negotiation skills still matter, where
+  students struggle when theory meets real clients, how international exposure shapes
+  legal careers, and which human communication skills become even more valuable as
+  AI accelerates.
 ---
 
 <div class="o-ratio o-ratio--16:9 u-margin-bottom">
@@ -36,7 +39,7 @@ Field name:
   </iframe>
 </div>
 
-Karen Jones — educator, negotiator, and leader of Global & Graduate Programs at the University of Houston Law Center — joins us to explore how young professionals can bridge the gap between academic theory and real‑world legal practice. Drawing on her work with international LLM students and her coaching practice, Mission to Transition, Karen breaks down why negotiation skills, listening, and silence remain some of the most underestimated tools in a global career.
+Karen Jones, an educator, negotiator, and leader of Global & Graduate Programs at the University of Houston Law Center, joins us to explore how young professionals can bridge the gap between academic theory and real‑world legal practice. Drawing on her work with international LLM students and her coaching practice, Mission to Transition, Karen breaks down why negotiation skills, listening, and silence remain some of the most underestimated tools in a global career.
 
 She explains where students struggle most when they first encounter real clients, why international exposure gives graduates a genuine edge, and how communication is often confused with performance rather than true connection. Karen also reflects on shifting student expectations, the rise of purpose‑driven career decisions, and the human skills that will matter even more as AI reshapes the legal and business landscape.
 
