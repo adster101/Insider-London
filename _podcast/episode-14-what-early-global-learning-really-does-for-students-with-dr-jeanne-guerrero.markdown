@@ -1,7 +1,7 @@
 ---
 title: 'Episode 17: What Early Global Learning Really Does for Students with Dr Jeanne
   Guerrero'
-date: 2026-01-12 10:26:00 Z
+date: 2026-01-16 10:26:00 Z
 tags:
 - early global learning
 - pre‑college programs
