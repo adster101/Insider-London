@@ -14,6 +14,7 @@ tags:
 - Graduate Employability
 - professional development
 - fintech
+position: 6
 description: Michael Ho shares practical lessons on leadership, innovation, and how
   students can bridge the gap from study to meaningful careers in fast‑moving industries.
 youtube_id: 0epadcKP8Ow

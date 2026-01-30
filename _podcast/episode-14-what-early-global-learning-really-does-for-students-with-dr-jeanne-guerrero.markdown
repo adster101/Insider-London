@@ -23,6 +23,7 @@ tags:
 - global diplomacy education
 - K–12 partnerships
 - education innovation
+position: 2
 description: In this episode, we talk about how early global learning shapes confidence,
   why real‑world experiences like embassy visits matter, the skills students need
   for future international careers, and how universities and partners can better support

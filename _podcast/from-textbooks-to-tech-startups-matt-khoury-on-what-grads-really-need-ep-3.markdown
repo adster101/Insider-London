@@ -7,7 +7,7 @@ tags:
 - soft skills
 - startups
 - graduates
-position: 6
+position: 14
 description: 'Matt Khoury on what graduates really need: entrepreneurial traits, global
   exposure, and soft skills to thrive in today’s global economy.'
 youtube_id: NNeEATPBzTQ

@@ -12,7 +12,7 @@ tags:
 - "- study abroad"
 - turo
 - early careers
-position: 0
+position: 8
 description: Rory Brimmer of Turo shares how graduates can stand out in tech, leverage
   AI, communicate more effectively, and utilise study abroad opportunities to accelerate
   their careers.

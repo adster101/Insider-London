@@ -11,7 +11,7 @@ tags:
 - Graduate Portfolios
 - University Partnerships
 - Networking and Pitching
-position: 2
+position: 10
 youtube_id: cECgBelFonA
 description: In this episode of The Knowledge Exchange, we sit down with Mihai Toma,
   founder and CEO of New Genre, a London‑based creative studio working with ambitious

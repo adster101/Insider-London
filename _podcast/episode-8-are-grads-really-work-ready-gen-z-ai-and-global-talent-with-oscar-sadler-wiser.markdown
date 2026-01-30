@@ -11,7 +11,7 @@ tags:
 - "- early careers"
 - employer branding
 - AI in hiring
-position: 1
+position: 9
 description: Oscar Sadler of Wiser breaks down whether grads are truly work‑ready,
   how AI is reshaping hiring, and what Gen Z expects from today’s employers.
 youtube_id: To4JC3HEZO4

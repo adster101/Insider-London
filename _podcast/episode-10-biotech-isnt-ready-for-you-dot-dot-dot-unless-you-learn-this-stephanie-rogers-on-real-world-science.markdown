@@ -13,6 +13,7 @@ tags:
 - adaptability
 - circular economy
 - Stephanie Roger
+position: 7
 description: Scientist Stephanie Rogers reveals why biotech grads struggle in industry,
   the skills they actually need, and how real‑world research transforms employability.
 youtube_id: FPZWMLBh1lE

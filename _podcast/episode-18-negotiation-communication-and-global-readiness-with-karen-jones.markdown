@@ -24,6 +24,7 @@ tags:
 - international legal programs
 - experiential learning
 - graduate employability
+position: 1
 vimeo_id: 1156801113
 description: In this episode, we talk about why negotiation skills still matter, where
   students struggle when theory meets real clients, how international exposure shapes

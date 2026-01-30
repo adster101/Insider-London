@@ -12,7 +12,7 @@ tags:
 - PhD
 - AI
 - Sustainability
-position: 5
+position: 13
 description: Our latest episode of The Knowledge Exchange features Dr Chris Knight,
   a researcher-turned-entrepreneur whose work spans weather prediction, crop modelling,
   and global agri-tech ventures.
