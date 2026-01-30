@@ -17,7 +17,7 @@ tags:
 - post‑pandemic workforce trends
 - cross‑cultural communication
 - global employers expectations
-descripton: Shaw Xu, President of Versus Global, shares a candid look at the real
+description: Shaw Xu, President of Versus Global, shares a candid look at the real
   skills graduates need to succeed in international logistics. From communication
   and workplace readiness to cultural awareness and global exposure, he explains why
   technical knowledge alone isn’t enough; and how young professionals can stand out
