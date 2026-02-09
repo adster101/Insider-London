@@ -25,8 +25,7 @@ But this only works when AI is used intentionally. Knowing what to ask, how to e
 
 For students preparing for university, internships, employment or entrepreneurial pathways, understanding AI is no longer optional. Equally, simply knowing how to use AI tools is not enough. The challenge and the opportunity lie in learning how to combine AI capabilities with human originality and clear communication.
 
-That is why our new AI & Entrepreneurship workshop is a practical, hands-on session designed to help students build confidence working with AI, while strengthening the skills that technology cannot replace.
-
+That is why our new AI & Entrepreneurship Workshop is a practical, hands-on session designed to help students build confidence working with AI, while strengthening the skills that technology cannot replace.
 
 The workshop focuses on one clear outcome: guiding students through the creation of a 10-slide startup pitch deck, supported by AI tools at each stage of the process.
 
@@ -44,14 +43,11 @@ Present ideas clearly and confidently to others
 
 The workshop is led by Mia Jafari, an innovation strategist and ecosystem builder with over 15 years of experience helping organisations and entrepreneurs translate emerging technologies into practical action.
 
-As founder of Fluid Labs, Mia has designed innovation programmes for global organisations including Microsoft, Accenture, GE, and The Emirates Group. Her work focuses on bridging strategy and execution — demystifying complex technologies and turning them into tools people can use immediately.
+As founder of [Fluid Labs](https://fluid-labs.com/), Mia has designed innovation programmes for global organisations including Microsoft, Accenture, GE, and The Emirates Group.
 
-Mia is also the author of Collaborating with Life: Awakening Human Innovation in the Age of AI, which explores how we can shape our relationship with AI in ways that support both human creativity and long-term sustainability.
+Mia is also the author of *Collaborating with Life: Awakening Human Innovation in the Age of AI*, which explores how we can shape our relationship with AI in ways that support both human creativity and long-term sustainability.
 
 Her perspective aligns closely with the aims of this workshop: AI as a partner, not a replacement; innovation rooted in human judgement, curiosity, and purpose.
 
-
-
-As AI continues to reshape education and work, students need more than awareness — they need guided, practical experience. This workshop responds directly to that need, equipping young people with tools they are already encountering, while reinforcing the human capabilities that will define their long-term success.
-
-At its core, the session is about confidence: confidence using AI, confidence presenting ideas, and confidence navigating a future where human creativity and artificial intelligence work side by side.
+*To explore these ideas further, listen to Insider London’s Podcast episode [Human Skills in an AI World](https://www.insiderlondon.com/podcast/episode-12-human-skills-in-an-ai-world-rethinking-education-innovation-and-employability-with-mia-jafari/), where Mia Jafari discusses AI, education, and employability in more depth.
+If you’d like to book this workshop or discuss how it can be tailored for your students or programme, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
