@@ -3,6 +3,8 @@ title: 'AI Literacy Meets Entrepreneurship: A New Workshop with Mia Jafari'
 date: 2026-02-09 16:48:00 Z
 ---
 
+![pexels-rdne-7414216.jpg](/uploads/pexels-rdne-7414216.jpg)
+
 Artificial intelligence is no longer confined to research labs or tech companies. As AI tools become more accessible, educators and employers alike are recognising that AI literacy is fast becoming a core skill, alongside critical thinking, creativity, and communication.
 
 In response to these trends, we are introducing a new **AI & Entrepreneurship Workshop** led by innovation strategist [Mia Jafari](https://www.linkedin.com/in/miajafari) – a programme designed to equip young learners with cutting-edge AI skills and the human touch needed to thrive alongside smart machines.
