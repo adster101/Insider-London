@@ -22,13 +22,12 @@ description: Discover Insider London’s new AI & Entrepreneurship workshop for 
 
 ![pexels-rdne-7414216.jpg](/uploads/pexels-rdne-7414216.jpg)
 
-Today’s students aren’t just preparing for jobs; many are working on turning their ideas into ventures. However, the tools of entrepreneurship are advancing rapidly. Business plans are no longer created in isolation; they are shaped through [collaboration](https://www.weforum.org/stories/2025/05/why-ai-literacy-is-now-a-core-competency-in-education/), real-time data, and increasingly, AI.
+Today’s students aren’t just preparing for jobs; many are working on turning their ideas into ventures. However, the tools of entrepreneurship are advancing rapidly. Business plans are no longer created in isolation; they are shaped through collaboration, real-time data, and increasingly, AI.
 
-That’s the idea behind our new AI & Entrepreneurship Workshop, led by innovation strategist [Mia Jafari](https://www.linkedin.com/in/miajafari). This practical session helps students transform a business idea into a compelling 10-slide pitch deck — the kind entrepreneurs use daily to share their vision with investors, partners, or clients.
+That’s the idea behind our new AI & Entrepreneurship Workshop, led by innovation strategist [Mia Jafari](https://www.linkedin.com/in/miajafari). This practical session helps students transform a business idea into a compelling a pitch deck — the kind entrepreneurs use daily to share their vision with investors, partners, or clients.
 
-https://news.samsung.com/us/88-percent-us-parents-gen-alpha-gen-z-students-say-ai-crucial-to-childs-future-success-samsung-solve-for-tomorrow
 
-#### Entrepreneurship is changing, and so are the skills required
+#### Entrepreneurship is Changing
 
 Across industries, the entrepreneurial mindset is in demand: curiosity, problem-solving, adaptability, and the ability to spot and respond to opportunity. But tools are changing. Startups today use AI not just in products, but in how they operate — for customer research, competitor analysis, early-stage design, and pitch preparation.
 
@@ -50,18 +49,13 @@ In this workshop, students will:
 The emphasis isn’t on the technology itself, instead it’s on the idea and how well students can shape and express it. AI helps speed up the process, but students learn how to critically guide it, assess its outputs, and add their own creative layer.
 
 
-#### AI as a Collaborator, not a Shortcut
-
-The conversation around AI in education has matured quickly. Early concerns focused on misuse and automation. Today, the focus is increasingly on [collaboration](). Reports from organisations such as the World Economic Forum point out that while AI will automate certain tasks, it also increases the value of [human skills such as creativity](https://ailiteracy.institute/ai-literacy-review-march-11-2025/), judgement, adaptability, and ethical reasoning.
-
-
 #### Preparing Students for What Comes Next
 
 The startup world moves quickly, and young people are already exploring it. Recent surveys show that teens are more likely than ever to consider launching a business, and [nearly half would use AI to help get started](https://jausa.ja.org/news/press-releases/nearly-half-of-teens-interested-in-being-entrepreneurs-as-adults-likely-to-use-ai-instead-of-hiring-employees).
 
 This workshop taps into that energy. It gives students a real-world entrepreneurial experience in a safe, collaborative setting. They get to test ideas, learn from feedback, and build a pitch they can be proud of, whether they want to launch a business or simply better understand how innovation works in practice.
 
-For students preparing for university, internships, employment or entrepreneurial pathways, understanding AI is no longer optional. Equally, simply knowing how to use AI tools is not enough. The challenge and the opportunity lie in learning how to combine AI capabilities with human originality and clear communication.
+For students preparing for university, internships, employment or entrepreneurial pathways, [understanding AI is no longer optional](https://www.weforum.org/stories/2025/05/why-ai-literacy-is-now-a-core-competency-in-education/). Equally, simply knowing how to use AI tools is not enough. The challenge and the opportunity lie in learning how to combine AI capabilities with human originality and clear communication.
 
 It’s not a coding session. It’s a modern entrepreneurship bootcamp, powered by the tools founders are already using today.
 
@@ -71,7 +65,7 @@ The workshop is led by Mia Jafari, an innovation strategist and ecosystem builde
 
 As founder of [Fluid Labs](https://fluid-labs.com/), Mia has designed innovation programmes for global organisations including Microsoft, Accenture, GE, and The Emirates Group.
 
-Mia is also the author of *Collaborating with Life: Awakening Human Innovation in the Age of AI*, which explores how we can shape our relationship with AI to support both human creativity and long-term sustainability.
+Mia is also the author of *[Collaborating with Life: Awakening Human Innovation in the Age of AI](https://uk.entrepreneur.com/lifestyle/collaborating-with-life-mia-jafaris-new-book-tackles/502171)*, which explores how we can shape our relationship with AI to support both human creativity and long-term sustainability.
 
 Her perspective aligns closely with the aims of this workshop: AI as a partner, not a replacement; innovation rooted in human judgement, curiosity, and purpose.
 
