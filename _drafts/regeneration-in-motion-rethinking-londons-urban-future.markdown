@@ -1,6 +1,26 @@
 ---
 title: 'Regeneration in Motion: Rethinking London’s Urban Future'
 date: 2026-02-24 13:03:00 Z
+categories:
+- Regeneration
+- Sustainability
+tags:
+- urban regeneration London
+- return to office London
+- adaptive reuse
+- sustainable development London
+- London architecture
+- city planning UK
+- hybrid work impact
+- commercial property London
+- sustainable cities
+- London urban development
+- Kings Cross Regeneration
+- Sustainable Architecture
+- sustainable london
+description: Explore how urban regeneration in London is evolving through return-to-office
+  trends, adaptive reuse, and sustainable development — and what this means for the
+  city’s future growth and resilience.
 ---
 
 
