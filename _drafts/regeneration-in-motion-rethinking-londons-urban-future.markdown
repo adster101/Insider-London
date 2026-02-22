@@ -23,10 +23,8 @@ description: Explore how urban regeneration in London is evolving through return
   city’s future growth and resilience.
 ---
 
-London’s regeneration is no longer driven solely by new construction. It is shaped by hybrid work patterns, sustainability pressures, and a renewed focus on making existing districts viable, vibrant and resilient. 
 
-We explore this week how return-to-office dynamics, adaptive reuse, and sustainability are redefining what regeneration looks like in the 2020s.
-
+London’s regeneration is no longer driven solely by new construction. It is shaped by hybrid work patterns, sustainability pressures, and a renewed focus on making existing districts viable, vibrant and resilient. This week, we explore how return-to-office dynamics, adaptive reuse, and sustainability are redefining what regeneration looks like in the 2020s.
 
 #### Return to Office
 
