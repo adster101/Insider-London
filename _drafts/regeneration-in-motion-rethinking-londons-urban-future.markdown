@@ -34,13 +34,7 @@ London’s broader development conversation reflects this shift. Proposals such 
 
 If the first generation of regeneration projects focused on growth and expansion, today’s wave is defined by adaptation and integration.
 
-Return-to-office dynamics are rebalancing commercial districts. Adaptive reuse is reshaping underutilised assets. Sustainability provides the framework within which decisions are made. Together, these forces signal a quieter but arguably more strategic form of regeneration.
-
-This is not about erasing the past or simply constructing the new. It is about stitching together heritage, economic resilience and environmental responsibility. Cities are living systems; they evolve through adjustment rather than abrupt reinvention.
-
-London’s next chapter will not be written solely by cranes on the skyline. It will be shaped by how effectively it reuses what already stands, how it reconnects work with community life, and how it embeds sustainability into every redevelopment decision.
-
-Regeneration in the 2020s is less spectacle and more strategy — a long-term recalibration that recognises cities thrive not by constant replacement, but by thoughtful renewal.
+London’s next chapter will not be written solely by cranes on the skyline. It will be shaped by how effectively it reuses what already stands, how it reconnects work with community life, and how it embeds sustainability into every redevelopment decision. Regeneration in the 2020s is less spectacle and more strategy — a long-term recalibration that recognises cities thrive not by constant replacement, but by thoughtful renewal.
 
 *On our educational tours, we explore these themes on the ground — from the ongoing transformation of King’s Cross on our [King’s Cross Regeneration Tour](https://www.insiderlondon.com/london/educational-tours/kings-cross-regeneration/), to the long-term legacy of the Olympic Park, and the evolving commercial landscape of Canary Wharf. Our [Sustainable London Architecture Tour](https://www.insiderlondon.com/london/educational-tours/sustainable-london-architecture-tour/) also examines how adaptive reuse, low-carbon design and mixed-use planning are reshaping the capital.  
 
