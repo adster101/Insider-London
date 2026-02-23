@@ -49,7 +49,8 @@ And the result goes beyond carbon, with repurposed warehouses, former offices an
 London’s broader development conversation reflects this shift. Proposals such as [pedestrianising major areas like Oxford Street](https://www.theguardian.com/business/2025/jun/17/oxford-street-pedestrianised-soon-as-possible-mayor-sadiq-khan) point to a more human-centred urban model, prioritising walkability, local commerce and public space over traffic dominance. Sustainability is no longer an added feature; it is the organising principle.
 
 ![CanaryWharf@800x-50-a73dc4.jpg](/uploads/CanaryWharf@800x-50-a73dc4.jpg)
-<small><em><small><em>V&A East, alongside UAL and BBC Studios East Bank at the Queen Elizabeth Olympic Park in Stratford - a major cultural and educational hub as part of the Olympic legacy regeneration project</em></small></em></small>
+<small><em> Canary Wharf skyline with modern glass towers - London’s docklands regeneration into a global financial district.
+</em></small>
 
 #### A Second Wave of Regeneration
 
