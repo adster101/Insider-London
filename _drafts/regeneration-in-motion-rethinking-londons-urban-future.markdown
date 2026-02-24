@@ -46,6 +46,8 @@ And the result goes beyond carbon, with repurposed warehouses, former offices an
 
 London’s broader development conversation reflects this shift. Proposals such as [pedestrianising major areas like Oxford Street](https://www.theguardian.com/business/2025/jun/17/oxford-street-pedestrianised-soon-as-possible-mayor-sadiq-khan) point to a more human-centred urban model, prioritising walkability, local commerce and public space over traffic dominance. Sustainability is no longer an added feature; it is the organising principle.
 
+The **Olympic Park** offers another clear example of regeneration entering a new cultural phase. As we explored in our recent piece on how the [Olympic Park’s regeneration story enters a new chapter](https://www.insiderlondon.com/blog/olympic-park-londons-regeneration-story-enters-a-new-chapter/), the **East Bank** development continues to expand its cultural footprint. The opening of **Sadler’s Wells East** adds a major performing arts venue to Stratford’s growing cultural quarter, reinforcing the shift from event-led legacy to long-term place-making. What was once a site defined by the 2012 Games is now evolving into a sustained ecosystem of education, culture, and community infrastructure.
+
 ![Eastbank_Startford.jpg](/uploads/Eastbank_Startford.jpg)
 <small><em>V&A East, alongside UAL and BBC Studios East Bank at the Queen Elizabeth Olympic Park in Stratford - a major cultural and educational hub as part of the Olympic legacy regeneration project</em></small>
 
