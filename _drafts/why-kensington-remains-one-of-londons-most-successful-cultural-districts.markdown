@@ -1,6 +1,8 @@
 ---
 title: Why Kensington Remains One of London’s Most Successful Cultural Districts
 date: 2026-03-10 20:16:00 Z
+categories:
+- Art and Culture
 tags:
 - south kensington museums
 - kensington london tourism
