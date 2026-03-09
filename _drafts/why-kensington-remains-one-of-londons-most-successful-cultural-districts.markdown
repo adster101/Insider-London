@@ -49,7 +49,7 @@ This blend of tourism and education is one reason Kensington remains particularl
 
 Urban design also plays a role in Kensington’s success. The transformation of Exhibition Road into a shared pedestrian-friendly cultural boulevard has helped reinforce the area’s identity as a connected district rather than a collection of isolated attractions.
 
-The project created a unified public space linking the museums, Imperial College, and nearby institutions. Today the street functions as a gathering point where tourists, students and Londoners move easily between exhibitions, lectures and performances.
+The project created a unified public space linking the museums, Imperial College, and nearby institutions. Today, the street functions as a gathering point where tourists, students and Londoners move easily between exhibitions, lectures and performances.
 
 
 #### Culture as Soft Power
@@ -58,16 +58,12 @@ There is also a broader national dimension to Kensington’s appeal. Cultural in
 
 London’s museum district contributes significantly to the UK’s global cultural reputation. For international visitors, Kensington represents something distinctive: a place where world-class collections are accessible to the public and embedded within a living academic environment.
 
-That combination of scholarship, accessibility and architectural grandeur creates a powerful sense of place.
 
 #### A District That Continues to Evolve
 
 What is striking about Kensington is not just its history but its ability to adapt. New exhibitions, public programmes and collaborations continue to refresh the district’s appeal.
 
 At the same time, the surrounding neighbourhood remains one of London’s most walkable and visitor-friendly areas, with nearby parks, historic streets and cultural venues adding further layers to the experience.
+It is not simply a collection of attractions. It is a carefully layered ecosystem where museums, universities, public spaces, and education reinforce one another.
 
-In a city constantly reinventing itself, Kensington shows how long-term cultural investment can sustain tourism for generations.
-
-It is not simply a collection of attractions. It is a carefully layered ecosystem where museums, universities, public space and education reinforce one another.
-
-*If you would like to learn more or include this experience in your programme, **contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
+*If you would like to learn more or include this experience in your programme, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
