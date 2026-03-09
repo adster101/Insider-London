@@ -64,9 +64,7 @@ London’s museum district contributes significantly to the UK’s global cultur
 
 #### A District That Continues to Evolve
 
-What is striking about Kensington is not just its history but its ability to adapt. New exhibitions, public programmes and collaborations continue to refresh the district’s appeal.
-
-At the same time, the surrounding neighbourhood remains one of London’s most walkable and visitor-friendly areas, with nearby parks, historic streets and cultural venues adding further layers to the experience.
+What is striking about Kensington is not just its history but its ability to adapt. New exhibitions, public programmes and collaborations continue to refresh the district’s appeal. At the same time, the surrounding neighbourhood remains one of London’s most walkable and visitor-friendly areas, with nearby parks, historic streets and cultural venues adding further layers to the experience.
 It is not simply a collection of attractions. It is a carefully layered ecosystem where museums, universities, public spaces, and education reinforce one another.
 
 *If you would like to learn more or include this experience in your programme, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
