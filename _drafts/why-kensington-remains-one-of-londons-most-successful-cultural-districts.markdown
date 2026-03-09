@@ -37,13 +37,14 @@ A key reason for this sustained popularity is something quite simple: **free acc
 
 #### A Cultural District That Doubles as a Classroom
 
-![pexels-lucascraig-32439588-albert memorial.jpg](/uploads/pexels-lucascraig-32439588-albert%20memorial.jpg)
 
 Imperial College London, one of the world’s leading science universities, sits just across Exhibition Road from the museums. This proximity between research institutions and public cultural venues creates a unique knowledge cluster — a place where academic research, public education and tourism intersect.
 
 Visitors might come to see a dinosaur skeleton or a design exhibition, but they are also stepping into a broader ecosystem of discovery. Many museum programmes are explicitly educational, offering workshops, lectures and outreach programmes designed for students and families.
 
 This blend of tourism and education is one reason Kensington remains particularly attractive to international visitors. Cultural tourism research consistently shows that museums and heritage institutions are among the strongest drivers of urban visitation, especially for long-haul travellers seeking meaningful experiences rather than just sightseeing.
+
+![pexels-lucascraig-32439588-albert memorial.jpg](/uploads/pexels-lucascraig-32439588-albert%20memorial.jpg)
 
 #### Exhibition Road: A Street Designed for Culture
 
