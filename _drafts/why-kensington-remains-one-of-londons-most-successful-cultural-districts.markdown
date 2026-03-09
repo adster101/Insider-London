@@ -14,6 +14,11 @@ tags:
 - cultural districts london
 - education tourism london
 - london cultural heritage
+description: 'Explore why Kensington remains one of London’s most successful cultural
+  districts, where world-class museums, universities and public spaces combine to
+  create a thriving hub for tourism, education and culture.
+
+'
 ---
 
 ![pexels-sulav-loktam-natural history museum.jpg](/uploads/pexels-sulav-loktam-natural%20history%20museum.jpg)
