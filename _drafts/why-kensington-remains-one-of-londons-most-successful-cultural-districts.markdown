@@ -31,7 +31,7 @@ Walk through South Kensington on any weekday, and you’ll see it immediately: s
 
 #### Albertopolis: A Vision That Still Works
 
-Kensington’s cultural cluster traces its origins to Prince Albert’s vision following the Great Exhibition of 1851. The idea was simple but ambitious: create a district dedicated to learning, culture and scientific discovery. The result was what historians often call *Albertopolis* — a group of institutions including the Natural History Museum, the Science Museum, the V&A, Imperial College London, and the Royal Albert Hall.
+Kensington’s cultural cluster traces its origins to Prince Albert’s vision following the Great Exhibition of 1851. The idea was simple yet ambitious: to create a district dedicated to learning, culture and scientific discovery. The result was what is often called *Albertopolis* — a group of institutions that includes the Natural History Museum, the Science Museum, the V&A, Imperial College London, and the Royal Albert Hall.
 
 More than 170 years later, the three major museums in South Kensington attract millions of visitors each year. Before the pandemic, the Natural History Museum alone welcomed over **5 million visitors annually**, making it one of the most visited museums in the UK. The V&A regularly reports visitor numbers above **3 million per year**, while the Science Museum is another major draw for families, students and international tourists.
 
@@ -39,8 +39,7 @@ A key reason for this sustained popularity is something quite simple: **free acc
 
 #### A Cultural District That Doubles as a Classroom
 
-
-Imperial College London, one of the world’s leading science universities, sits just across Exhibition Road from the museums. This proximity between research institutions and public cultural venues creates a unique knowledge cluster — a place where academic research, public education and tourism intersect.
+Imperial College London, one of the world’s leading science universities, sits just across Exhibition Road from the museums. This proximity between research institutions and public cultural venues creates a unique *knowledge cluster*. It's a place where academic research, public education and tourism intersect.
 
 Visitors might come to see a dinosaur skeleton or a design exhibition, but they are also stepping into a broader ecosystem of discovery. Many museum programmes are explicitly educational, offering workshops, lectures and outreach programmes designed for students and families.
 
@@ -57,7 +56,7 @@ The project created a unified public space linking the museums, Imperial College
 
 #### Culture as Soft Power
 
-There is also a broader national dimension to Kensington’s appeal. Cultural institutions are increasingly recognised as part of a country’s **soft power** — the ability to attract and influence through ideas, creativity and knowledge.
+There is also a broader national dimension to Kensington’s appeal. Cultural institutions are increasingly recognised as part of a country’s *soft power;* as in its ability to attract and influence through ideas, creativity and knowledge.
 
 London’s museum district contributes significantly to the UK’s global cultural reputation. For international visitors, Kensington represents something distinctive: a place where world-class collections are accessible to the public and embedded within a living academic environment.
 
@@ -65,6 +64,6 @@ London’s museum district contributes significantly to the UK’s global cultur
 #### A District That Continues to Evolve
 
 What is striking about Kensington is not just its history but its ability to adapt. New exhibitions, public programmes and collaborations continue to refresh the district’s appeal. At the same time, the surrounding neighbourhood remains one of London’s most walkable and visitor-friendly areas, with nearby parks, historic streets and cultural venues adding further layers to the experience.
-It is not simply a collection of attractions. It is a carefully layered ecosystem where museums, universities, public spaces, and education reinforce one another.
+It is a carefully layered ecosystem where museums, universities, public spaces, and education reinforce one another; rather than simply a collection of attractions
 
-*If you would like to learn more or include this experience in your programme, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
+*We explore this story on the ground through our [Kensington Tourism and Culture Tour](https://www.insiderlondon.com/london/educational-tours/kensington-tourism-and-culture-tour/). If you would like to learn more or include this experience in your programme, contact us at [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
