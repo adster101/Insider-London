@@ -42,8 +42,6 @@ Meiji operates across multiple campuses, each serving a distinct role and offeri
 
 Surugadai places students in central Tokyo, close to the country’s business and political heart. Nakano focuses on international and interdisciplinary programmes. Ikuta hosts science, engineering, and agricultural research, while Izumi supports early undergraduate study.
 
-This structure does more than organise departments. It reflects how education connects to the city itself. Meiji is not separate from Tokyo. It is part of it.
-
 With partnerships spanning hundreds of universities worldwide and a growing number of English-taught programmes, Meiji is clearly geared toward the global stage. Its goal is not just to educate students for Japan but for an interconnected economy.
 
 At the same time, it remains rooted in the Japanese context, from business practices to governance and culture. For international students, this balance offers something valuable: a way to understand global trends through a distinctly Japanese lens.
