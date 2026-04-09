@@ -3,7 +3,8 @@ title: How Tokyo Tells the Story of Modern Finance
 date: 2026-04-09 08:33:00 Z
 ---
 
-![Tokyo Finance Walk](/uploads/tokyo-finance.jpg)
+![tokyo-boj.jpg](/uploads/tokyo-boj.jpg)
+<small><em>The Bank of Japan in Nihonbashi — where Japan’s shift from fragmented currencies to a centralised monetary system took shape.</em></small>
 
 This week, we explore how Tokyo tells the story of modern finance through a sequence of places that reveal how money, markets and systems evolved.
 
@@ -18,6 +19,10 @@ In pre-modern Japan, wealth was measured in rice production, and even samurai we
 As trade expanded, this system became increasingly complex. Japan moved from rice to a fragmented metallic currency — gold, silver and copper — before eventually transitioning to a unified, state-backed monetary system.
 
 That shift culminated in the creation of the Bank of Japan in 1882, marking Japan’s entry into modern financial governance.
+
+![tokyo -jpx.jpg](/uploads/tokyo%20-jpx.jpg)
+<small><em>Tokyo Stock Exchange — where historical foundations of Japanese commerce meet today’s global capital markets.</em></small>
+
 
 #### A Different Kind of Central Bank Story
 
