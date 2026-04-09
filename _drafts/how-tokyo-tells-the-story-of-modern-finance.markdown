@@ -29,7 +29,7 @@ description: 'Explore Tokyo’s financial evolution from Nihonbashi to the Tokyo
 ---
 
 ![tokyo-boj.jpg](/uploads/tokyo-boj.jpg)
-<small><em>The Bank of Japan in Nihonbashi — where Japan’s shift from fragmented currencies to a centralised monetary system took shape.</em></small>
+<small><em>The Bank of Japan in Nihonbashi: Japan’s shift from fragmented currencies to a centralised monetary system took shape.</em></small>
 
 This week, we explore how Tokyo tells the story of modern finance through a sequence of places that reveal how money, markets and systems evolved.
 
