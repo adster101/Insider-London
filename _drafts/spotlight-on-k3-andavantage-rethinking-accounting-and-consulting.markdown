@@ -25,7 +25,7 @@ description: Explore how K3 Advantage is reshaping corporate finance by combinin
   students and professionals gain from visiting as part of our programmes.
 ---
 
-![K3 Advantage](/uploads/k3-advantage.jpg)
+![Agency_Resised_241614746.jpg](/uploads/Agency_Resised_241614746.jpg)
 
 This week, we are announcing a new partnership with [K3 Advantage](https://k3advantage.com), a financial advisory firm working at the intersection of deals, data, and strategy, now included as part of our company visits.
 
