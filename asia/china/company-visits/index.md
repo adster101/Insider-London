@@ -5,8 +5,8 @@ position: 0
 description: Explore this glamorous and cosmopolitan city with it’s long history of
   migration with an extensive range of company visits from media to fashion, from
   manufacturing to high technology.
-heading: Shanghai Company Visits and Technology Tours
-nav: shanghai
+heading: Shanghai and Hong Kong Company Visits | Technology Tours
+nav: china
 gallery:
 - image: "/assets/images/cities/Shanghai/Picture-1---Shanghai-Innovation-Tech-Factory-Student-Academic-Study-Trip.jpg"
   alt: 
