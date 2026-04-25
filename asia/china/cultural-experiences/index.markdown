@@ -6,8 +6,8 @@ description: "Welcome to the bustling metropolis of Shanghai, where every street
   with tales of ancient history and modern dynamism. Our curated cultural experiences
   promise a journey beyond boundaries, offering you an immersive understanding of
   China's vibrant culture, language, and historical legacy.\n\n"
-nav: shanghai
-heading: Shanghai - Cultural Experiences
+nav: china
+heading: China - Cultural Experiences
 gallery:
 - image: "/uploads/pexels-maria-8776494.jpg"
   alt: Shanghai
