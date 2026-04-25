@@ -1,5 +1,5 @@
 ---
-title: Shanghai Immersive Programme
+title: China Immersive Programme
 date: 2024-01-14 09:57:00 Z
 position: 2
 description: |-
