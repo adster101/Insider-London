@@ -27,9 +27,11 @@ layout: programme
 
 China offers one of the most exciting settings to learn how business works today. In cities like Shanghai, Hong Kong, and Beijing, you’ll see new technology, fast innovation, and industries growing at a speed and size that’s hard to find anywhere else.
 
-The programme places participants directly within these environments, working alongside companies, engaging with local institutions, and experiencing everyday settings — to understand how new ideas are developed, scaled, and shaped by deeper cultural and structural forces.
+The programme immerses participants in these environments, facilitating collaboration with companies, engagement with local institutions, and exposure to daily contexts. This approach enables a comprehensive understanding of how new ideas are developed, scaled, and influence
 
-### **Shanghai — innovation, scale, ### **Shanghai: innovation, scale, execution** how quickly new ideas are developed and brought to market. Company visits focus on sectors such as technology, manufacturing, consumer brands, and infrastructure, showing how businesses operate at scale.
+### **Shanghai: innovation, scale, execution**
+
+Shanghai exemplifies the rapid development and implementation of new ideas. Company visits highlight sectors including technology, manufacturing, consumer brands, and infrastructure, illustrating how businesses operate efficiently at scale.
 
 
 ### **Hong Kong: finance and global connection**
