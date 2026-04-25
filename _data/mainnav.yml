@@ -36,16 +36,16 @@ asia:
   - title: Dubai
     url: /asia/dubai/
   - title: Tokyo
-    url: /asia/tokyo/
-  - title: Shanghai
-    url: /asia/shanghai/
-shanghai:
+    url: /asia/japan/
+  - title: China
+    url: /asia/china/
+china:
   - title: Immersive Programme
-    url: /asia/shanghai/immersive-programme
+    url: /asia/china/immersive-programme
   - title: Company Visits
-    url: /asia/shanghai/company-visits
+    url: /asia/china/company-visits
   - title: Cultural Experiences
-    url: /asia/shanghai/cultural-experiences      
+    url: /asia/china/cultural-experiences      
 # europe:
 #   - title: Berlin
 #     url: /europe/berlin/
