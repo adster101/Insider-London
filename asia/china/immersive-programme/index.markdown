@@ -20,10 +20,22 @@ Field name:
 layout: programme
 ---
 
-{% assign gallery = page.gallery %}
-{% if gallery.size > 1 %}
-  {% include slideshow.html %}
-{% endif %}
+<div class="c-video">
+  <video 
+    class="c-video__media"
+    autoplay 
+    muted 
+    loop 
+    playsinline 
+    preload="auto">
+    
+    <source src="/assets/videos/shanghai.mp4" type="video/mp4">
+    <!-- Optional fallback -->
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
 
 China offers one of the most exciting settings to learn how business works today. In cities like Shanghai, Hong Kong, and Beijing, you’ll see new technology, fast innovation, and industries growing at a speed and size that’s hard to find anywhere else.
 
@@ -43,6 +55,11 @@ Hong Kong gives a new perspective, centred on finance, regulation, and internati
 Beijing adds depth and context. Time here focuses on how history, governance, and long-term planning shape the way the country operates today.
 
 Experiences are slower-paced, giving space to understand how structure and continuity influence both business and daily life.
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 
 ### **Cultural context**
