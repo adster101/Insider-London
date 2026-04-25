@@ -1,5 +1,5 @@
 ---
-title: Shanghai Company Visits | Technology Tours
+title: Shanghai and Hong Kong Company Visits | Technology Tours
 position: 0
 description: Explore this glamorous and cosmopolitan city with it’s long history of
   migration with an extensive range of company visits from media to fashion, from
