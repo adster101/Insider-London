@@ -1,7 +1,6 @@
 ---
 title: Shanghai and Hong Kong Company Visits | Technology Tours
 date: 2026-04-25 11:08:00 Z
-permalink: "/asia/china/company-visits/"
 position: 0
 description: Explore this glamorous and cosmopolitan city with it’s long history of
   migration with an extensive range of company visits from media to fashion, from
