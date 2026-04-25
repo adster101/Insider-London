@@ -1,19 +1,19 @@
 ---
 title: Shanghai
 date: 2024-01-13 14:18:00 Z
-permalink: "/asia/shanghai/"
+permalink: "/asia/china/"
 position: 26
-heading: Shanghai Educational Programme
-description: "Through a diverse array of activities including Mandarin language fundamentals,
-  corporate site visits, day excursions, and Food culture experience, participants
-  will delve deeply into the societal, historical, and commercial facets of China.\n\n"
-nav: shanghai
+heading: China Educational Programme
+description: Programmes across China combine company visits, cultural context, and
+  immersive learning to explore how innovation, scale, and tradition shape the way
+  business operates today.
+nav: china
 background: asia.jpg
 repeatnav: true
 mainnav: true
 layout: landing
 ---
 
-Behind the glamorous skyline lies a cosmopolitan city with a long history of migration. Referred to as the melting pot of China, the French and Jewish Quarters are a testament to Shanghai’s diverse history. The modern metropolis is equally vibrant and attracts more foreign settlers than any other Chinese city.
+China moves at a scale and pace that is difficult to grasp without being there. Across cities such as Shanghai, Hong Kong, and Beijing, different systems operate side by side — from rapid innovation and industrial growth to finance, regulation, and long-standing cultural structures.
 
-Shanghai is prized for its sophistication and entrepreneurial flare as well as its openness and connectivity in business. One of China’s wealthiest and most populated cities, Shanghai is at the forefront of innovation in a variety of sectors and is the chosen location for China’s first free trade zone.
+Programmes are designed to give a clear view of how this works in practice. Time is spent with companies, within key urban environments, and across everyday settings to understand how decisions are made, how businesses scale, and how tradition continues to shape behaviour alongside change.
