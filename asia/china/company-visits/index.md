@@ -1,5 +1,6 @@
 ---
 title: Shanghai and Hong Kong Company Visits | Technology Tours
+date: 2026-04-25 11:08:00 Z
 position: 0
 description: Explore this glamorous and cosmopolitan city with it’s long history of
   migration with an extensive range of company visits from media to fashion, from
@@ -23,28 +24,31 @@ layout: programme
   {% include slideshow.html %}
 {% endif %}
 
-Behind the glamorous skyline lies a cosmopolitan city with a long history of migration. Referred to as the melting pot of China, the French and Jewish Quarters are a testament to Shanghai’s diverse history. The modern metropolis is equally vibrant and attracts more foreign settlers than any other Chinese city.
+Shanghai and Hong Kong offer two different ways of understanding business in China and the wider region. Shanghai shows speed, scale, and the move from ideas to implementation, with strong examples across manufacturing, technology, consumer brands, and infrastructure.
 
-Shanghai is prized for its sophistication and entrepreneurial flare as well as its openness and connectivity in business. One of China’s wealthiest and most populated cities, Shanghai is at the forefront of innovation in a variety of sectors and is the chosen location for China’s first free trade zone.
+Hong Kong adds a different layer: finance, regulation, international exchange, and cross-border business. Together, the two cities give participants a practical view of how companies grow locally, operate regionally, and connect to global markets.
 
-We offer an extensive range of company visits from media to fashion, from manufacturing to high technology. Read on to find out more.
-
-## Company Visits
+## Shanghai and Hong Kong Company Visits  
 Highlights of our bespoke programmes include:
 
-- **Eastday.com** – a global multi-media platform operating more than 120 columns in three languages, Eastday boasts a state-of-the-art broadcasting room and attracts more than 3 million viewers per day
-- **SenseTime Shanghai** - an AI company specialising in computer vision and deep learning technologies. It's a pioneer in AI-driven solutions across various industries most valuable company in Asia and listed on the Hong Kong Stock Exchange. 
-- **Bilibili** - find out how this NASDAQ listed online platform is among the most popular among the Chinese youth with its video-sharing community renowned for its diverse content, including anime, gaming, and user-generated videos.
-- **The SAIC-GM Experience Center** is a joint venture between General Motors Company and SAIC Motor. This immersive experience showcases the latest automotive technologies and innovations.
-- **iFlytek** -  is a major AI technology company specializing in speech recognition, natural language processing, and artificial intelligence-driven applications. It's recognized for innovative solutions in language and AI technology.
-- **Coca-Cola** Factory in Shenmei – venture outside of Shanghai to one of Asia’s most modern production lines. Explore the first cooperative venture between China and the US with this whistle-stop factory tour
+### **Shanghai**
+
+- **Eastday.com** – a large-scale digital media platform offering insight into content production, distribution, and audience engagement in one of the world’s most active online markets  
+- **SAIC Motor (Experience Centre)** – one of China’s leading automotive groups, showcasing manufacturing, branding, and the transition towards electric and smart mobility  
+- **miHoYo** – a global gaming and entertainment company building IP across games, animation, and merchandise, with a strong focus on digital communities  
+- **ZPMC (Shanghai Zhenhua Heavy Industries)** – the world’s largest port machinery manufacturer, providing a direct view into infrastructure, logistics, and global trade systems  
+- **AgiBot** – a Shanghai-based robotics company focused on AI-driven automation and humanoid robotics, representing the next phase of industrial development  
+- **Pop Mart** – a consumer brand built around collectable products and IP, offering insight into branding, retail, and youth-driven consumption trends  
+- **Internet Initiative Japan (Shanghai Office)** – an international technology firm specialising in network infrastructure and cloud services, providing a cross-border perspective on operating in China  
+
+---
+
+### **Hong Kong**
+
+- **Goldman Sachs (Hong Kong)** – insight into global finance within one of Asia’s key financial centres, highlighting capital markets and international banking  
+- **Hex Trust** – a regulated digital asset platform, offering a view into fintech, custody, and the development of digital finance infrastructure  
+- **Verus Global** – a logistics and freight-forwarding company using transparent systems and real-time data to improve efficiency across global supply chains  
+- **Hong Kong University of Science and Technology** – a leading institution focused on engineering and entrepreneurship, connecting research, talent, and startup ecosystems  
 
 
-- **Internet Initiative Japan** – a tech giant developing advanced technology. From launching Japan’s first firewall in 1994 to pioneering cloud service in 2000, IIJ has a long history of innovation
-- **Greenland Group** - a global real estate organisation known for its innovative approach to real estate development. See how its projects not only provide housing and commercial spaces but also contribute to the vitality and dynamism of cities.
-- **Verus Global** – the logistics pioneer offering transparent and cutting-edge systems. Verus Global represents a new generation of the freight forwarding industry with real-time views and streamlined service.
-- **Zizhu Hi-Tech Zone** – a huge technology park with a carefully selected mix of corporates, start-ups and universities. Meet the Zizhu Park Manager as well as leading lights of the ground-breaking hi-tech scene
-- **Dongfanghong Asset Management** - a leading asset management company in  China’s financial sector, providing valuable services to its clients and contributing to the stability and growth of the country’s capital market
-
-
-*To discover what we have in store for you with our [Shanghai Company Visits](https://www.insiderlondon.com/asia/shanghai/company-visits/), in-depth [Immersive Programme](https://insiderlondon.com/asia/shanghai/immersive-programme/) and [Cultural Experiences](https://insiderlondon.com/asia/shanghai/cultural-experiences), get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
+*To discover what we can arrange through our Shanghai and Hong Kong Company Visits, in-depth Immersive Programme and Cultural Experiences, get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
