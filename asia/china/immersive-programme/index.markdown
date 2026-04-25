@@ -20,18 +20,16 @@ Field name:
 layout: programme
 ---
 
-<div class="c-video">
+<div class="c-video c-video--inline">
   <video 
-    class="c-video__media"
     autoplay 
     muted 
     loop 
     playsinline 
-    preload="auto">
+    preload="metadata"
+    style="width: 100%; height: auto; border-radius: 4px;">
     
-    <source src="/assets/shanghai.mp4" type="video/mp4">
-    <!-- Optional fallback -->
-    Your browser does not support the video tag.
+    <source src="/assets/shaghai.mp4" type="video/mp4">
   </video>
 </div>
 
