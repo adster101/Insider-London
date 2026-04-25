@@ -1,5 +1,5 @@
 ---
-title: China - Immersive Programme
+title: China | Immersive Programme
 date: 2024-01-14 09:57:00 Z
 position: 2
 description: |-
@@ -20,14 +20,14 @@ Field name:
 layout: programme
 ---
 
-<div class="c-video c-video--inline">
+<div class="c-video c-video--inline" style="margin-bottom: 24px">
   <video 
     autoplay 
     muted 
     loop 
     playsinline 
     preload="metadata"
-    style="width: 100%; height: auto; border-radius: 4px;">
+    style="width: 100%; height: auto; border-radius: 4px; ">
     
     <source src="/assets/shanghai.mp4" type="video/mp4">
   </video>
