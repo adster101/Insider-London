@@ -1,5 +1,5 @@
 ---
-title: China - Cultural Experiences
+title: China | Cultural Experiences
 date: 2026-01-14 11:52:00 Z
 position: 1
 description: "Welcome to the bustling metropolis of Shanghai, where every street echoes
