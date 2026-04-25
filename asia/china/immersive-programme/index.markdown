@@ -25,38 +25,36 @@ layout: programme
   {% include slideshow.html %}
 {% endif %}
 
-Experience a life-changing learning opportunity with our carefully crafted, in-depth 
-**Shanghai Programme** in partnership with the East China University of Science and Technology (ECUST) The programme is specifically designed for international students and based on the Experiential Learning Theory; this immersive journey combines the essentials of the Mandarin language, [corporate visits](https://insiderlondon.com/asia/shanghai/company-visits), day excursions, and an in-depth exploration of Chinese food culture.
+China offers one of the most exciting settings to learn how business works today. In cities like Shanghai, Hong Kong, and Beijing, you’ll see new technology, fast innovation, and industries growing at a speed and size that’s hard to find anywhere else.
 
-#### Key Features
+The programme places participants directly within these environments, working alongside companies, engaging with local institutions, and experiencing everyday settings — to understand how new ideas are developed, scaled, and shaped by deeper cultural and structural forces.
 
-**Immersive Corporate Visits:** Step into the heart of China's business landscape through visits to quintessential enterprises, providing students with firsthand insights into the country's commercial dynamics.
-
-**Language Proficiency:** Our Mandarin courses prioritise practical application, ensuring students develop skills for real-life communication.
-
-**Cultural Exploration:** Day excursions and culinary experiences offer an intimate look into Chinese daily life, blending tradition and modernity.
-
-#### Experiential Learning Approach
-
-Our program champions experiential learning, empowering students to shape their overseas learning and living experiences. Through a blend of courses, activities, practical sessions, and immersive visits, participants gain a holistic understanding of China's rich societal, historical, and commercial tapestry.
-
-**Best Buyer**
-Engage in a simulation where participants act as buyers, practising negotiation skills and communication in Mandarin to determine the best deals.
-
-**Chinese Table** 
-This activity allows students to dine with residents, fostering exchange and cultural integration. Students will join locals for traditional meals, listen to their stories, and enhance cross-cultural understanding and interaction between East and West.
+### **Shanghai — innovation, scale, ### **Shanghai: innovation, scale, execution** how quickly new ideas are developed and brought to market. Company visits focus on sectors such as technology, manufacturing, consumer brands, and infrastructure, showing how businesses operate at scale.
 
 
-#### Programme Highlights
+### **Hong Kong: finance and global connection**
 
-**Digitally Proficient Team** 
-Our project team operates in a digitally advanced manner, boasting twelve years of experience in managing international exchange programmes.
+Hong Kong gives a new perspective, centred on finance, regulation, and international exchange. Visits include global institutions, fintech firms, and universities, offering insight into how capital, talent, and ideas move across borders.
 
-**Experienced Teaching Team**
-All instructors are experienced and possess qualifications for teaching Chinese to foreigners.
+### **Beijing — context and continuity**
 
-Embark on this journey with us, where each moment contributes to a more profound comprehension of China's cultural mosaic. Open to international students, the Shanghai Programme awaits those seeking a transformative adventure in the heart of Asia.
+Beijing adds depth and context. Time here focuses on how history, governance, and long-term planning shape the way the country operates today.
 
-*Get in touch via [contact@insiderlondon.com ](mailto:contact@insiderlondon.com) to start arranging your bespoke Shanghai Programme or to find out about our [Shanghai Company Visits](https://www.insiderlondon.com/asia/shanghai/company-visits/), and [Cultural Experiences](https://insiderlondon.com/asia/shanghai/cultural-experiences).*
+Experiences are slower-paced, giving space to understand how structure and continuity influence both business and daily life.
 
-<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Shanghai Programme' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Shanghai programme 2024.pdf">View Brochure</a>
+
+### **Cultural context**
+
+Cultural experiences run throughout the programme, not as separate activities but as part of understanding how people interact, communicate, and make decisions. This includes time in neighbourhoods, shared meals, and hands-on sessions that give insight into everyday life.
+
+
+### **Programme structure**
+
+The programme is modular and can be adapted depending on the group. It can vary in length, focus, and intensity, combining:
+
+- company visits across sectors  
+- language and practical workshops  
+- cultural and local experiences  
+- university engagement  
+
+*Contact us via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start arranging your bespoke China Programme or to find out more about Company Visits and Cultural Experiences.*
