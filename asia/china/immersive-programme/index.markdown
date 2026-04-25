@@ -29,7 +29,7 @@ layout: programme
     playsinline 
     preload="auto">
     
-    <source src="/assets/videos/shanghai.mp4" type="video/mp4">
+    <source src="/assets/shanghai.mp4" type="video/mp4">
     <!-- Optional fallback -->
     Your browser does not support the video tag.
   </video>
