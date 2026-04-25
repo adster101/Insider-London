@@ -50,7 +50,7 @@ Shanghai exemplifies the rapid development and implementation of new ideas. Comp
 
 Hong Kong gives a new perspective, centred on finance, regulation, and international exchange. Visits include global institutions, fintech firms, and universities, offering insight into how capital, talent, and ideas move across borders.
 
-### **Beijing — context and continuity**
+### **Beijing: context and continuity**
 
 Beijing adds depth and context. Time here focuses on how history, governance, and long-term planning shape the way the country operates today.
 
