@@ -45,9 +45,7 @@ Highlights of our bespoke programmes include:
 - **Pop Mart** – a consumer brand built around collectable products and IP, offering insight into branding, retail, and youth-driven consumption trends 
 - **Eastday.com** – a large-scale digital media platform offering insight into content production, distribution, and audience engagement in one of the world’s most active online markets  
 - **Verus Global** – a logistics and freight-forwarding company using transparent systems and real-time data to improve efficiency across global supply chains 
-- **Internet Initiative Japan (Shanghai Office)** – an international technology firm specialising in network infrastructure and cloud services, providing a cross-border perspective on operating in China  
-
----
+- **Internet Initiative Japan** – an international technology firm specialising in network infrastructure and cloud services, providing a cross-border perspective on operating in China  
 
 ### **Hong Kong**
 - **Hong Kong Stock Exchange** – visit one of the world’s leading financial markets to understand how listings are structured, how capital flows between China and global investors, and the role Hong Kong plays as a financial gateway 
