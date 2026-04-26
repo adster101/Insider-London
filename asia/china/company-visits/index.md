@@ -56,4 +56,4 @@ Highlights of our bespoke programmes include:
 - **Hong Kong University of Science and Technology** – a leading institution focused on engineering and entrepreneurship, connecting research, talent, and startup ecosystems  
 
 
-*To discover what we can arrange through our Shanghai and Hong Kong Company Visits, in-depth Immersive Programme and Cultural Experiences, get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
+*To discover what we can arrange through our Shanghai and Hong Kong Company Visits, in-depth [Immersive Programme](https://www.insiderlondon.com/asia/china/immersive-programme/) and [Cultural Experiences](https://www.insiderlondon.com/asia/china/immersive-programme/), get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
