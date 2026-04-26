@@ -12,9 +12,11 @@ gallery:
   alt: 
 - image: "/assets/images/cities/china_new/chnia_company_visits2.JPG"
   alt: 
-- image: "/assets/images/cities/china_new/chnia_company_visits2.JPG"
+- image: "/assets/images/cities/china_new/chnia_company_visits3.JPG"
   alt: 
-- image: "/assets/images/cities/Shanghai/Picture-4---Shanghai-Culture-Art-Technology-Innovation-Creative-Student-Corporate-Study-Trip.jpg"
+- image: "/assets/images/cities/china_new/chnia_company_visits4.JPG"
+  alt: 
+- image: 
   alt: 
 layout: programme
 ---
