@@ -48,8 +48,6 @@ These cultural experiences form part of the wider China programme, running along
 
 ### **Hong Kong: movement, exchange, structure**
 
-### **Hong Kong — movement, exchange, perspective**
-
 - **Victoria Harbour and Central**  
   Spend time in one of the world’s leading financial districts, where global institutions operate side by side. It offers a clear sense of how international business is structured and how Hong Kong connects markets across regions  
 
