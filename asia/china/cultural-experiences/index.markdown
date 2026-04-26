@@ -32,44 +32,44 @@ These cultural experiences form part of the wider China programme, running along
 ### **Shanghai: East meets West**
 
 - **Financial Centre**  
-  A view across Shanghai’s financial districts, ending at the Shanghai Tower observation deck located on the 118th floor, where the full scale and density of the city becomes clear
+  A view across Shanghai’s financial districts, ending at the Shanghai Tower observation deck located on the 118th floor, where the full scale and density of the city becomes clear.
 
 - **Yu Garden and surrounding markets**  
   Step into a quieter side of the city, where traditional architecture sits alongside busy market streets. It’s a place where older ways of life still shape how people shop, interact, and move through the city.  
 
 - **Street markets and neighbourhoods**  
-  Spend time in everyday environments where the pace is fast, and interactions are direct. These areas give a clearer sense of how pricing, negotiation, and consumer behaviour play out in real time.e  
+  Spend time in everyday environments where the pace is fast, and interactions are direct. These areas give a clearer sense of how pricing, negotiation, and consumer behaviour play out in real time.  
 
 - **Huangpu River Cruise**  
-  A cruise along the Huangpu River offers some of the clearest views of the city, with historic buildings on one side and the modern skyline on the other, bringing Shanghai’s scale and contrast into full view  
+  A cruise along the Huangpu River offers some of the clearest views of the city, with historic buildings on one side and the modern skyline on the other, bringing Shanghai’s scale and contrast into full view.  
 
 - **Kung Fu Workshop**  
-  A practical session focused on balance, control, and discipline, offering insight into the role of structure and repetition in traditional practice.ce
+  A practical session focused on balance, control, and discipline, offering insight into the role of structure and repetition in traditional practicece.
 
 ### **Hong Kong: movement, exchange, structure**
 
 - **Victoria Harbour and Central**  
-  Spend time in one of the world’s leading financial districts, where global institutions operate side by side. It offers a clear sense of how international business is structured and how Hong Kong connects markets across regions  
+  Spend time in one of the world’s leading financial districts, where global institutions operate side by side. It offers a clear sense of how international business is structured and how Hong Kong connects markets across regions.  
 
 - **Victoria Peak (Peak Tram)**  
-  Travel up to Victoria Peak by tram for panoramic views across the skyline and harbour. Operated since 1888, it was the first funicular railway in Asia, and remains one of the most direct ways to take in the city from above  
+  Travel up to Victoria Peak by tram for panoramic views across the skyline and harbour. Operated since 1888, it was the first funicular railway in Asia, and remains one of the most direct ways to take in the city from above.  
 
 - **Local Markets & Street Food**  
-  Explore Sino Centre, known for its focus on anime, manga, and K-pop culture, alongside nearby street food stalls. Together, they reflect how trends, subcultures, and everyday consumption shape the city’s retail landscape  
+  Explore Sino Centre, known for its focus on anime, manga, and K-pop culture, alongside nearby street food stalls. Together, they reflect how trends, subcultures, and everyday consumption shape the city’s retail landscape.  
 
 - **Temple Visit**  
-  Visit one of the largest seated bronze Buddhas in the world, set within a quieter landscape away from the main commercial areas. It offers a different pace and shows how tradition and belief remain part of daily life  
+  Visit one of the largest seated bronze Buddhas in the world, set within a quieter landscape away from the main commercial areas. It offers a different pace and shows how tradition and belief remain part of daily life.  
 
 ### **Beijing: structure, heritage, continuity**
 
 - **Forbidden City**  
-  Walk through the former imperial palace to get a sense of how space, hierarchy, and order were organised, and how that thinking still shapes the country today  
+  Walk through the former imperial palace to get a sense of how space, hierarchy, and order were organised, and how that thinking still shapes the country to.day  
 
 - **Hutong neighbourhood and home experience**  
-  Spend time in one of Beijing’s traditional neighbourhoods, stepping into a more local setting. Participants will take part in a dumpling-making session with residents and try traditional paper-cutting, a craft passed down for generations. Walking through the narrow streets and joining a shared meal offers a closer look at daily life, community structure, and how people interact  
+  Spend time in one of Beijing’s traditional neighbourhoods, stepping into a more local setting. Participants will take part in a dumpling-making session with residents and try traditional paper-cutting, a craft passed down for generations. Walking through the narrow streets and joining a shared meal offers a closer look at daily life, community structure, and how people interact.  
 
 - **Great Wall**  
-  Travel outside the city to visit the Great Wall, set across mountain ridges. It gives a clear sense of the scale and long-term planning behind projects that were built to last  
+  Travel outside the city to visit the Great Wall, set across mountain ridges. It gives a clear sense of the scale and long-term planning behind projects that were built to last.  
 
 These experiences can be tailored to the group's focus, complementing company visits and immersive elements throughout the programme.
 
