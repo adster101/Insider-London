@@ -44,7 +44,7 @@ These cultural experiences form part of the wider China programme, running along
   A cruise along the Huangpu River offers some of the clearest views of the city, with historic buildings on one side and the modern skyline on the other, bringing Shanghai’s scale and contrast into full view.  
 
 - **Kung Fu Workshop**  
-  A practical session focused on balance, control, and discipline, offering insight into the role of structure and repetition in traditional practicece.
+  A practical session focused on balance, control, and discipline, offering insight into the role of structure and repetition in traditional practice.
 
 ### **Hong Kong: movement, exchange, structure**
 
@@ -52,7 +52,7 @@ These cultural experiences form part of the wider China programme, running along
   Spend time in one of the world’s leading financial districts, where global institutions operate side by side. It offers a clear sense of how international business is structured and how Hong Kong connects markets across regions.  
 
 - **Victoria Peak (Peak Tram)**  
-  Travel up to Victoria Peak by tram for panoramic views across the skyline and harbour. Operated since 1888, it was the first funicular railway in Asia, and remains one of the most direct ways to take in the city from above.  
+  Travel up to Victoria Peak by tram for panoramic views across the skyline and harbour. Opened in 1888, it was the first funicular railway in Asia, and it remains one of the most direct ways to take in the city from above.  
 
 - **Local Markets & Street Food**  
   Explore Sino Centre, known for its focus on anime, manga, and K-pop culture, alongside nearby street food stalls. Together, they reflect how trends, subcultures, and everyday consumption shape the city’s retail landscape.  
@@ -63,10 +63,10 @@ These cultural experiences form part of the wider China programme, running along
 ### **Beijing: structure, heritage, continuity**
 
 - **Forbidden City**  
-  Walk through the former imperial palace to get a sense of how space, hierarchy, and order were organised, and how that thinking still shapes the country to.day  
+  Walk through the former imperial palace to get a sense of how space, hierarchy, and order were organised, and how that thinking still shapes the country today.  
 
 - **Hutong neighbourhood and home experience**  
-  Spend time in one of Beijing’s traditional neighbourhoods, stepping into a more local setting. Participants will take part in a dumpling-making session with residents and try traditional paper-cutting, a craft passed down for generations. Walking through the narrow streets and joining a shared meal offers a closer look at daily life, community structure, and how people interact.  
+  Spend time in one of Beijing’s traditional neighbourhoods, stepping into a more local setting. Take part in a dumpling-making session with residents and try traditional paper-cutting, a craft passed down for generations. Walking through the narrow streets and sharing a meal offers a closer look at daily life, community structure, and how people interact.  
 
 - **Great Wall**  
   Travel outside the city to visit the Great Wall, set across mountain ridges. It gives a clear sense of the scale and long-term planning behind projects that were built to last.  
