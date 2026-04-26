@@ -5,7 +5,7 @@ position: 2
 description: |-
   The programme offers a vibrant mix of activities and comprehensive course designs, providing students with a profound understanding of Chinese culture. Beyond kindling interest, it establishes a robust foundation for their academic and career journey.
   Embark on this journey with us, where each activity is a step toward a more profound comprehension of China's rich societal, historical, and commercial tapestry
-heading: China - Immersive Programme
+heading: China | Immersive Programme
 nav: china
 gallery:
 - image: "/uploads/pexels-%C3%A1goston-fung-2227942.jpg"
@@ -20,20 +20,10 @@ Field name:
 layout: programme
 ---
 
-<div class="c-video c-video--inline" style="margin-bottom: 24px">
-  <video 
-    autoplay 
-    muted 
-    loop 
-    playsinline 
-    preload="metadata"
-    style="width: 100%; height: auto; border-radius: 4px; ">
-    
-    <source src="/assets/shanghai.mp4" type="video/mp4">
-  </video>
-</div>
-
-
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 China offers one of the most exciting settings to learn how business works today. In cities like Shanghai, Hong Kong, and Beijing, you’ll see new technology, fast innovation, and industries growing at a speed and size that’s hard to find anywhere else.
 
@@ -53,11 +43,6 @@ Hong Kong gives a new perspective, centred on finance, regulation, and internati
 Beijing adds depth and context. Time here focuses on how history, governance, and long-term planning shape the way the country operates today.
 
 Experiences are slower-paced, giving space to understand how structure and continuity influence both business and daily life.
-
-{% assign gallery = page.gallery %}
-{% if gallery.size > 1 %}
-  {% include slideshow.html %}
-{% endif %}
 
 
 ### **Cultural context**
