@@ -10,13 +10,13 @@ nav: china
 gallery:
 - image: "/assets/images/cities/china_new/Chnia_company_visits.JPG"
   alt: 
-- image: "/assets/images/cities/china_new/chnia_company_visits2.JPG"
+- image: "/assets/images/cities/china_new/china_company_visits2.JPG"
   alt: 
-- image: "/assets/images/cities/china_new/chnia_company_visits3.JPG"
+- image: "/assets/images/cities/china_new/china_company_visits3.JPG"
   alt: 
-- image: "/assets/images/cities/china_new/chnia_company_visits4.JPG"
+- image: "/assets/images/cities/china_new/china_company_visits4.JPG"
   alt: 
-- image: 
+- image: "/assets/images/cities/china_new/china_company_visits5.JPG"
   alt: 
 layout: programme
 ---
@@ -36,11 +36,8 @@ Highlights of our bespoke programmes include:
 ### **Shanghai**
 
 - **Tencent (Shanghai Office / Ecosystem)** – insight into one of the world’s largest technology companies, exploring platforms such as WeChat, gaming, and how digital ecosystems scale across multiple industries  
-
 - **Shanghai New AI Centre (West Bund)** – a leading innovation district and host of the World AI Conference, bringing together tech firms, research institutions, and startups at the forefront of artificial intelligence  
-
 - **Pop Mart** – a fast-growing consumer brand built around collectable products and IP, offering insight into branding, retail strategy, and youth-driven consumption trends in China  
-
 - **SAIC Motor (Marketing & Branding)** – focus on how one of China’s largest automotive groups positions its products, develops brand identity, and adapts to changing consumer expectations in domestic and international markets 
 - **miHoYo** – a global gaming and entertainment company building IP across games, animation, and merchandise, with a strong focus on digital communities  
 - **ZPMC (Shanghai Zhenhua Heavy Industries)** – the world’s largest port machinery manufacturer, providing a direct view into infrastructure, logistics, and global trade systems  
@@ -53,7 +50,7 @@ Highlights of our bespoke programmes include:
 ---
 
 ### **Hong Kong**
-- **Hong Kong Stock Exchange (Overview)** – an introduction to one of the world’s leading financial markets, covering listings, capital flows, and Hong Kong’s role as a gateway between China and global investors  
+- **Hong Kong Stock Exchange** – visit one of the world’s leading financial markets to understand how listings are structured, how capital flows between China and global investors, and the role Hong Kong plays as a financial gateway 
 - **Goldman Sachs (Hong Kong)** – insight into global finance within one of Asia’s key financial centres, highlighting capital markets and international banking  
 - **Hex Trust** – a regulated digital asset platform, offering a view into fintech, custody, and the development of digital finance infrastructure  
 - **Hong Kong University of Science and Technology** – a leading institution focused on engineering and entrepreneurship, connecting research, talent, and startup ecosystems  
