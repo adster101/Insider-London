@@ -31,8 +31,8 @@ These cultural experiences form part of the wider China programme, running along
 
 ### **Shanghai: pace, density, contrast**
 
-- **Bund and Pudong walk**  
-  A direct comparison between historic finance and modern development, showing the speed and scale of change  
+- **Financial Centre (Bund, Pudong and Shanghai Tower)**  
+  A view across Shanghai’s historic and modern financial districts, ending at the Shanghai Tower observation deck, where the full scale and density of the city becomes clear
 
 - **Yu Garden and surrounding markets**  
   Traditional architecture alongside dense retail activity, highlighting continuity within rapid growth  
@@ -40,9 +40,11 @@ These cultural experiences form part of the wider China programme, running along
 - **Street markets and neighbourhoods**  
   Everyday environments where pricing, negotiation, and consumer behaviour are visible  
 
-- **Huangpu River night view**  
-  A wider perspective on urban density, infrastructure, and city scale  
+- **Huangpu River Cruise**  
+  A view of Shanghai’s skyline from the water, showing the contrast between historic and modern development across both sides of the river 
 
+- **Kung Fu Workshop**  
+  A practical session focused on balance, control, and discipline, offering insight into the role of structure and repetition in traditional practice
 
 ### **Hong Kong: movement, exchange, structure**
 
