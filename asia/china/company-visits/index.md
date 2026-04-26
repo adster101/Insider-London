@@ -8,11 +8,11 @@ description: Explore this glamorous and cosmopolitan city with it’s long histo
 heading: Shanghai and Hong Kong Company Visits | Technology Tours
 nav: china
 gallery:
-- image: "/assets/images/cities/Shanghai/Picture-1---Shanghai-Innovation-Tech-Factory-Student-Academic-Study-Trip.jpg"
+- image: "/assets/images/cities/china_new/Chnia_company_visits.JPG"
   alt: 
-- image: "/assets/images/cities/Shanghai/Picture-2----Shanghai-Finance-Centre-Student-Academic-Study-Trip.jpg"
+- image: "/assets/images/cities/china_new/chnia_company_visits2.JPG"
   alt: 
-- image: "/assets/images/cities/Shanghai/Picture-3---Shanghai--Shanghai-Innovation-Sustainability-Electric-Driverless-Car-Technology-Student-Academic-Study-Trip.jpg"
+- image: "/assets/images/cities/china_new/chnia_company_visits2.JPG"
   alt: 
 - image: "/assets/images/cities/Shanghai/Picture-4---Shanghai-Culture-Art-Technology-Innovation-Creative-Student-Corporate-Study-Trip.jpg"
   alt: 
@@ -33,21 +33,27 @@ Highlights of our bespoke programmes include:
 
 ### **Shanghai**
 
-- **Eastday.com** – a large-scale digital media platform offering insight into content production, distribution, and audience engagement in one of the world’s most active online markets  
-- **SAIC Motor (Experience Centre)** – one of China’s leading automotive groups, showcasing manufacturing, branding, and the transition towards electric and smart mobility  
+- **Tencent (Shanghai Office / Ecosystem)** – insight into one of the world’s largest technology companies, exploring platforms such as WeChat, gaming, and how digital ecosystems scale across multiple industries  
+
+- **Shanghai New AI Centre (West Bund)** – a leading innovation district and host of the World AI Conference, bringing together tech firms, research institutions, and startups at the forefront of artificial intelligence  
+
+- **Pop Mart** – a fast-growing consumer brand built around collectable products and IP, offering insight into branding, retail strategy, and youth-driven consumption trends in China  
+
+- **SAIC Motor (Marketing & Branding)** – focus on how one of China’s largest automotive groups positions its products, develops brand identity, and adapts to changing consumer expectations in domestic and international markets 
 - **miHoYo** – a global gaming and entertainment company building IP across games, animation, and merchandise, with a strong focus on digital communities  
 - **ZPMC (Shanghai Zhenhua Heavy Industries)** – the world’s largest port machinery manufacturer, providing a direct view into infrastructure, logistics, and global trade systems  
 - **AgiBot** – a Shanghai-based robotics company focused on AI-driven automation and humanoid robotics, representing the next phase of industrial development  
-- **Pop Mart** – a consumer brand built around collectable products and IP, offering insight into branding, retail, and youth-driven consumption trends  
+- **Pop Mart** – a consumer brand built around collectable products and IP, offering insight into branding, retail, and youth-driven consumption trends 
+- **Eastday.com** – a large-scale digital media platform offering insight into content production, distribution, and audience engagement in one of the world’s most active online markets  
+- **Verus Global** – a logistics and freight-forwarding company using transparent systems and real-time data to improve efficiency across global supply chains 
 - **Internet Initiative Japan (Shanghai Office)** – an international technology firm specialising in network infrastructure and cloud services, providing a cross-border perspective on operating in China  
 
 ---
 
 ### **Hong Kong**
-
+- **Hong Kong Stock Exchange (Overview)** – an introduction to one of the world’s leading financial markets, covering listings, capital flows, and Hong Kong’s role as a gateway between China and global investors  
 - **Goldman Sachs (Hong Kong)** – insight into global finance within one of Asia’s key financial centres, highlighting capital markets and international banking  
 - **Hex Trust** – a regulated digital asset platform, offering a view into fintech, custody, and the development of digital finance infrastructure  
-- **Verus Global** – a logistics and freight-forwarding company using transparent systems and real-time data to improve efficiency across global supply chains  
 - **Hong Kong University of Science and Technology** – a leading institution focused on engineering and entrepreneurship, connecting research, talent, and startup ecosystems  
 
 
