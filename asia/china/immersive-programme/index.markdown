@@ -1,6 +1,6 @@
 ---
 title: China | Immersive Programme
-date: 2024-01-14 09:57:00 Z
+date: 2026-04-26 09:57:00 Z
 position: 2
 description: |-
   The programme offers a vibrant mix of activities and comprehensive course designs, providing students with a profound understanding of Chinese culture. Beyond kindling interest, it establishes a robust foundation for their academic and career journey.
@@ -27,7 +27,17 @@ layout: programme
 
 China offers one of the most exciting settings to learn how business works today. In cities like Shanghai, Hong Kong, and Beijing, you’ll see new technology, fast innovation, and industries growing at a speed and size that’s hard to find anywhere else.
 
-The programme immerses participants in these environments, facilitating collaboration with companies, engagement with local institutions, and exposure to daily contexts. This approach enables a comprehensive understanding of how new ideas are developed, scaled, and influence
+The programme immerses participants in these environments, facilitating collaboration with companies, engagement with local institutions, and exposure to daily contexts. This approach enables a comprehensive understanding of how new ideas are developed, scaled, and influence.
+
+### **Programme structure**
+
+The programme is modular and can be adapted depending on the group. It can vary in length, focus, and intensity, combining:
+
+- company visits across sectors
+- university and school exchnages    
+- language and practical workshops  
+- cultural and local experiences  
+
 
 ### **Shanghai: innovation, scale, execution**
 
@@ -44,19 +54,5 @@ Beijing adds depth and context. Time here focuses on how history, governance, an
 
 Experiences are slower-paced, giving space to understand how structure and continuity influence both business and daily life.
 
-
-### **Cultural context**
-
-Cultural experiences run throughout the programme, not as separate activities but as part of understanding how people interact, communicate, and make decisions. This includes time in neighbourhoods, shared meals, and hands-on sessions that give insight into everyday life.
-
-
-### **Programme structure**
-
-The programme is modular and can be adapted depending on the group. It can vary in length, focus, and intensity, combining:
-
-- company visits across sectors  
-- language and practical workshops  
-- cultural and local experiences  
-- university engagement  
 
 *Contact us via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start arranging your bespoke China Programme or to find out more about Company Visits and Cultural Experiences.*
