@@ -29,7 +29,7 @@ Understanding how China operates in practice requires more than company visits. 
 
 These cultural experiences form part of the wider China programme, running alongside company visits and immersive elements. They provide context for what the groups see in business environments, helping connect innovation, scale, and rapid development with long-standing cultural patterns that continue to shape how the country functions today.
 
-### **Shanghai: pace, density, contrast**
+### **Shanghai: East meets West**
 
 - **Financial Centre**  
   A view across Shanghai’s financial districts, ending at the Shanghai Tower observation deck located on the 118th floor, where the full scale and density of the city becomes clear
