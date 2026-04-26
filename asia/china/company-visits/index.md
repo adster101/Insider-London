@@ -35,7 +35,7 @@ Highlights of our bespoke programmes include:
 
 ### **Shanghai**
 
-- **Tencent (Shanghai Office / Ecosystem)** – insight into one of the world’s largest technology companies, exploring platforms such as WeChat, gaming, and how digital ecosystems scale across multiple industries  
+- **Tencent** – insight into one of the world’s largest technology companies, exploring platforms such as WeChat, gaming, and how digital ecosystems scale across multiple industries  
 - **Shanghai New AI Centre (West Bund)** – a leading innovation district and host of the World AI Conference, bringing together tech firms, research institutions, and startups at the forefront of artificial intelligence  
 - **Pop Mart** – a fast-growing consumer brand built around collectable products and IP, offering insight into branding, retail strategy, and youth-driven consumption trends in China  
 - **SAIC Motor (Marketing & Branding)** – focus on how one of China’s largest automotive groups positions its products, develops brand identity, and adapts to changing consumer expectations in domestic and international markets 
