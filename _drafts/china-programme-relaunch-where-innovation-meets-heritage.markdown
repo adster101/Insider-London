@@ -1,6 +1,32 @@
 ---
 title: 'China Programme Relaunch: Where Innovation Meets Heritage'
 date: 2026-04-28 13:13:00 Z
+categories:
+- Business
+- Finance
+- Regeneration
+- Marketing and Retail
+- Events
+tags:
+- China programme
+- study abroad China
+- business tours China
+- Shanghai company visits
+- Hong Kong finance tour
+- Beijing cultural experience
+- China study trip
+- international education programmes
+- university trips China
+- corporate tours China
+- China business immersion
+- Shanghai Hong Kong Beijing programme
+- experiential learning China
+- Insider London China
+description: 'Explore a China programme across Shanghai, Hong Kong, and Beijing, combining
+  company visits, immersive learning, and cultural context to understand how business
+  and innovation operate in practice.
+
+'
 ---
 
 <div class="c-video c-video--inline" style="margin-bottom: 24px">
