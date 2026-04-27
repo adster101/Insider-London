@@ -29,9 +29,9 @@ layout: landing
   const v = document.getElementById('chinaVideo');
 
   v.addEventListener('loadedmetadata', () => {
-    // jump to 1.2 seconds
-    if (v.duration > 1.9) {
-      v.currentTime = 1.9;
+    // jump to 2 seconds
+    if (v.duration > 2) {
+      v.currentTime = 2;
     }
   });
 </script>
