@@ -31,7 +31,7 @@ layout: landing
 
   v.addEventListener('play', () => {
     if (!set) {
-      v.currentTime = 1.2;
+      v.currentTime = 1.9;
       set = true;
     }
   });
