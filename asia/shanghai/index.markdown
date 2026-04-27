@@ -30,8 +30,8 @@ layout: landing
 
   v.addEventListener('loadedmetadata', () => {
     // jump to 1.2 seconds
-    if (v.duration > 1.2) {
-      v.currentTime = 1.2;
+    if (v.duration > 1.9) {
+      v.currentTime = 1.9;
     }
   });
 </script>
