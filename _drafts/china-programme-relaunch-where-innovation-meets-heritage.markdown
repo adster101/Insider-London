@@ -3,7 +3,16 @@ title: 'China Programme Relaunch: Where Innovation Meets Heritage'
 date: 2026-04-27 13:13:00 Z
 ---
 
-## China Programme Relaunch: Where Innovation Meets Heritage
+<div class="c-video c-video--inline" style="margin-bottom: 24px">
+  <video 
+    id="chinaVideo"
+    controls
+    preload="metadata"
+    style="width: 100%; height: auto; border-radius: 4px;">
+    
+    <source src="/assets/shanghai.mp4" type="video/mp4">
+  </video>
+</div>
 
 If you want to understand how China operates today, you need to see it on the ground. It’s a place where new ideas are developed and scaled quickly, but where long-standing traditions still shape how people think, work, and make decisions.
 
