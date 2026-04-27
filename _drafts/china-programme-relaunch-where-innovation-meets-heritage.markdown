@@ -50,8 +50,7 @@ Each city offers a different perspective. In Shanghai, you’re surrounded by in
 
 You can also spend time with local universities and schools, engaging in structured exchange sessions. They are perfect places for direct conversation, comparing perspectives, building confidence in unfamiliar settings, and developing a more personal connection to the environment.
 
-The programme connects these environments so you’re not just seeing isolated examples, but how different parts of the system fit together.
-You’ll spend time with companies across a range of sectors, gaining direct insight into how they operate and grow. Alongside that, there are immersive elements, including language and practical sessions, designed to help you engage more confidently in everyday situations. Cultural experiences run throughout, giving you a better sense of how people communicate, interact, and navigate daily life.
+Alongside that, there are immersive elements, including language and practical sessions, designed to help you engage more confidently in everyday situations. Cultural experiences run throughout, giving you a better sense of how people communicate, interact, and navigate daily life.
 
 #### Built to Be Flexible
 
