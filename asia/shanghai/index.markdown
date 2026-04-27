@@ -1,6 +1,6 @@
 ---
 title: China
-date: 2024-01-13 14:18:00 Z
+date: 2026-04-27 14:18:00 Z
 permalink: "/asia/china/"
 position: 26
 heading: 'China: Innovation Meets Heritage'
