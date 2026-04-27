@@ -26,9 +26,9 @@ layout: programme
   {% include slideshow.html %}
 {% endif %}
 
-Shanghai and Hong Kong offer two different ways of understanding business in China and the wider region. Shanghai shows speed, scale, and the move from ideas to implementation, with strong examples across manufacturing, technology, consumer brands, and infrastructure.
+Shanghai and Hong Kong offer two distinct perspectives on understanding business in China and the broader region. Shanghai shows speed, scale, and the move from ideas to implementation, with strong examples across manufacturing, technology, consumer brands, and infrastructure.
 
-Hong Kong adds a different layer: finance, regulation, international exchange, and cross-border business. Together, the two cities give participants a practical view of how companies grow locally, operate regionally, and connect to global markets.
+Hong Kong adds a different layer: finance, regulation, international exchange, and cross-border business. Together, the two cities provide participants with a practical understanding of how companies grow locally, operate regionally, and connect to global markets.
 
 ## Shanghai and Hong Kong Company Visits  
 Highlights of our bespoke programmes include:
@@ -42,7 +42,6 @@ Highlights of our bespoke programmes include:
 - **miHoYo** – a global gaming and entertainment company building IP across games, animation, and merchandise, with a strong focus on digital communities  
 - **ZPMC (Shanghai Zhenhua Heavy Industries)** – the world’s largest port machinery manufacturer, providing a direct view into infrastructure, logistics, and global trade systems  
 - **AgiBot** – a Shanghai-based robotics company focused on AI-driven automation and humanoid robotics, representing the next phase of industrial development  
-- **Pop Mart** – a consumer brand built around collectable products and IP, offering insight into branding, retail, and youth-driven consumption trends 
 - **Eastday.com** – a large-scale digital media platform offering insight into content production, distribution, and audience engagement in one of the world’s most active online markets  
 - **Verus Global** – a logistics and freight-forwarding company using transparent systems and real-time data to improve efficiency across global supply chains 
 - **Internet Initiative Japan** – an international technology firm specialising in network infrastructure and cloud services, providing a cross-border perspective on operating in China  
