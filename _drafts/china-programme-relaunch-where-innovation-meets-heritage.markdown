@@ -8,7 +8,7 @@ date: 2026-04-28 13:13:00 Z
     id="chinaVideo"
     controls
     preload="metadata"
-poster="assets/images/cities/china_new/insider_logo_poster.JPG"
+    poster="/assets/images/cities/china_new/insider_logo_poster.JPG"
     style="width: 100%; height: auto; border-radius: 4px;">
     
     <source src="/assets/blog_vid_china.mp4" type="video/mp4">
