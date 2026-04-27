@@ -21,7 +21,7 @@ layout: landing
     preload="metadata"
     style="width: 100%; height: auto; border-radius: 4px;">
     
-    <source src="/assets/shanghai.mp4" type="video/mp4">
+    <source src="assets/images/cities/china_new/china.mp4" type="video/mp4">
   </video>
 </div>
 
