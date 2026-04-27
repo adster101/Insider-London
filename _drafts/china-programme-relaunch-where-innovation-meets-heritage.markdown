@@ -10,7 +10,7 @@ date: 2026-04-27 13:13:00 Z
     preload="metadata"
     style="width: 100%; height: auto; border-radius: 4px;">
     
-    <source src="/assets/shanghai.mp4" type="video/mp4">
+    <source src="/assets/blog_vid_china.mp4" type="video/mp4">
   </video>
 </div>
 
