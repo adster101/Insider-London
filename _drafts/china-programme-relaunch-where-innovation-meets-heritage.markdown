@@ -1,6 +1,6 @@
 ---
 title: 'China Programme Relaunch: Where Innovation Meets Heritage'
-date: 2026-04-27 13:13:00 Z
+date: 2026-04-28 13:13:00 Z
 ---
 
 <div class="c-video c-video--inline" style="margin-bottom: 24px">
