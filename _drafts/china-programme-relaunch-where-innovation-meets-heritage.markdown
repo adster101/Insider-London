@@ -40,23 +40,27 @@ description: 'Explore a China programme across Shanghai, Hong Kong, and Beijing,
   </video>
 </div>
 
-If you want to understand how China operates today, you need to see it on the ground. It’s a place where new ideas are developed and scaled quickly, but where long-standing traditions still shape how people think, work, and make decisions. Our new **China Programme** is built around that idea.
+To understand how China operates today, you need to see it on the ground. It is a place where new ideas develop and scale quickly, but long-standing traditions still shape how people think, work, and make decisions. Our **China Programme** is built around that idea.
 
 #### Innovation Meets Heritage
 
-Instead of focusing on a single city, the programme now brings together **Shanghai, Hong Kong, and Beijing** by the world's longest high-speed train network. Each city gives a different way to understand how the country works. In Shanghai, you’ll see how industries move quickly, from technology and manufacturing to consumer brands, and how ideas are pushed into execution at pace. Hong Kong gives you access to global finance, showing how capital moves and how international institutions operate in the region. Beijing adds context, helping you make sense of the structure, history, and long-term thinking that sit behind it all. [add uni and school exchange]
+Instead of focusing on a single city, you move between **Shanghai**, **Hong Kong**, and **Beijing**, using China’s high-speed rail network. Travelling between them becomes part of the experience, giving a clear sense of how infrastructure supports movement across long distances and how closely connected these major centres are. 
 
-The programme connects these environments so you’re not just seeing isolated examples, but how different parts of the system fit together.
+Each city offers a different perspective. In Shanghai, you’re surrounded by industries that move quickly, from technology and manufacturing to consumer brands, where ideas are taken from concept to execution at a pace. In Hong Kong, you step into a global financial centre and see how capital flows and how international firms operate in the region. In Beijing, you gain a deeper understanding of how history, structure, and long-term planning shape what you see elsewhere.
 
-You’ll spend time with companies across a range of sectors, gaining direct insight into how they operate and grow. Alongside that, there are immersive elements, including language and practical sessions, designed to help you engage more confidently in everyday situations. Cultural experiences run throughout, giving you a better sense of how people communicate, interact, and navigate daily life.
+You also spend time with local universities and schools, meeting students, visiting campuses, and engaging in structured exchange sessions. These experiences give you insight into how education is delivered, how talent is developed, and how students prepare for careers in fast-changing industries. They also create space for direct conversation, helping you compare perspectives, build confidence in unfamiliar settings, and develop a more personal connection to the environment.
+
+Taken together, this helps you connect what you’re seeing across different cities and settings, building a clearer understanding of how the system operates.
+
+Along the way, you engage with companies across sectors, take part in practical sessions, and spend time in everyday environments. This combination gives you a more complete view of how people communicate, work, and make decisions in practice.
 
 #### Built to Be Flexible
 
-The programme can be tailored around what you’re looking to get out of it. [they can select their cities of their prefencece]. Whether you’re bringing a university group, a corporate team, or exploring new partnerships, the structure can be adjusted in terms of focus, pace, and depth.
+The programme is built to be flexible, allowing you to select the cities and elements that best fit your objectives. Whether you focus on Shanghai, Hong Kong, Beijing, or a combination of all three, the structure can be shaped around your priorities. It works across university groups, corporate teams, and institutional partnerships, with adjustments in focus, pace, and depth to match what you want to achieve.
 
-What stays consistent is the approach. You’re placed directly into environments where things are happening, with enough context to understand them properly.
+The approach is consistent across each programme. You spend time in environments where business, education, and everyday life intersect, with enough context to understand how things operate in practice.
 
-If you’re trying to make sense of China from the outside, it can feel abstract. Being there changes that. It gives you a clearer view of how decisions are made, how businesses operate, and how different influences come together in practice.
+Time on the ground gives you a clearer view of how decisions are made, how businesses operate, and how different influences come together. It helps turn what might otherwise feel distant into something more concrete and easier to understand.
 
 
 *You can explore the full range of [Company Visits](https://insiderlondon.com/asia/china/company-visits/) and the[Immersive Programme](https://insiderlondon.com/asia/china/immersive-programme/) as part of the wider offer. If you’d like to explore how this could work for your group, get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com)*
