@@ -48,9 +48,10 @@ Instead of focusing on a single city, you move between **Shanghai**, **Hong Kong
 
 Each city offers a different perspective. In Shanghai, you’re surrounded by industries that move quickly, from technology and manufacturing to consumer brands, where ideas are taken from concept to execution at a pace. In Hong Kong, you step into a global financial centre and see how capital flows and how international firms operate in the region. In Beijing, you gain a deeper understanding of how history, structure, and long-term planning shape what you see elsewhere.
 
-You can also spend time with local universities and schools, meeting students, visiting campuses, and engaging in structured exchange sessions. These experiences give you insight into how education is delivered, how talent is developed, and how students prepare for careers in fast-changing industries. They also create space for direct conversation, helping you compare perspectives, build confidence in unfamiliar settings, and develop a more personal connection to the environment.
+You can also spend time with local universities and schools, engaging in structured exchange sessions. They are perfect places for direct conversation, comparing perspectives, building confidence in unfamiliar settings, and developing a more personal connection to the environment.
 
-Along the way, you engage with companies across sectors, take part in practical sessions, and spend time in everyday environments. This combination gives you a more complete view of how people communicate, work, and make decisions in practice.
+The programme connects these environments so you’re not just seeing isolated examples, but how different parts of the system fit together.
+You’ll spend time with companies across a range of sectors, gaining direct insight into how they operate and grow. Alongside that, there are immersive elements, including language and practical sessions, designed to help you engage more confidently in everyday situations. Cultural experiences run throughout, giving you a better sense of how people communicate, interact, and navigate daily life.
 
 #### Built to Be Flexible
 
