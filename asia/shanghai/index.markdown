@@ -16,24 +16,13 @@ layout: landing
 
 <div class="c-video c-video--inline" style="margin-bottom: 24px">
   <video 
-    id="chinaVideo"
+    controls
     preload="metadata"
-    style="width: 100%; height: auto; border-radius: 4px; cursor: pointer;">
+    style="width: 100%; height: auto; border-radius: 4px;">
     
     <source src="/assets/shanghai.mp4" type="video/mp4">
   </video>
 </div>
-
-<script>
-  const v = document.getElementById('chinaVideo');
-  v.addEventListener('click', () => {
-    if (v.paused) {
-      v.play();
-    } else {
-      v.pause();
-    }
-  });
-</script>
 
 China moves at a scale and pace that is difficult to grasp without being there. Across cities such as Shanghai, Hong Kong, and Beijing, different systems operate side by side; from rapid innovation and industrial growth to finance, regulation, and long-standing cultural structures.
 
