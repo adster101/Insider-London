@@ -27,15 +27,14 @@ layout: landing
 
 <script>
   const v = document.getElementById('chinaVideo');
+  let set = false;
 
-  function setStartTime() {
-    if (v.readyState >= 2) { // HAVE_CURRENT_DATA
+  v.addEventListener('play', () => {
+    if (!set) {
       v.currentTime = 1.2;
+      set = true;
     }
-  }
-
-  v.addEventListener('loadeddata', setStartTime);
-  v.addEventListener('canplay', setStartTime);
+  });
 </script>
 
 China moves at a scale and pace that is difficult to grasp without being there. Across cities such as Shanghai, Hong Kong, and Beijing, different systems operate side by side; from rapid innovation and industrial growth to finance, regulation, and long-standing cultural structures.
