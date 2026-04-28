@@ -2,9 +2,9 @@
 title: China | Immersive Programme
 date: 2026-04-26 09:57:00 Z
 position: 2
-description: |-
-  The programme offers a vibrant mix of activities and comprehensive course designs, providing students with a profound understanding of Chinese culture. Beyond kindling interest, it establishes a robust foundation for their academic and career journey.
-  Embark on this journey with us, where each activity is a step toward a more profound comprehension of China's rich societal, historical, and commercial tapestry
+description: China immersive programme across Shanghai, Hong Kong, and Beijing, combining
+  company visits, university exchange, and cultural context to understand how business
+  operates.
 heading: China | Immersive Programme
 nav: china
 gallery:
@@ -18,7 +18,7 @@ gallery:
   alt: China Immersive Experience
 - image: "/uploads/china_immersive4.jpeg"
   alt: School Group on China Programme
-Field name: 
+desciption: 
 layout: programme
 ---
 
@@ -41,16 +41,16 @@ The programme is modular and can be adapted depending on the group. It can vary 
 - cultural and local experiences  
 
 
-### **Shanghai: innovation, scale, execution**
+### **Shanghai: East meets West**
 
 Shanghai exemplifies the rapid development and implementation of new ideas. Company visits highlight sectors including technology, manufacturing, consumer brands, and infrastructure, illustrating how businesses operate efficiently at scale.
 
 
-### **Hong Kong: finance and global connection**
+### **Hong Kong: Finance and Global Connection**
 
 Hong Kong gives a new perspective, centred on finance, regulation, and international exchange. Visits include global institutions, fintech firms, and universities, offering insight into how capital, talent, and ideas move across borders.
 
-### **Beijing: context and continuity**
+### **Beijing: Heritage and Continuity**
 
 Beijing adds depth and context. Time here focuses on how history, governance, and long-term planning shape the way the country operates today.
 
