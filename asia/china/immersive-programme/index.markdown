@@ -8,14 +8,16 @@ description: |-
 heading: China | Immersive Programme
 nav: china
 gallery:
-- image: "/uploads/pexels-%C3%A1goston-fung-2227942.jpg"
-  alt: shanghai panorama
+- image: "/uploads/china_immersive.jpg"
+  alt: China Immersive Experience
 - image: "/uploads/AdobeStock_581795433.jpeg"
-  alt: shanghai experience
-- image: "/uploads/Xuhui%20Campus4-6babe1.jpg"
-  alt: campus
-- image: "/uploads/canteen.jpg"
-  alt: canteen
+  alt: Chinese calligraphy classes
+- image: "/uploads/china_immersisve2.jpeg"
+  alt: Shanghai Observation Deck
+- image: "/uploads/china_immersive2.jpeg"
+  alt: China Immersive Experience
+- image: "/uploads/china_immersive4.jpeg"
+  alt: School Group on China Programme
 Field name: 
 layout: programme
 ---
