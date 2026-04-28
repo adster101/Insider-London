@@ -27,16 +27,16 @@ layout: programme
   {% include slideshow.html %}
 {% endif %}
 
-China offers one of the most exciting settings to learn how business works today. In cities like Shanghai, Hong Kong, and Beijing, you’ll see new technology, fast innovation, and industries growing at a speed and size that’s hard to find anywhere else.
+China offers one of the most exciting settings to learn how business works today. In cities like **Shanghai**, **Hong Kong**, and **Beijing**, you’ll see new technology, fast innovation, and industries growing at a speed and size that’s hard to find anywhere else.
 
-The programme immerses participants in these environments, facilitating collaboration with companies, engagement with local institutions, and exposure to daily contexts. This approach enables a comprehensive understanding of how new ideas are developed, scaled, and influence.
+The programme immerses visiting groups in these environments, facilitating collaboration with companies, engagement with local institutions, and exposure to daily contexts. This approach promotes a comprehensive understanding of how new ideas are developed, scaled, and influenced.
 
 ### **Programme structure**
 
 The programme is modular and can be adapted depending on the group. It can vary in length, focus, and intensity, combining:
 
 - company visits across sectors
-- university and school exchnages    
+- university and school exchanges    
 - language and practical workshops  
 - cultural and local experiences  
 
@@ -57,4 +57,4 @@ Beijing adds depth and context. Time here focuses on how history, governance, an
 Experiences are slower-paced, giving space to understand how structure and continuity influence both business and daily life.
 
 
-*Contact us via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start arranging your bespoke China Programme or to find out more about Company Visits and Cultural Experiences.*
+*Contact us via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start arranging your bespoke China Programme or to find out more about [Company Visits](https://www.insiderlondon.com/asia/china/company-visits/) and [Cultural Experiences](https://www.insiderlondon.com/asia/china/cultural-experiences/).*
