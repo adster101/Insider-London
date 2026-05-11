@@ -89,6 +89,6 @@ How will AI change venture networking? What future trends excite you?
 
 AI will turn venture networking into a "Self-Correcting Market." Imagine a world where legislation across 50 countries is streamlined by AI, allowing a founder in London to close a UAE investor in 24 hours. That is the "Agentic Finance" future. What excites me? The end of the "Pitch Deck." Soon, an investor’s AI will simply talk to a startup’s AI, the Due Diligence will happen in seconds, and the humans will only meet to shake hands on the vision.
 
-*Through our partnership with Master Collective, we offer educational and professional groups the opportunity to engage directly with emerging conversations around AI, venture capital, fintech ecosystems, and the future of investor relations.
+*Through our partnership with Master Collective, we offer educational and professional groups the opportunity to engage directly with emerging conversations around AI, venture capital, fintech ecosystems, and the future of investor relations.*
 
-To learn more about company visits and collaboration opportunities, contact us [contact@insiderlondon.com](mailto: contact@insiderlondon.com)*
+*To learn more about company visits and collaboration opportunities, contact us [contact@insiderlondon.com](mailto: contact@insiderlondon.com)*
