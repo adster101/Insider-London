@@ -1,6 +1,35 @@
 ---
 title: 'Insider London x Master Collective: Rethinking Venture Networking with AI'
-date: 2026-05-11 16:38:00 Z
+date: 2026-05-12 16:38:00 Z
+categories:
+- Finance
+- Business
+tags:
+- AI venture capital
+- AI investor matching
+- venture networking
+- startup fundraising
+- fintech innovation
+- artificial intelligence in finance
+- investor relations
+- digital assets
+- tokenisation
+- venture capital technology
+- AI Due Diligence
+- startup ecosystems
+- founder networking
+- fintech trends
+- AI in venture capital
+- Master Collective
+- Zeeshan Mallick
+- Insider London partnership
+- future of fundraising
+- Agentic Finance
+- startup investment platforms
+- venture capital innovation
+- fintech company visits
+- AI business networks
+- investor matchmaking platform
 ---
 
 ![Aragon-Favorites-Zeeshan-Mallick-45.jpeg](/uploads/Aragon-Favorites-Zeeshan-Mallick-45.jpeg)
