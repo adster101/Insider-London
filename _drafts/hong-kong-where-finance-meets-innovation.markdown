@@ -5,7 +5,11 @@ date: 2026-05-19 18:55:00 Z
 
 ![pexels-komod-ayal-492320497-18093534.jpg](/uploads/pexels-komod-ayal-492320497-18093534.jpg)
 
-Hong Kong has long been recognised as one of the world’s major financial centres. What makes it especially interesting today is not just its role in global finance, but how closely finance, technology, and innovation are becoming connected. This week, we look at how Hong Kong offers something increasingly valuable: the opportunity to see financial markets, emerging technology, entrepreneurship, and regulation operating together in one place.
+Hong Kong has long been recognised as one of the world’s major financial centres. What makes it especially interesting today is not just its role in global finance, but how closely finance, technology, and innovation are becoming connected.
+
+These are also key highlights of our China Programme in Hong Kong, where participants explore themes such as **future business and entrepreneurship, capital markets and financial systems, banking and fintech, and risk management and career pathways**.
+
+This week, we look at how Hong Kong offers something increasingly valuable: the opportunity to see financial markets, emerging technology, entrepreneurship, and regulation operating together in one place.
 
 
 #### AI, Fintech and Data Science
