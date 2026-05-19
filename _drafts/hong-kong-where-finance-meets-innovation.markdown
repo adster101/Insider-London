@@ -14,8 +14,6 @@ Artificial intelligence and technology companies are helping drive Hong Kong’s
 
 At the same time, growing demand for next-generation computing and artificial intelligence is strengthening Hong Kong’s position as a centre for technology investment and fundraising, with *[Business Insider](https://www.businessinsider.com/china-ai-chip-ipo-surge-hong-kong-tech-stocks-outlook-2026-1)* pointing to rising momentum around AI-related listings and technology businesses.
 
-![pexels-l_e-c_y-42706504-10846295.jpg](/uploads/pexels-l_e-c_y-42706504-10846295.jpg)
-
 
 #### A Financial Centre Built for Global Business
 
