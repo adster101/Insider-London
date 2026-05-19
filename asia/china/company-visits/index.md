@@ -1,6 +1,6 @@
 ---
 title: Shanghai and Hong Kong Company Visits | Technology Tours
-date: 2026-04-25 11:08:00 Z
+date: 2026-05-19 11:08:00 Z
 position: 0
 description: Explore this glamorous and cosmopolitan city with it’s long history of
   migration with an extensive range of company visits from media to fashion, from
@@ -51,6 +51,11 @@ Highlights of our bespoke programmes include:
 - **Goldman Sachs (Hong Kong)** – insight into global finance within one of Asia’s key financial centres, highlighting capital markets and international banking  
 - **Hex Trust** – a regulated digital asset platform, offering a view into fintech, custody, and the development of digital finance infrastructure  
 - **Hong Kong University of Science and Technology** – a leading institution focused on engineering and entrepreneurship, connecting research, talent, and startup ecosystems  
+- **Cyberport** – one of Hong Kong’s leading innovation hubs, bringing together startups, investors, and technology companies across fintech, artificial intelligence, blockchain, cybersecurity, and digital innovation  
+- **Prudential Insurance** – explore insurance, risk management, financial planning, and career pathways within one of Asia’s major financial services sectors  
+- **Bank of China (Hong Kong)** – gain insight into banking systems, international finance, cross-border capital flows, and Hong Kong’s role connecting global and mainland Chinese markets  
+- **AsiaBots** – discover how artificial intelligence and automation technologies are shaping customer engagement, digital transformation, and business operations across industries  
+- **Hong Kong Monetary Authority** – understand financial regulation, monetary systems, banking oversight, fintech policy, and how financial centres adapt to technological change  
 
 
 *To discover what we can arrange through our Shanghai and Hong Kong Company Visits, in-depth [Immersive Programme](https://www.insiderlondon.com/asia/china/immersive-programme/) and [Cultural Experiences](https://www.insiderlondon.com/asia/china/immersive-programme/), get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
