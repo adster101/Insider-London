@@ -29,8 +29,6 @@ Organisations such as [Hong Kong Exchanges and Clearing (HKEX)](https://www.hkex
 
 #### Where Innovation Meets Capital
 
-Artificial intelligence, fintech, digital payments, blockchain technologies, cybersecurity, and data science are becoming increasingly important across modern business.
-
 Innovation hubs in Hong Kong, such as [Cyberport](https://www.cyberport.hk/), support companies working across fintech, AI, blockchain, digital assets, and emerging technologies, helping create connections among startups, investors, researchers, and industry. Universities, including [HKUST](https://hkust.edu.hk/), also play an important role, strengthening entrepreneurship, technology research, and commercialisation pathways that help ideas move beyond the classroom and into business.
 
 Strong financial centres do not thrive simply because they have banks and capital markets. They succeed when talent, investment, technology, regulation, and entrepreneurship operate together. Increasingly, Hong Kong offers exactly that environment.
@@ -45,5 +43,6 @@ Areas such as Central and Sheung Wan tell part of this story. Global banks, fint
 
 This combination of heritage and innovation also influences how businesses operate. Relationships, international outlook, entrepreneurship, and adaptability have long played an important role in Hong Kong’s economy.
 
+*Our [China Programme](https://www.insiderlondon.com/asia/china/) brings together **Hong Kong, Shanghai, and Beijing** into one connected experience, combining business insights, cultural understanding, and real-world exposure to how modern economies operate. In Hong Kong, participants can explore topics including capital markets, fintech, AI, entrepreneurship, risk management, and financial systems through experiences connected to organisations and ecosystems such as **HKEX, the Hong Kong Monetary Authority, Cyberport, HKUST, Bank of China, Prudential Insurance, AsiaBots, Hex Trust**, and wider innovation and finance communities shaping the city today.*
 
-*Our [China Programme](https://www.insiderlondon.com/asia/china/) brings together **Hong Kong, Shanghai, and Beijing** into one connected experience, combining company visits, business insights, cultural understanding, and real-world exposure to how modern economies operate.*
+*To learn more or discuss programme options, get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
