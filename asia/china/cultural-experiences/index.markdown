@@ -32,12 +32,6 @@ layout: programme
 </div>
 
 
-
-{% assign gallery = page.gallery %}
-{% if gallery.size > 1 %}
-  {% include slideshow.html %}
-{% endif %}
-
 Understanding how China operates in practice requires more than company visits. Time spent in neighbourhoods, public spaces, and everyday environments helps explain how people communicate, make decisions, and interact across different settings.
 
 These cultural experiences form part of the wider China programme, running alongside company visits and immersive elements. They provide context for what the groups see in business environments, helping connect innovation, scale, and rapid development with long-standing cultural patterns that continue to shape how the country functions today.
@@ -72,6 +66,11 @@ These cultural experiences form part of the wider China programme, running along
 
 - **Temple Visit**  
   Visit one of the largest seated bronze Buddhas in the world, set within a quieter landscape away from the main commercial areas. It offers a different pace and shows how tradition and belief remain part of daily life.  
+
+{% assign gallery = page.gallery %}
+{% if gallery.size > 1 %}
+  {% include slideshow.html %}
+{% endif %}
 
 ### **Beijing: structure, heritage, continuity**
 
