@@ -20,6 +20,19 @@ gallery:
 layout: programme
 ---
 
+<div class="c-video c-video--inline" style="margin-bottom: 24px">
+  <video 
+    controls
+    preload="metadata"
+    poster="/assets/images/cities/china_new/china_vid_poster.JPG"
+    style="width: 100%; height: auto; border-radius: 4px;">
+    
+    <source src="/assets/shanghai.mp4" type="video/mp4">
+  </video>
+</div>
+
+
+
 {% assign gallery = page.gallery %}
 {% if gallery.size > 1 %}
   {% include slideshow.html %}
