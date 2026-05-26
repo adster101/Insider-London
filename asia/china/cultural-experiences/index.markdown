@@ -24,10 +24,10 @@ layout: programme
   <video 
     controls
     preload="metadata"
-    poster="/assets/images/cities/china_new/china_vid_poster.JPG"
+    poster="/uploads/backend-api"
     style="width: 100%; height: auto; border-radius: 4px;">
     
-    <source src="/assets/shanghai.mp4" type="video/mp4">
+    <source src="/uploads/china_title_final_full.mp4" type="video/mp4">
   </video>
 </div>
 
