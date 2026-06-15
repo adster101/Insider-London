@@ -14,7 +14,7 @@ date: 2026-06-16 16:30:00 Z
   </video>
 </div>
 
-This week, we take a look at Shanghai’s AI Tower in the West Bund innovation cluster, part of Insider London’s China Programme. We ask what it shows us about the next stage of artificial intelligence. 
+This week, we take a look at **Shanghai’s AI Tower** in the West Bund innovation cluster, part of Insider London’s China Programme. We ask what it shows us about the next stage of artificial intelligence. 
 
 #### From waterfront regeneration to AI cluster
 
