@@ -9,7 +9,7 @@ date: 2026-06-16 16:30:00 Z
     preload="metadata"
     style="width: 100%; height: auto; border-radius: 4px;">
     
-    <source src="/assets/ai cnter shanghai.mp4" type="video/mp4">
+    <source src="/assets/ai_center_shanghai.mp4" type="video/mp4">
   </video>
 </div>
 
