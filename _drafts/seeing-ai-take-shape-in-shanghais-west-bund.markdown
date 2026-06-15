@@ -1,6 +1,6 @@
 ---
 title: Seeing AI Take Shape in Shanghai’s West Bund
-date: 2026-06-15 16:30:00 Z
+date: 2026-06-16 16:30:00 Z
 ---
 
 <div class="c-video c-video--inline" style="margin-bottom: 24px">
