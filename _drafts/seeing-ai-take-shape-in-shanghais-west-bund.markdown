@@ -7,6 +7,7 @@ date: 2026-06-16 16:30:00 Z
   <video 
     controls
     preload="metadata"
+    poster="/uploads/backend-api"
     style="width: 100%; height: auto; border-radius: 4px;">
     
     <source src="/uploads/ai%20cnter%20shanghai.mp4" type="video/mp4">
