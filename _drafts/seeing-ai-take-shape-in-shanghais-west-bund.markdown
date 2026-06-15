@@ -10,7 +10,7 @@ date: 2026-06-16 16:30:00 Z
     poster="/uploads/backend-api"
     style="width: 100%; height: auto; border-radius: 4px;">
     
-    <source src="/uploads/ai%20cnter%20shanghai.mp4" type="video/mp4">
+    <source src="/uploads/ai cnter shanghai.mp4" type="video/mp4">
   </video>
 </div>
 
