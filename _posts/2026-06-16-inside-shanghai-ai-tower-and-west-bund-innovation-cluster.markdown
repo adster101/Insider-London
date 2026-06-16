@@ -1,6 +1,8 @@
 ---
 title: Inside Shanghai’s AI Tower and West Bund Innovation Cluster
 date: 2026-06-16 16:30:00 Z
+categories:
+- Business
 tags:
 - Shanghai AI Tower
 - West Bund AI Valley
