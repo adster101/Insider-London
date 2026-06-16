@@ -66,6 +66,17 @@ Together, examples such as QXD and Orka help the group understand the cluster as
 #### Part of Insider London’s China Programme
 
 Shanghai’s AI Tower visit is included in Insider London’s China Programme because it gives students a concentrated view of how modern technology ecosystems operate.
+<div class="c-video c-video--inline" style="margin-bottom: 24px">
+  <video 
+    controls
+    preload="metadata"
+    poster="/assets/ai_tower_thumbnail_4-55s.jpg"
+    style="width: 100%; height: auto; border-radius: 4px;">
+    
+    <source src="/assets/ai_center_shanghai.mp4" type="video/mp4">
+  </video>
+</div>
+
 
 The visit connects regeneration, major technology companies, university incubation, start-up founders and product demonstrations in one setting. It helps the group build an in-depth understanding of current technology trends and the networks that support them.
 
