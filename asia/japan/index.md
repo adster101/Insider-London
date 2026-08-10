@@ -2,7 +2,7 @@
 title: Japan Programme | Cultural Experiences
 date: 2024-02-27 15:54:00 Z
 position: 25
-heading: Tokyo
+heading: Japan
 description: Tokyo is a powerhouse of the global economy.  With a close relationship
   between government and business, go behind-the-scenes of the largest metropolitan
   economy in the world.
