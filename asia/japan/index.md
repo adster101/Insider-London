@@ -1,5 +1,5 @@
 ---
-title: Tokyo Programme | Cultural Experiences
+title: Japan Programme | Cultural Experiences
 date: 2024-02-27 15:54:00 Z
 position: 25
 heading: Tokyo
