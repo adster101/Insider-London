@@ -44,9 +44,9 @@ nav: london
 layout: programme
 ---
 
-<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Company Visits' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Company Visit Brochure Autumn_2025.pdf">View Brochure</a>
+<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Company Visits' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Company Visit Brochure Autumn_2026.pdf">View Brochure</a>
 
-For real business insight out of the office or classroom, then look no further than our [Company visits](#company-visits) and [Workshops](#workshops). Selected visits and workshops are now available as live online sessions for group bookings.
+For real business insight beyond the office or classroom, explore our [Company Visits](#company-visits) and [Workshops](#workshops). Selected visits and workshops are also available as live online sessions for group bookings.
 
 ## Company Visits
 
@@ -54,38 +54,56 @@ For real business insight out of the office or classroom, then look no further t
   <iframe src="https://player.vimeo.com/video/378264280" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-Our company visits for students and corporate groups showcase some of the world’s most powerful companies as well as the capital’s most innovative entrepreneurs, including:
+Our company visits for students and corporate groups provide direct access to established organisations, specialist firms and some of London's most innovative businesses.
 
-- **Deliveroo** - discover the future of food delivery through Deliveroo's story. From a small London startup to a global unicorn and publicly listed company, Deliveroo is a testament to the power of innovation and entrepreneurship. Its success has transformed the way we dine and inspired many.
-- **Revolut** - leading "challenger bank" emblematic of the changing landscape of modern banking. With a relentless commitment to innovation and user satisfaction, Revolut has disrupted the status quo and set a new standard for what banking can and should be. 
-- **Guinness Ventures** - Gain insight into how Guinness Ventures manages financial investment, provides resources and network support to the companies they back, and manages existing investments.
-- **Turo** – the "Airbnb for cars", making car sharing easy, profitable and stylish. With a presence in over 7,000 cities in North America, this exciting Silicon Valley star is now making waves around the world.
-- **Transmission** - the world's largest independent global B2B marketing agency, providing award-winning full-service offerings across brand, demand, and sales. Combining data-driven intelligence, innovation, and creativity, they craft powerful marketing solutions for clients like Microsoft, LinkedIn, Dropbox, and Salesforce.
-- **Topham Guerin** - a powerhouse agency with an impressive portfolio that speaks volumes about its expertise in the heart of strategic communication. Witness the behind-the-scenes magic and gain insights into the dynamic world of political campaigning.
- 
-- **Faculty.ai** - an applied AI consultancy and technology company that helps customers transform their business via bespoke AI consultancy and Frontier, the world’s first AI operating system. They have partnered with UCL and Harvard University to publish research on the safe and ethical deployment of AI.
-- **Redhedge Asset Management** – is a London‑based company that works in the world of finance, focusing on credit trading. We offer a behind‑the‑scenes look at how professional traders work — from studying market trends to making real‑time decisions. You’ll meet experts, see the tools they use, and learn how global events can affect financial markets.
-- **Fashion Enter** - see for yourself the whole clothing manufacturing production process. At Fashion Enter, sustainability is key. The company's CAD room ensures that garment cutting is optimised to reduce wastage and maximise quality. 
-- **Bywaters** - has 70+ years of experience in driving positive environmental change. Their services minimise impact and promote a circular economy. Learn about their cutting-edge practices and sustainability advancements
-- **Kingsley Napley** -  recognised for providing the highest quality legal advice and services in the UK. A unique opportunity to learn about the firm’s operations, culture, and the legal industry.
-- **Holywell Studios** – step into one of Shoreditch’s most inspiring creative hubs and meet the people who make it happen. Explore the spaces where ideas become tracks, see the pro‑level gear in action, and hear from industry experts about the craft, the process, and the business of music. 
+### Digital platforms and consumer innovation
 
- 
-Insider London's Company Visits offer a unique and unparalleled behind-the-scenes experience for corporate groups, government officials, and student groups alike. Our visits are the perfect way to explore thriving business models and make vital contacts with industry leaders. You'll gain valuable insights into the key challenges facing specific industries in the modern world.
+- **Turo** - explore how a global car-sharing marketplace connects local hosts with people who need a vehicle. The visit examines platform economics, trust and safety, customer experience and the changing relationship between access and ownership.
 
-E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose from our extensive list of partners. With opportunities for a variety of groups, with sizes from 6-80 people, we will create a bespoke business programme for your precise professional or academic needs.
+### Finance, fintech and investment
+
+- **Revolut** - discover how a digital financial platform has challenged traditional banking through rapid product development, international expansion and a mobile-first customer experience.
+- **Guinness Ventures** - gain insight into how growth-stage businesses are assessed, funded and supported. Explore investment selection, portfolio management and the networks that help ambitious companies scale.
+- **Redhedge Asset Management** - step inside specialist credit investing and see how professionals combine market research, quantitative modelling and risk control. The visit connects global events with real-time decisions in fixed-income markets.
+- **K3 Advantage** - learn how transaction, tax and deal advisers use financial due diligence, data analytics and commercial judgement to support growing businesses, acquisitions and investment decisions. The visit also explores careers in advisory and how AI is changing entry-level finance work.
+
+### AI, data and cybersecurity
+
+- **Faculty.ai** - see how applied AI is used to solve complex operational and decision-making problems across business, healthcare, energy and government. The visit explores commercial AI delivery, responsible deployment and the skills needed to turn models into practical results.
+- **CyPro** - explore how cybersecurity specialists help high-growth companies reduce risk and build security capabilities that can scale with the business. Topics can include cyber strategy, threat monitoring, compliance, incident readiness and careers in security.
+- **Twin Insights** - discover how occupancy, security, fire, facilities and asset data can be brought together in one live digital twin. The visit examines smarter building management, safety, operational efficiency and data-led sustainability.
+
+### Marketing, communications and talent
+
+- **Topham Guerin** - go behind the scenes of strategic communication and digital campaigning. Explore how fast-moving creative teams use research, content, audience insight and rapid response across political and corporate campaigns.
+- **Wiser** - discover how an employer-branding and early-talent agency helps organisations attract, engage and retain people. The visit connects research and strategy with recruitment marketing, social media, film, careers websites and campus campaigns.
+
+### Creative industries and media
+
+- **New Genre** - meet a global design and technology studio working across strategy, brand systems, digital products and scalable experiences. Explore how multidisciplinary teams turn emerging ideas into distinctive brands and practical digital work.
+- **Wonder Studios** - enter an AI-native entertainment company rethinking how film, advertising and original intellectual property are created. The visit explores the relationship between human taste and generative tools, new production workflows, creator communities and careers in the changing screen industries.
+
+### Sustainability, manufacturing and the built environment
+
+- **Bywaters** - learn how recycling, waste collection, data and processing technology support a circular economy. The visit shows how organisations can reduce environmental impact while improving operational efficiency.
+- **Fashion Enter** - see the clothing-manufacturing process at close range, from digital pattern cutting to production. Explore ethical manufacturing, skills, traceability and how technology can reduce waste and improve quality.
+- **Berkeley Group** - examine how complex brownfield sites are transformed into homes, public spaces and long-term neighbourhoods. The visit explores regeneration, planning, design, construction, sustainability, community engagement and project delivery.
+
+Insider London's Company Visits offer a distinctive behind-the-scenes experience for student groups, corporate teams and government delegations. Each programme is shaped around the group's academic or professional interests, connecting business models with the practical challenges facing each industry.
+
+E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose from our extensive network of partners. We create bespoke business programmes for groups of 6-80 people.
 
 ## Workshops
 
-Insider London also hosts engaging and interactive workshops with top industry professionals. The precise subject matter of talks and workshops can be oriented around the interests and requirements of your students or corporate group.
+Insider London hosts engaging, interactive workshops with experienced industry professionals. Each session can be adapted to the interests, level and objectives of a student or corporate group.
 
-- **Fintech for the Future** – an ideas exchange between some of the UK’s most innovative fintech companies. With a carefully curated selection of start-ups.
-- **Music Production and Media Workshop** –  learn from industry pros how to shape your sound, plan your launch, and build your brand. We’ll cover production essentials, distribution, release strategy, marketing, visuals, and sync opportunities — giving you the complete roadmap to get your music heard.
+- **Fintech for the Future** - exchange ideas with a carefully selected group of UK fintech businesses and explore how new products respond to major challenges across finance and other industries.
+- **Music Production and Media Workshop** - learn from industry professionals how to shape your sound, plan a launch and build a brand. The workshop covers production essentials, distribution, release strategy, marketing, visuals and sync opportunities.
+- **Venture Capital Workshop** - think like an early-stage investor by assessing a startup's problem, market, team, traction and growth potential. Participants build an investment case, identify the main risks and defend a funding decision with guidance from Blue Lake VC.
+- **Business Model Canvas** - a practical introduction to entrepreneurship and use an accessible one-page framework to connect customers, value proposition, operations, partners, costs and revenue before presenting their business model.
+- **Entrepreneurship AI Workshop** - turn a real customer problem into a testable AI-enabled business idea. Participants examine where AI creates genuine value, what data and resources the concept needs, its main costs and risks, and how to communicate the proposition in a concise pitch.
+- **Leadership Workshop** - develop the confidence and people skills needed to lead effectively. With guidance from an expert coach, participants practise influencing, negotiation, decision-making and different leadership approaches through realistic challenges.
+
+Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your educational package.
 
 
-- **Business Model Canvas** – a fantastic introductory session for students. This workshop introduces critical key considerations for budding entrepreneurs when creating their business model
-- **Venture Capital Workshop**  - an interactive learning experience fosters a collaborative environment where students can learn from each other and seasoned industry professionals.
-- **Leadership Workshop** - learn how to lead with confidence, inspire your team, and deliver results. With guidance from an expert coach, you’ll sharpen your influencing and negotiating skills, explore different leadership styles, and practise the people skills that drive success — all tailored to your business goals.
-
-
-Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your perfect educational package.
