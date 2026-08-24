@@ -44,7 +44,7 @@ nav: london
 layout: programme
 ---
 
-<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Company Visits' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Company Visit Brochure Autumn_2026.pdf">View Brochure</a>
+<a onclick="gtag('event', 'Click', { 'event_category': 'Brochure', 'event_label':'Company Visits' });" class="c-btn c-btn--primary c-btn--red" href="/assets/brochures/Insider-London-Company-Visits-Brochure-24-Aug-2026.pdf">View Brochure</a>
 
 For real business insight beyond the office or classroom, explore our [Company Visits](#company-visits) and [Workshops](#workshops). Selected visits and workshops are also available as live online sessions for group bookings.
 
