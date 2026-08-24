@@ -101,7 +101,7 @@ Insider London hosts engaging, interactive workshops with experienced industry p
 - **Music Production and Media Workshop** - learn from industry professionals how to shape your sound, plan a launch and build a brand. The workshop covers production essentials, distribution, release strategy, marketing, visuals and sync opportunities.
 - **Venture Capital Workshop** - think like an early-stage investor by assessing a startup's problem, market, team, traction and growth potential. Participants build an investment case, identify the main risks and defend a funding decision with guidance from Blue Lake VC.
 - **Business Model Canvas** - a practical introduction to entrepreneurship and use an accessible one-page framework to connect customers, value proposition, operations, partners, costs and revenue before presenting their business model.
-- **Entrepreneurship AI Workshop** - turn a real customer problem into a testable AI-enabled business idea. Participants examine where AI creates genuine value, what data and resources the concept needs, its main costs and risks, and how to communicate the proposition in a concise pitch.
+- **Entrepreneurship AI Workshop** - turn a real customer problem into a testable  business idea by using AI tools to develop concepts, shape narratives, test assumptions, and build pitch decks under real time pressure.
 - **Leadership Workshop** - develop the confidence and people skills needed to lead effectively. With guidance from an expert coach, participants practise influencing, negotiation, decision-making and different leadership approaches through realistic challenges.
 
 Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your educational package.
