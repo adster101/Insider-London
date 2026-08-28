@@ -85,9 +85,10 @@ Our company visits for students and corporate groups provide direct access to es
 
 ### Sustainability, manufacturing and the built environment
 
+- **Berkeley Group** - examine how complex brownfield sites are transformed into homes, public spaces and long-term neighbourhoods. The visit explores regeneration, planning, design, construction, sustainability, community engagement and project delivery.
 - **Bywaters** - learn how recycling, waste collection, data and processing technology support a circular economy. The visit shows how organisations can reduce environmental impact while improving operational efficiency.
 - **Fashion Enter** - see the clothing-manufacturing process at close range, from digital pattern cutting to production. Explore ethical manufacturing, skills, traceability and how technology can reduce waste and improve quality.
-- **Berkeley Group** - examine how complex brownfield sites are transformed into homes, public spaces and long-term neighbourhoods. The visit explores regeneration, planning, design, construction, sustainability, community engagement and project delivery.
+
 
 Insider London's Company Visits offer a distinctive behind-the-scenes experience for student groups, corporate teams and government delegations. Each programme is shaped around the group's academic or professional interests, connecting business models with the practical challenges facing each industry.
 
