@@ -46,7 +46,5 @@ Businesses face a different challenge. Employees are often quick to experiment w
 
 CyPro helps organisations map where AI is already being used, identify the data involved and assign responsibility for each application. It can then support the creation of clear rules, including which tools are approved, which uses require permission and which activities are too risky. Keeping a central register also gives leaders a more accurate picture of how quickly AI is spreading through the organisation.
 
-
-
 *Through our new company visit partnership, groups will meet the specialists behind the business and explore how CyPro protects data, manages risk and makes cyber security part of a company’s growth strategy.
 To discuss a bespoke [Company Visits](https://www.insiderlondon.com/london/company-visits/) or business programme, email [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
