@@ -38,16 +38,15 @@ The second area is continuous support. CyPro provides virtual security leadershi
 
 This model allows a smaller company to draw on a complete security team without recruiting every specialist itself. The level of support can then expand as the business grows.
 
-## The New Challenge of Artificial Intelligence
+#### The New Challenge of Artificial Intelligence
 
-Artificial intelligence is changing both sides of cyber security. Criminals can use it to create more convincing scams or carry out attacks more efficiently. Businesses, meanwhile, are introducing AI tools that may process confidential information or influence decisions.
+Artificial intelligence is changing both sides of cyber security. Criminals can use it to write more convincing phishing messages, imitate familiar styles of communication and search stolen information more quickly. It can also lower the barrier to entry, allowing less experienced attackers to work at greater speed and scale.
 
-CyPro helps organisations discover where AI is already being used, establish clear rules and introduce appropriate human oversight. It also supports secure AI adoption and preparation for the ISO 42001 standard for AI management.
+Businesses face a different challenge. Employees are often quick to experiment with new AI tools, sometimes before their organisation has decided what information can be shared or how the results should be checked. A member of staff might paste customer data, a contract or an internal report into a public platform without realising that confidential information has left the company’s controlled environment. This informal use is sometimes described as “shadow AI”.
 
-#### Meeting the People Behind the Business
+CyPro helps organisations map where AI is already being used, identify the data involved and assign responsibility for each application. It can then support the creation of clear rules, including which tools are approved, which uses require permission and which activities are too risky. Keeping a central register also gives leaders a more accurate picture of how quickly AI is spreading through the organisation.
 
-Through our new company visit partnership, groups will meet the specialists behind the business and explore how CyPro protects data, manages risk and makes cyber security part of a company’s growth strategy.
 
-Insider London’s [Company Visits](https://www.insiderlondon.com/london/company-visits/) give student, professional and corporate groups direct access to innovative companies and the people shaping their industries.
 
-*To discuss a bespoke company visit or business programme, email [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
+*Through our new company visit partnership, groups will meet the specialists behind the business and explore how CyPro protects data, manages risk and makes cyber security part of a company’s growth strategy.
+To discuss a bespoke [Company Visits](https://www.insiderlondon.com/london/company-visits/) or business programme, email [contact@insiderlondon.com](mailto:contact@insiderlondon.com).*
