@@ -99,11 +99,11 @@ E-mail [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to choose f
 Insider London hosts engaging, interactive workshops with experienced industry professionals. Each session can be adapted to the interests, level and objectives of a student or corporate group.
 
 - **Fintech for the Future** - exchange ideas with a carefully selected group of UK fintech businesses and explore how new products respond to major challenges across finance and other industries.
-- **Music Production and Media Workshop** - learn from industry professionals how to shape your sound, plan a launch and build a brand. The workshop covers production essentials, distribution, release strategy, marketing, visuals and sync opportunities.
 - **Venture Capital Workshop** - think like an early-stage investor by assessing a startup's problem, market, team, traction and growth potential. Participants build an investment case, identify the main risks and defend a funding decision with guidance from Blue Lake VC.
+- **Entrepreneurship and AI Workshop** - turn a real customer problem into a testable  business idea by using AI tools to develop concepts, shape narratives, test assumptions, and build pitch decks under real time pressure.
 - **Business Model Canvas** - a practical introduction to entrepreneurship and use an accessible one-page framework to connect customers, value proposition, operations, partners, costs and revenue before presenting their business model.
-- **Entrepreneurship AI Workshop** - turn a real customer problem into a testable  business idea by using AI tools to develop concepts, shape narratives, test assumptions, and build pitch decks under real time pressure.
 - **Leadership Workshop** - develop the confidence and people skills needed to lead effectively. With guidance from an expert coach, participants practise influencing, negotiation, decision-making and different leadership approaches through realistic challenges.
+- **Music Production and Media Workshop** - learn from industry professionals how to shape your sound, plan a launch and build a brand. The workshop covers production essentials, distribution, release strategy, marketing, visuals and sync opportunities.
 
 Get in touch via [contact@insiderlondon.com](mailto:contact@insiderlondon.com) to start creating your educational package.
 
