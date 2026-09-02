@@ -11,23 +11,29 @@ tags:
 - all
 heading: Company Visits & Workshops  - For Schools & Corporate Groups
 gallery:
-- image: "/uploads/bp-slider.jpg"
-  caption: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
-  alt: Students from Limkokwing University visiting BP Trading at 1 Canary Wharf
-- image: "/uploads/IMG-20250310-WA0003.jpg"
-  caption: Computer Science Students at Agribot AI
-  alt: 'Computer Science Students at Agribot AI '
-- image: "/uploads/tribal%20worldwide%20high%20commission%20gujurat.jpg"
-  caption: Indian professors in conjunction with the High Commission of Gujurat visiting
-    Tribal Worldwide
-  alt: Indian professors in conjunction with the High Commission of Gujurat visiting
-    Tribal Worldwide
+- image: "/uploads/TURO.jpg"
+  caption: Visit from the French MA students at Turo learning how global car-sharing
+    marketplace connects people
+  alt: Visit from the French MA students at Turo learning how global car-sharing marketplace
+    connects people
+- image: "/uploads/mia's%20workshop.jpg"
+  caption: Students pitching their decks built using AI tools at Entrepreneurship
+    and AI Workshop
+  alt: Students pitching their decks built using AI tools at Entrepreneurship and
+    AI Workshop
+- image: "/uploads/20260826_150605-EDIT-a6abdc.jpg"
+  caption: Visit at CyPro where National Chengchi University explored the challenge
+    of adopting AI responsibly
+  alt: Visit at CyPro where National Chengchi University explored the challenge of
+    adopting AI responsibly
 - image: "/uploads/received_256227877388606.jpeg"
   caption: 'Students at Holywell Studios Workshop Writing a New Song '
   alt: Students at Holywell Studios Workshop
-- image: "/uploads/fintech%20workshop%20IBK.jpg"
-  caption: Industrial Bank of Korea outside our  Fintech for the Future Workshop
-  alt: Industrial Bank of Korea outside our  Fintech for the Future Workshop
+- image: "/uploads/wiser.JPG"
+  caption: Wits Business School MBAs at Wiser discovering how an employer-branding
+    and early-talent agency works
+  alt: Wits Business School MBAs at Wiser discovering how an employer-branding and
+    early-talent agency works
 - image: "/uploads/l39%20Kick.jpg"
   caption: Students discovering innovative fintech Level39 at Canary Wharf
   alt: Students discovering fintech Level39 at Canary Wharf
@@ -100,7 +106,7 @@ Insider London hosts engaging, interactive workshops with experienced industry p
 
 - **Fintech for the Future** - exchange ideas with a carefully selected group of UK fintech businesses and explore how new products respond to major challenges across finance and other industries.
 - **Venture Capital Workshop** - think like an early-stage investor by assessing a startup's problem, market, team, traction and growth potential. Participants build an investment case, identify the main risks and defend a funding decision with guidance from Blue Lake VC.
-- **Entrepreneurship and AI Workshop** - turn a real customer problem into a testable  business idea by using AI tools to develop concepts, shape narratives, test assumptions, and build pitch decks under real time pressure.
+- **Entrepreneurship and AI Workshop** - turn a real customer problem into a testable business idea by using AI tools to develop concepts, shape narratives, test assumptions, and build pitch decks under real time pressure.
 - **Business Model Canvas** - a practical introduction to entrepreneurship and use an accessible one-page framework to connect customers, value proposition, operations, partners, costs and revenue before presenting their business model.
 - **Leadership Workshop** - develop the confidence and people skills needed to lead effectively. With guidance from an expert coach, participants practise influencing, negotiation, decision-making and different leadership approaches through realistic challenges.
 - **Music Production and Media Workshop** - learn from industry professionals how to shape your sound, plan a launch and build a brand. The workshop covers production essentials, distribution, release strategy, marketing, visuals and sync opportunities.
