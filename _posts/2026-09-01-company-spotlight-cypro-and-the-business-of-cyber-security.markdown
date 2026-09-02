@@ -1,6 +1,22 @@
 ---
 title: 'Company Spotlight: CyPro and the Business of Cyber Security'
 date: 2026-09-01 12:44:00 Z
+categories:
+- Business
+- Innovation
+- Finance
+tags:
+- CyPro
+- cyber security
+- cyber security consultancy
+- artificial intelligence
+- AI governance
+- ISO 42001
+- business growth
+- data protection
+- Canary Wharf
+- company visits
+- Insider London
 ---
 
 ![CyPro Cyber Security Manager Leonie Witte](/uploads/20260826_150605-EDIT.jpg)
